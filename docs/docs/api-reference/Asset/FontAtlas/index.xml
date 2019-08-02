@@ -1,0 +1,252 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Asset/FontAtlas</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/</link>
+    <description>Recent content in API:Asset/FontAtlas on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Asset/FontAtlas/AtlasTexture</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/AtlasTexture/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/AtlasTexture/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/FontAtlas&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;FontAtlas&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AtlasTexture: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Texture&#34;&gt;Texture&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Texture&#34;&gt;Texture&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The atlas texture.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/FontAtlas/AtlasType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/AtlasType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/AtlasType/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/FontAtlas&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;FontAtlas&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AtlasType: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/FontAssetType&#34;&gt;FontAssetType&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/FontAssetType&#34;&gt;FontAssetType&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The type of atlas used.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/FontAtlas/BitmapData</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/BitmapData/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/BitmapData/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/FontAtlas&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;FontAtlas&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+BitmapData: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Dictionary&#34;&gt;Dictionary&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#char&#34;&gt;char&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/BmpFontGlyph&#34;&gt;BmpFontGlyph&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Dictionary&#34;&gt;Dictionary&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#char&#34;&gt;char&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/BmpFontGlyph&#34;&gt;BmpFontGlyph&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/FontAtlas/Font</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/Font/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/Font/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/FontAtlas&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;FontAtlas&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Font: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Font&#34;&gt;Font&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Font&#34;&gt;Font&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The font asset that was used to generate this atlas.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/FontAtlas/FontSizePt</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/FontSizePt/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/FontSizePt/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/FontAtlas&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;FontAtlas&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FontSizePt: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The size of the font in pixels.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/FontAtlas/Format</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/Format/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/Format/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/FontAtlas&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;FontAtlas&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Format: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/RenderFormat&#34;&gt;RenderFormat&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/RenderFormat&#34;&gt;RenderFormat&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The format of the texture atlas.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/FontAtlas/Height</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/Height/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/Height/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/FontAtlas&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;FontAtlas&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Height: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The height of the atlas texture.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/FontAtlas/Material</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/Material/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/Material/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/FontAtlas&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;FontAtlas&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Material: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Material&#34;&gt;Material&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Material&#34;&gt;Material&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/FontAtlas/SetData</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/SetData/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/SetData/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/FontAtlas&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;FontAtlas&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetData (
+    atlasWidth: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;,
+    atlasHeight: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;,
+    imgBuffer: &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;[]&lt;/span&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/FontAtlas/TryGetGlyphLocation</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/TryGetGlyphLocation/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/TryGetGlyphLocation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/FontAtlas&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;FontAtlas&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TryGetGlyphLocation (
+    glyphIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint16&#34;&gt;u16&lt;/a&gt;,
+    glyphData: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/GlyphData&amp;&#34;&gt;GlyphData&amp;amp;&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/FontAtlas/Width</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/Width/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas/Width/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/FontAtlas&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;FontAtlas&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Width: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The width of the atlas texture.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

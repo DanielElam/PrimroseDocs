@@ -1,0 +1,102 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/WeldConstraint</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/WeldConstraint/</link>
+    <description>Recent content in API:Class/WeldConstraint on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/WeldConstraint/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/WeldConstraint/PartA</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/WeldConstraint/PartA/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/WeldConstraint/PartA/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/WeldConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/link.png&#34;/&gt;&amp;nbsp;WeldConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PartA: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;Part&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;Part&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The first part connected by the constraint.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/WeldConstraint/PartB</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/WeldConstraint/PartB/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/WeldConstraint/PartB/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/WeldConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/link.png&#34;/&gt;&amp;nbsp;WeldConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PartB: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;Part&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;Part&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The second part connected by the constraint.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/WeldConstraint/UpdateOffsets</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/WeldConstraint/UpdateOffsets/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/WeldConstraint/UpdateOffsets/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/WeldConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/link.png&#34;/&gt;&amp;nbsp;WeldConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+UpdateOffsets(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/WeldConstraint/UpdatePosition</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/WeldConstraint/UpdatePosition/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/WeldConstraint/UpdatePosition/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/WeldConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/link.png&#34;/&gt;&amp;nbsp;WeldConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+UpdatePosition (
+    value: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/CFrame&amp;&#34;&gt;CFrame&amp;amp;&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,210 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/ReflectionProbe</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/</link>
+    <description>Recent content in API:Class/ReflectionProbe on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/ReflectionProbe/Capture</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/Capture/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/Capture/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/probe.png&#34;/&gt;&amp;nbsp;ReflectionProbe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Capture(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Asynchronously captures faces of the cubemap.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReflectionProbe/Cubemap</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/Cubemap/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/Cubemap/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/probe.png&#34;/&gt;&amp;nbsp;ReflectionProbe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Cubemap: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Texture&#34;&gt;Texture&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Texture&#34;&gt;Texture&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReflectionProbe/CullingMask</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/CullingMask/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/CullingMask/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/probe.png&#34;/&gt;&amp;nbsp;ReflectionProbe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CullingMask: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Allows certain objects to be culled during capture.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReflectionProbe/EnableHDR</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/EnableHDR/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/EnableHDR/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/probe.png&#34;/&gt;&amp;nbsp;ReflectionProbe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+EnableHDR: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the probe captures an HDR reflection map.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReflectionProbe/Importance</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/Importance/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/Importance/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/probe.png&#34;/&gt;&amp;nbsp;ReflectionProbe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Importance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Used to break ties when an object is within the range of multiple probes.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;
+If two probes overlap an object and they both have the same importance level, blending will be used.
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReflectionProbe/Intensity</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/Intensity/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/Intensity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/probe.png&#34;/&gt;&amp;nbsp;ReflectionProbe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Intensity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The intensity multiplier of the reflection.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReflectionProbe/IsPreviewVisible</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/IsPreviewVisible/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/IsPreviewVisible/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/probe.png&#34;/&gt;&amp;nbsp;ReflectionProbe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsPreviewVisible: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReflectionProbe/Resolution</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/Resolution/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/Resolution/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/probe.png&#34;/&gt;&amp;nbsp;ReflectionProbe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Resolution: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The resolution of the captured cubemap.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReflectionProbe/Shape</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/Shape/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe/Shape/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/probe.png&#34;/&gt;&amp;nbsp;ReflectionProbe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Shape: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Shape&#34;&gt;Shape&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Shape&#34;&gt;Shape&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The shape of the probe. Can be either a cube or sphere.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,148 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/HistoryService</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/</link>
+    <description>Recent content in API:Class/HistoryService on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/HistoryService/CanRedo</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/CanRedo/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/CanRedo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HistoryService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/clock.png&#34;/&gt;&amp;nbsp;HistoryService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CanRedo(): &lt;div class=&#34;tuple&#34;&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/ValueTuple&#34;&gt;&lt;/a&gt;(&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;)&lt;/div&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;div class=&#34;tuple&#34;&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/ValueTuple&#34;&gt;&lt;/a&gt;(&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;)&lt;/div&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/Redo&#34; &gt;Redo&lt;/a&gt; can be successfully called.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HistoryService/CanUndo</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/CanUndo/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/CanUndo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HistoryService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/clock.png&#34;/&gt;&amp;nbsp;HistoryService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CanUndo(): &lt;div class=&#34;tuple&#34;&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/ValueTuple&#34;&gt;&lt;/a&gt;(&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;)&lt;/div&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;div class=&#34;tuple&#34;&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/ValueTuple&#34;&gt;&lt;/a&gt;(&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;)&lt;/div&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/Undo&#34; &gt;Undo&lt;/a&gt; can be successfully called.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HistoryService/Redo</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/Redo/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/Redo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HistoryService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/clock.png&#34;/&gt;&amp;nbsp;HistoryService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Redo(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Executes the last undone action.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HistoryService/SetEnabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/SetEnabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/SetEnabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HistoryService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/clock.png&#34;/&gt;&amp;nbsp;HistoryService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetEnabled (
+    enabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Sets whether or not the service is enabled.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HistoryService/SetWaypoint</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/SetWaypoint/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/SetWaypoint/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HistoryService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/clock.png&#34;/&gt;&amp;nbsp;HistoryService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetWaypoint (
+    waypoint: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Saves a waypoint in history.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HistoryService/Undo</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/Undo/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HistoryService/Undo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HistoryService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/clock.png&#34;/&gt;&amp;nbsp;HistoryService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Undo(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Undoes the last action.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

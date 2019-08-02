@@ -1,0 +1,246 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/HingeConstraint</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/</link>
+    <description>Recent content in API:Class/HingeConstraint on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/HingeConstraint/ActuatorType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/ActuatorType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/ActuatorType/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;HingeConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ActuatorType: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/ActuatorType&#34;&gt;ActuatorType&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/ActuatorType&#34;&gt;ActuatorType&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines whether the rotation is actuated and, if so, what kind of actutation.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HingeConstraint/AngularSpeed</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/AngularSpeed/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/AngularSpeed/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;HingeConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AngularSpeed: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HingeConstraint/AngularVelocity</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/AngularVelocity/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/AngularVelocity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;HingeConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AngularVelocity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Summary&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HingeConstraint/CurrentAngle</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/CurrentAngle/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/CurrentAngle/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;HingeConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CurrentAngle: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The current angle of the hinge.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HingeConstraint/LimitsEnabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/LimitsEnabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/LimitsEnabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;HingeConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LimitsEnabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines whether the range of rotation should be limited.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HingeConstraint/LowerAngle</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/LowerAngle/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/LowerAngle/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;HingeConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LowerAngle: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HingeConstraint/MotorMaxAcceleration</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/MotorMaxAcceleration/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/MotorMaxAcceleration/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;HingeConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MotorMaxAcceleration: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Summary&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HingeConstraint/MotorMaxTorque</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/MotorMaxTorque/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/MotorMaxTorque/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;HingeConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MotorMaxTorque: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Summary&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HingeConstraint/ServoMaxTorque</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/ServoMaxTorque/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/ServoMaxTorque/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;HingeConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ServoMaxTorque: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Summary&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HingeConstraint/TargetAngle</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/TargetAngle/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/TargetAngle/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;HingeConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TargetAngle: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Summary&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HingeConstraint/UpperAngle</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/UpperAngle/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint/UpperAngle/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HingeConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;HingeConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+UpperAngle: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

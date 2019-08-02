@@ -1,0 +1,288 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/Ocean</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/</link>
+    <description>Recent content in API:Class/Ocean on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/Ocean/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/Ocean/CFrame</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/CFrame/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/CFrame/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Ocean&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/waves2.png&#34;/&gt;&amp;nbsp;Ocean&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CFrame: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Ocean/CausticDepth</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/CausticDepth/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/CausticDepth/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Ocean&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/waves2.png&#34;/&gt;&amp;nbsp;Ocean&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CausticDepth: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Ocean/CausticIntensity</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/CausticIntensity/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/CausticIntensity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Ocean&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/waves2.png&#34;/&gt;&amp;nbsp;Ocean&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CausticIntensity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Ocean/CausticTiling</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/CausticTiling/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/CausticTiling/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Ocean&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/waves2.png&#34;/&gt;&amp;nbsp;Ocean&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CausticTiling: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Ocean/Enabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/Enabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/Enabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Ocean&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/waves2.png&#34;/&gt;&amp;nbsp;Ocean&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Enabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Ocean/Material</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/Material/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/Material/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Ocean&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/waves2.png&#34;/&gt;&amp;nbsp;Ocean&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Material: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Material&#34;&gt;Material&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Material&#34;&gt;Material&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The material to render the ocean with.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Ocean/Reset</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/Reset/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/Reset/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Ocean&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/waves2.png&#34;/&gt;&amp;nbsp;Ocean&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Reset(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Ocean/Size</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/Size/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/Size/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Ocean&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/waves2.png&#34;/&gt;&amp;nbsp;Ocean&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Size: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Ocean/WavesAmount</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/WavesAmount/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/WavesAmount/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Ocean&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/waves2.png&#34;/&gt;&amp;nbsp;Ocean&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+WavesAmount: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Ocean/WavesSize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/WavesSize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/WavesSize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Ocean&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/waves2.png&#34;/&gt;&amp;nbsp;Ocean&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+WavesSize: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Ocean/WavesSpeed</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/WavesSpeed/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/WavesSpeed/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Ocean&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/waves2.png&#34;/&gt;&amp;nbsp;Ocean&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+WavesSpeed: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Ocean/WindDirection</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/WindDirection/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/WindDirection/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Ocean&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/waves2.png&#34;/&gt;&amp;nbsp;Ocean&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+WindDirection: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Ocean/WindSpeed</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/WindSpeed/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Ocean/WindSpeed/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Ocean&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/waves2.png&#34;/&gt;&amp;nbsp;Ocean&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+WindSpeed: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

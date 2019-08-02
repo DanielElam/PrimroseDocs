@@ -1,0 +1,342 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/Bone</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/</link>
+    <description>Recent content in API:Class/Bone on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/Bone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/Bone/BindTransform</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/BindTransform/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/BindTransform/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+BindTransform: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat4&#34;&gt;Mat4&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat4&#34;&gt;Mat4&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The inverse absolute bind transform.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/CFrame</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/CFrame/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/CFrame/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CFrame: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The world space CFrame.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/Index</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/Index/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/Index/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Index: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/InstanceSpaceCFrame</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/InstanceSpaceCFrame/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/InstanceSpaceCFrame/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+InstanceSpaceCFrame: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/InstanceSpaceTransform</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/InstanceSpaceTransform/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/InstanceSpaceTransform/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+InstanceSpaceTransform: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat4&#34;&gt;Mat4&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat4&#34;&gt;Mat4&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The transform of the bone relative to the SkeletalMesh instance.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/InstanceSpaceTransform2</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/InstanceSpaceTransform2/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/InstanceSpaceTransform2/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+InstanceSpaceTransform2: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat4&#34;&gt;Mat4&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat4&#34;&gt;Mat4&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/IsRoot</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/IsRoot/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/IsRoot/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsRoot: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/LocalBindTransform</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/LocalBindTransform/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/LocalBindTransform/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LocalBindTransform: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat4&#34;&gt;Mat4&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat4&#34;&gt;Mat4&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/LocalCFrame</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/LocalCFrame/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/LocalCFrame/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LocalCFrame: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/LocalPosition</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/LocalPosition/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/LocalPosition/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LocalPosition: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/LocalRotation</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/LocalRotation/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/LocalRotation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LocalRotation: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/LocalTransform</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/LocalTransform/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/LocalTransform/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LocalTransform: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat4&#34;&gt;Mat4&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat4&#34;&gt;Mat4&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/Scale</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/Scale/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/Scale/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Scale: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/Size</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/Size/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/Size/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Size: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/Skeleton</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/Skeleton/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/Skeleton/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Skeleton: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;SkeletonInstance&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;SkeletonInstance&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Bone/TranslationRetargeting</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Bone/TranslationRetargeting/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Bone/TranslationRetargeting/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;Bone&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TranslationRetargeting: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/BoneTranslationRetargetingMode&#34;&gt;BoneTranslationRetargetingMode&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/BoneTranslationRetargetingMode&#34;&gt;BoneTranslationRetargetingMode&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

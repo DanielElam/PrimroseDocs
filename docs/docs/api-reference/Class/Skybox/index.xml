@@ -1,0 +1,99 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/Skybox</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/Skybox/</link>
+    <description>Recent content in API:Class/Skybox on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/Skybox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/Skybox/Dirty</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Skybox/Dirty/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Skybox/Dirty/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Skybox&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;Skybox&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Dirty(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Skybox/ImageId</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Skybox/ImageId/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Skybox/ImageId/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Skybox&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;Skybox&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ImageId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The cubemap texture.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Skybox/IsLoaded</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Skybox/IsLoaded/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Skybox/IsLoaded/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Skybox&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;Skybox&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsLoaded: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Skybox/Shape</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Skybox/Shape/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Skybox/Shape/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Skybox&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;Skybox&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Shape: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Shape&#34;&gt;Shape&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Shape&#34;&gt;Shape&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

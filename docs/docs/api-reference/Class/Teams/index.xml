@@ -1,0 +1,62 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/Teams</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/Teams/</link>
+    <description>Recent content in API:Class/Teams on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/Teams/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/Teams/GetTeams</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Teams/GetTeams/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Teams/GetTeams/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Teams&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/folder_football.png&#34;/&gt;&amp;nbsp;Teams&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetTeams(): &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Team&#34;&gt;Team&lt;/a&gt;[]&lt;/span&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Team&#34;&gt;Team&lt;/a&gt;[]&lt;/span&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns a list of existing teams.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Teams/RebalanceTeams</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Teams/RebalanceTeams/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Teams/RebalanceTeams/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Teams&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/folder_football.png&#34;/&gt;&amp;nbsp;Teams&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RebalanceTeams (
+    method: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/TeamBalanceMethod&#34;&gt;TeamBalanceMethod&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Rebalances players across teams.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

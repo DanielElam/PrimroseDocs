@@ -1,0 +1,153 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/NetworkClient</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient/</link>
+    <description>Recent content in API:Class/NetworkClient on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/NetworkClient/Connect</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient/Connect/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient/Connect/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/client_network.png&#34;/&gt;&amp;nbsp;NetworkClient&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Connect (
+    serverIP: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;,
+    serverPort: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Creates a &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player/&#34; &gt;Player&lt;/a&gt; object and attempts to connect to the server.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkClient/Disconnect</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient/Disconnect/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient/Disconnect/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/client_network.png&#34;/&gt;&amp;nbsp;NetworkClient&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Disconnect (
+    message: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Disconnect this client from the server.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkClient/PlayerConnect</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient/PlayerConnect/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient/PlayerConnect/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/client_network.png&#34;/&gt;&amp;nbsp;NetworkClient&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PlayerConnect (
+    userId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;,
+    serverIP: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;,
+    serverPort: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;,
+    username: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkClient/ReplayReplicator</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient/ReplayReplicator/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient/ReplayReplicator/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/client_network.png&#34;/&gt;&amp;nbsp;NetworkClient&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ReplayReplicator: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator&#34;&gt;ReplayReplicator&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator&#34;&gt;ReplayReplicator&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The current active replay replicator.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkClient/Replicator</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient/Replicator/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient/Replicator/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/client_network.png&#34;/&gt;&amp;nbsp;NetworkClient&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Replicator: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ClientReplicator&#34;&gt;ClientReplicator&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ClientReplicator&#34;&gt;ClientReplicator&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+This local client&amp;rsquo;s replicator to the server.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkClient/Ticket</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient/Ticket/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient/Ticket/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkClient&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/client_network.png&#34;/&gt;&amp;nbsp;NetworkClient&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Ticket: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The client’s authorization ticket&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

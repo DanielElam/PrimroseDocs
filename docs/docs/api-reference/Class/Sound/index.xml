@@ -1,0 +1,417 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/Sound</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/</link>
+    <description>Recent content in API:Class/Sound on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/Sound/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/Sound/Attenuation</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Attenuation/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Attenuation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Attenuation: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AttenuationType&#34;&gt;AttenuationType&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AttenuationType&#34;&gt;AttenuationType&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The attenuation mode.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/GetPerceivedLoudness</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/GetPerceivedLoudness/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/GetPerceivedLoudness/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetPerceivedLoudness (
+    camera: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;Camera&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns how loud the sound is perceived to be by the listener in decibels.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/IsLoaded</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/IsLoaded/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/IsLoaded/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsLoaded: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets whether or not the sound has loaded.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/IsLooped</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/IsLooped/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/IsLooped/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsLooped: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+If true the audio will loop.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/IsPaused</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/IsPaused/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/IsPaused/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsPaused: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets whether or not the sound is paused.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/IsPlaying</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/IsPlaying/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/IsPlaying/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsPlaying: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets whether or not the sound is playing.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/Loudness</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Loudness/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Loudness/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Loudness: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The loudness of the sound in decibels.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/MaxDistance</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/MaxDistance/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/MaxDistance/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaxDistance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The maximum distance that the sound can be heard from.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/MinDistance</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/MinDistance/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/MinDistance/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MinDistance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The distance at which the sound will begin to attenuate.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/Pause</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Pause/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Pause/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Pause(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Pauses the sound.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/Play</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Play/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Play/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Play(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Plays the sound.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/PlaybackLength</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/PlaybackLength/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/PlaybackLength/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PlaybackLength: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Time&#34;&gt;Time&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Time&#34;&gt;Time&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/PlaybackPosition</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/PlaybackPosition/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/PlaybackPosition/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PlaybackPosition: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Time&#34;&gt;Time&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Time&#34;&gt;Time&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The playback position of the audio in seconds.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/PlaybackSpeed</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/PlaybackSpeed/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/PlaybackSpeed/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PlaybackSpeed: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The speed at which the sound is played.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/Resume</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Resume/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Resume/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Resume(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Resumes the sound.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/SoundId</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/SoundId/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/SoundId/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SoundId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Audio&#34;&gt;Audio&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Audio&#34;&gt;Audio&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The source of the media file.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/Stop</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Stop/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Stop/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Stop(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Stops the sound.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/Timeline</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Timeline/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Timeline/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Timeline: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#double&#34;&gt;f64&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#double&#34;&gt;f64&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Sound/Volume</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Volume/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Sound/Volume/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sound&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sound.png&#34;/&gt;&amp;nbsp;Sound&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Volume: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The volume multiplier of the sound.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

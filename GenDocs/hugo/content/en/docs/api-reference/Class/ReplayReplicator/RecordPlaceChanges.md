@@ -1,0 +1,16 @@
+---
+title: API:Class/ReplayReplicator/RecordPlaceChanges
+linkTitle: "RecordPlaceChanges"
+weight: 82
+date: 2019-08-02
+namespace: Primrose.DataModel.Networking.ReplayReplicator.RecordPlaceChanges
+deprecated: false
+no_list: true
+---
+Property of <a href="/docs/api-reference/Class/ReplayReplicator"><img src="/icons/silk/connect.png"/>&nbsp;ReplayReplicator</a>
+<pre class="method-declaration">
+RecordPlaceChanges: <a class="type" href="/docs/api-reference/System/Primitives#boolean">bool</a></pre>
+<b>Value Type: </b>
+<a class="type" href="/docs/api-reference/System/Primitives#boolean">bool</a>
+<br/>
+<b>Description: </b>

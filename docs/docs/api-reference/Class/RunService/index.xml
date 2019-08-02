@@ -1,0 +1,378 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/RunService</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/</link>
+    <description>Recent content in API:Class/RunService on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/RunService/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/RunService/BindToRenderStep</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/BindToRenderStep/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/BindToRenderStep/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+BindToRenderStep (
+    name: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;,
+    priority: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;,
+    function: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/LuaAction&#34;&gt;LuaAction&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#double&#34;&gt;f64&lt;/a&gt;&amp;gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/FixedTimeStep</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/FixedTimeStep/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/FixedTimeStep/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FixedTimeStep: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+A framerate-independent interval that dictates when physics calculations are performed.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/GetState</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/GetState/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/GetState/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetState(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SimulationState&#34;&gt;SimulationState&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SimulationState&#34;&gt;SimulationState&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/IsClient</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/IsClient/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/IsClient/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsClient(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns true if the game is running as a client.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/IsDedicatedServer</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/IsDedicatedServer/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/IsDedicatedServer/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsDedicatedServer(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns true if the game is running as a dedicated server.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/IsLevelEditor</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/IsLevelEditor/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/IsLevelEditor/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsLevelEditor(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns true if the game is running from a level editor.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/IsPaused</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/IsPaused/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/IsPaused/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsPaused(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns true if the simulation is paused.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/IsPlayMode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/IsPlayMode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/IsPlayMode/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsPlayMode(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns true if the session is in play mode.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/IsRunMode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/IsRunMode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/IsRunMode/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsRunMode(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns true if the session is in run mode.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/MaximumTimeStep</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/MaximumTimeStep/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/MaximumTimeStep/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaximumTimeStep: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+A framerate-independent interval that caps the worst case scenario when frame-rate is low. Physics calculations will not be performed for longer time than specified.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/Pause</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/Pause/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/Pause/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Pause(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Pauses the simulation.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/Play</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/Play/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/Play/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Play(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Starts or resumes the simulation as a player.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/Run</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/Run/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/Run/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Run(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Starts or resumes the simulation without a player.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/SpawnAtCamera</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/SpawnAtCamera/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/SpawnAtCamera/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SpawnAtCamera: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/Stop</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/Stop/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/Stop/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Stop(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Stops the simulation.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/TimeScale</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/TimeScale/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/TimeScale/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TimeScale: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The global time scale.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RunService/UnbindFromRenderStep</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RunService/UnbindFromRenderStep/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RunService/UnbindFromRenderStep/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/method.png&#34;/&gt;&amp;nbsp;RunService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+UnbindFromRenderStep (
+    name: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Detaches the given function from the render loop.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

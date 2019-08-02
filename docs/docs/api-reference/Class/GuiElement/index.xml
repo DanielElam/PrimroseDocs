@@ -1,0 +1,579 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/GuiElement</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/</link>
+    <description>Recent content in API:Class/GuiElement on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/AbsolutePosition</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/AbsolutePosition/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/AbsolutePosition/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AbsolutePosition: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets the absolute size of the element, with scale taken into account.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/AbsoluteSize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/AbsoluteSize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/AbsoluteSize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AbsoluteSize: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets the absolute size of the element, with scale taken into account.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/AlignmentX</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/AlignmentX/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/AlignmentX/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AlignmentX: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AlignmentX&#34;&gt;AlignmentX&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AlignmentX&#34;&gt;AlignmentX&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The horizontal alignment of the element.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/AlignmentY</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/AlignmentY/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/AlignmentY/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AlignmentY: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AlignmentY&#34;&gt;AlignmentY&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AlignmentY&#34;&gt;AlignmentY&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The vertical alignment of the element.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/AnchorPoint</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/AnchorPoint/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/AnchorPoint/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AnchorPoint: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/BackgroundColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/BackgroundColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/BackgroundColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+BackgroundColour: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The colour of the background.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/BackgroundTransparency</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/BackgroundTransparency/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/BackgroundTransparency/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+BackgroundTransparency: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/BorderColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/BorderColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/BorderColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+BorderColour: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The colour of the border.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/BorderThickness</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/BorderThickness/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/BorderThickness/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+BorderThickness: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The thickness of the border.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/ClipDescendants</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/ClipDescendants/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/ClipDescendants/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ClipDescendants: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if overflowing descendants are clipped.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/CornerRadius</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/CornerRadius/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/CornerRadius/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CornerRadius: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The radius of each corner.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/Focus</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/Focus/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/Focus/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Focus(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/Focusable</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/Focusable/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/Focusable/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Focusable: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if this element can be focused.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/Focused</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/Focused/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/Focused/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Focused: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/GetRenderRect</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/GetRenderRect/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/GetRenderRect/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetRenderRect(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Rect&#34;&gt;Rect&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Rect&#34;&gt;Rect&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/HasComponents</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/HasComponents/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/HasComponents/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+HasComponents: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/InverseClip</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/InverseClip/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/InverseClip/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+InverseClip: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/IsHitTestVisible</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/IsHitTestVisible/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/IsHitTestVisible/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsHitTestVisible: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines whether this element is ignored by hit tests.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/IsMouseDirectlyOver</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/IsMouseDirectlyOver/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/IsMouseDirectlyOver/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsMouseDirectlyOver: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the mouse is currently hovering over this element.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/IsMouseOver</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/IsMouseOver/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/IsMouseOver/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsMouseOver: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the mouse is currently hovering over this element.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/LayoutOrder</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/LayoutOrder/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/LayoutOrder/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LayoutOrder: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The layout order for the parent frame.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/PixelSnapping</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/PixelSnapping/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/PixelSnapping/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PixelSnapping: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/Position</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/Position/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/Position/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Position: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/UDim2&#34;&gt;UDim2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/UDim2&#34;&gt;UDim2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The Position of the element relative to its parent.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/Rotation</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/Rotation/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/Rotation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Rotation: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The clockwise rotation of the gui in degrees.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/Size</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/Size/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/Size/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Size: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/UDim2&#34;&gt;UDim2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/UDim2&#34;&gt;UDim2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The size of the element.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/Visible</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/Visible/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/Visible/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Visible: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if this element can be rendered.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/GuiElement/ZIndex</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/ZIndex/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/GuiElement/ZIndex/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;GuiElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ZIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The layer that this element is drawn at.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

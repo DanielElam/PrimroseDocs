@@ -1,0 +1,232 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/SoundService</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/</link>
+    <description>Recent content in API:Class/SoundService on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/SoundService/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/SoundService/AmbientReverb</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/AmbientReverb/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/AmbientReverb/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SoundService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundscape.png&#34;/&gt;&amp;nbsp;SoundService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AmbientReverb: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/ReverbType&#34;&gt;ReverbType&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/ReverbType&#34;&gt;ReverbType&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The global environment reverb type.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SoundService/DistanceFactor</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/DistanceFactor/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/DistanceFactor/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SoundService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundscape.png&#34;/&gt;&amp;nbsp;SoundService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+DistanceFactor: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Modifies the distance for every sound.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SoundService/DopplerScale</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/DopplerScale/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/DopplerScale/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SoundService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundscape.png&#34;/&gt;&amp;nbsp;SoundService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+DopplerScale: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Scales the doppler effect.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SoundService/GetPlaybackDevices</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/GetPlaybackDevices/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/GetPlaybackDevices/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SoundService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundscape.png&#34;/&gt;&amp;nbsp;SoundService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetPlaybackDevices(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Dictionary&#34;&gt;Dictionary&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Dictionary&#34;&gt;Dictionary&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns a list of active playback devices.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SoundService/GetRecordingDevices</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/GetRecordingDevices/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/GetRecordingDevices/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SoundService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundscape.png&#34;/&gt;&amp;nbsp;SoundService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetRecordingDevices(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Dictionary&#34;&gt;Dictionary&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Dictionary&#34;&gt;Dictionary&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns a list of active recording devices.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SoundService/MaxAudibleSoundCount</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/MaxAudibleSoundCount/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/MaxAudibleSoundCount/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SoundService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundscape.png&#34;/&gt;&amp;nbsp;SoundService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaxAudibleSoundCount: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SoundService/RolloffScale</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/RolloffScale/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/RolloffScale/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SoundService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundscape.png&#34;/&gt;&amp;nbsp;SoundService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RolloffScale: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines how fast sounds will drop off.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SoundService/SetEffectsChain</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/SetEffectsChain/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/SetEffectsChain/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SoundService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundscape.png&#34;/&gt;&amp;nbsp;SoundService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetEffectsChain (
+    activeEffects: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/List&#34;&gt;List&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SoundEffect&#34;&gt;SoundEffect&lt;/a&gt;&amp;gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SoundService/SetPlaybackDevice</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/SetPlaybackDevice/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/SetPlaybackDevice/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SoundService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundscape.png&#34;/&gt;&amp;nbsp;SoundService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetPlaybackDevice (
+    deviceIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Sets the device to output sound to.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SoundService/SetRecordingDevice</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/SetRecordingDevice/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SoundService/SetRecordingDevice/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SoundService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundscape.png&#34;/&gt;&amp;nbsp;SoundService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetRecordingDevice (
+    deviceIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Sets the device to record sound with.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,585 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/Lighting</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/</link>
+    <description>Recent content in API:Class/Lighting on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/Lighting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/Lighting/AmbientColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/AmbientColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/AmbientColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AmbientColour: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The colour of the flat ambient lighting.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/Brightness</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/Brightness/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/Brightness/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Brightness: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The intensity of the sun light in lux.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/Build</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/Build/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/Build/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Build(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Builds lighting.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/Date</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/Date/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/Date/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Date: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Date&#34;&gt;Date&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Date&#34;&gt;Date&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/ExtractHeightFog</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/ExtractHeightFog/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/ExtractHeightFog/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ExtractHeightFog (
+    frame: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/RenderFrame&#34;&gt;RenderFrame&lt;/a&gt;,
+    stage: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/ShadingStage&#34;&gt;ShadingStage&lt;/a&gt;,
+    view: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/RenderView&#34;&gt;RenderView&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/FogColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/FogColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/FogColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FogColour: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/FogDensity</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/FogDensity/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/FogDensity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FogDensity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/FogHeightEnd</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/FogHeightEnd/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/FogHeightEnd/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FogHeightEnd: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/FogHeightExponent</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/FogHeightExponent/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/FogHeightExponent/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FogHeightExponent: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/FogHeightStart</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/FogHeightStart/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/FogHeightStart/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FogHeightStart: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/FogLightInscatteringColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/FogLightInscatteringColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/FogLightInscatteringColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FogLightInscatteringColour: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/FogStart</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/FogStart/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/FogStart/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FogStart: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/GetMinutesAfterMidnight</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/GetMinutesAfterMidnight/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/GetMinutesAfterMidnight/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetMinutesAfterMidnight(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#double&#34;&gt;f64&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#double&#34;&gt;f64&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns the number of minutes past midnight.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/GlobalLightProbe</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/GlobalLightProbe/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/GlobalLightProbe/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GlobalLightProbe: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/LightProbe&#34;&gt;LightProbe&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/LightProbe&#34;&gt;LightProbe&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/GlobalReflectionProbe</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/GlobalReflectionProbe/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/GlobalReflectionProbe/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GlobalReflectionProbe: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;ReflectionProbe&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;ReflectionProbe&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/Latitude</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/Latitude/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/Latitude/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Latitude: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The latitude of the map for sun direction calculations.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/Longitude</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/Longitude/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/Longitude/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Longitude: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The longitude of the map for sun direction calculations.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/MoonDirection</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/MoonDirection/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/MoonDirection/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MoonDirection: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+A unit vector of the direction the moon is facing.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/OutdoorAmbient</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/OutdoorAmbient/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/OutdoorAmbient/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+OutdoorAmbient: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The darkest outdoor colour.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/SetMinutesAfterMidnight</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/SetMinutesAfterMidnight/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/SetMinutesAfterMidnight/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetMinutesAfterMidnight (
+    minutes: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#double&#34;&gt;f64&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Sets the time to the given amount of minutes past midnight.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/Sky</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/Sky/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/Sky/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Sky: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sky&#34;&gt;Sky&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sky&#34;&gt;Sky&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The sky object.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/SkyLightBrightness</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/SkyLightBrightness/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/SkyLightBrightness/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SkyLightBrightness: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Controls how bright the sky lighting is.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/SunColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/SunColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/SunColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SunColour: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The colour of the sun light.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/SunDirection</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/SunDirection/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/SunDirection/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SunDirection: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+A unit vector of the direction the sun is facing.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/SunDirectionOverride</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/SunDirectionOverride/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/SunDirectionOverride/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SunDirectionOverride: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Nullable&#34;&gt;Nullable&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Nullable&#34;&gt;Nullable&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/TimeOfDay</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/TimeOfDay/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/TimeOfDay/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TimeOfDay: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Time&#34;&gt;Time&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Time&#34;&gt;Time&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The time of day.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Lighting/Timeline</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/Timeline/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Lighting/Timeline/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lighting&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Lighting&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Timeline: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#double&#34;&gt;f64&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#double&#34;&gt;f64&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

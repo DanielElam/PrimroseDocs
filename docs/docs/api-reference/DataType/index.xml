@@ -1,0 +1,607 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:DataType</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/DataType/</link>
+    <description>Recent content in API:DataType on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/DataType/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:DataType/Vec3</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/DataType/Vec3/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/DataType/Vec3/</guid>
+      <description>
+        
+        
+        
+
+&lt;p&gt;Represents a point in 3D space with 32-bit floating-point precision&lt;/p&gt;
+
+&lt;h2 id=&#34;quick-reference&#34;&gt;Quick Reference&lt;/h2&gt;
+
+&lt;table&gt;
+    &lt;b style=&#34;
+    padding: 14px 11px;
+    display: block;
+    font-weight: 300;
+    font-size: 17pt;&#34;&gt;Constructors&lt;/b&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Syntax&lt;/th&gt;
+        &lt;th&gt;Description&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3()&lt;/td&gt;
+        &lt;td&gt;Creates a new Vec3 with X, Y, and Z values of 0.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3(x: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, y: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, z: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;)&lt;/td&gt;
+        &lt;td&gt;Creates a new Vec3 with the X, Y, and Z values specified.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3.FromNormalId(norm: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/NormalId&#34;&gt;NormalId&lt;/a&gt;)&lt;/td&gt;
+        &lt;td&gt;Creates a unit Vec3 in a particular facing direction.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3.FromAxis(axis: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Axis&#34;&gt;Axis&lt;/a&gt;)&lt;/td&gt;
+        &lt;td&gt;Creates a unit Vec3 for a particular Axis.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3.Up&lt;/td&gt;
+        &lt;td&gt;Shorthand for &lt;code&gt;Vec3(0, 1, 0)&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3.Down&lt;/td&gt;
+        &lt;td&gt;Shorthand for &lt;code&gt;Vec3(0, -1, 0)&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3.Left&lt;/td&gt;
+        &lt;td&gt;Shorthand for &lt;code&gt;Vec3(-1, 0, 0)&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3.Right&lt;/td&gt;
+        &lt;td&gt;Shorthand for &lt;code&gt;Vec3(1, 0, 0)&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3.Forward&lt;/td&gt;
+        &lt;td&gt;Shorthand for &lt;code&gt;Vec3(0, 0, -1)&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3.Backward&lt;/td&gt;
+        &lt;td&gt;Shorthand for &lt;code&gt;Vec3(0, 0, 1)&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3.One&lt;/td&gt;
+        &lt;td&gt;Shorthand for &lt;code&gt;Vec3(1, 1, 1)&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+    &lt;b style=&#34;
+    padding: 14px 11px;
+    display: block;
+    font-weight: 300;
+    font-size: 17pt;&#34;&gt;Properties&lt;/b&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Syntax&lt;/th&gt;
+        &lt;th&gt;Description&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;x: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The x-coordinate.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;y: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The y-coordinate.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;z: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The z-coordinate.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;unit: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;A normalized copy of the vector with the same direction as the original, but a magnitude of 1.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;magnitude: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The length of the vector.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;squaredMagnitude: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The length of the vector squared.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;isZero: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;Determines if the vector is zero.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+    &lt;b style=&#34;
+    padding: 14px 11px;
+    display: block;
+    font-weight: 300;
+    font-size: 17pt;&#34;&gt;Functions&lt;/b&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Syntax&lt;/th&gt;
+        &lt;th&gt;Description&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3:lerp(goal: &lt;span class=&#34;param&#34;&gt;Vec3&lt;/span&gt;, alpha: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;) -&gt; &lt;b&gt;Vec3&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Returns a Vec3 linearly interpolated between the original value and &lt;code&gt;goal&lt;/code&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3:dot(other: &lt;span class=&#34;param&#34;&gt;Vec3&lt;/span&gt;) -&gt; &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;Returns the scalar dot product of the two vectors.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3:cross(other: &lt;span class=&#34;param&#34;&gt;Vec3&lt;/span&gt;) -&gt; &lt;b&gt;Vec3&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Returns the vector cross product of the two vectors.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3:isClose(other: &lt;span class=&#34;param&#34;&gt;Vec3&lt;/span&gt;, epsilon: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;) &lt;span style=&#34;display: inline-block&#34;&gt;-&gt;&lt;/span&gt; &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;Returns true if all three axis values of the given Vec3 are within the given epsilon.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3:min() &lt;span style=&#34;display: inline-block&#34;&gt;-&gt;&lt;/span&gt; &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;Returns the smallest component of the vector.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3:max() &lt;span style=&#34;display: inline-block&#34;&gt;-&gt;&lt;/span&gt; &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;Returns the largest component of the vector.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;Vec3:abs() &lt;span style=&#34;display: inline-block&#34;&gt;-&gt;&lt;/span&gt; &lt;b&gt;Vec3&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Returns the vector with positive components.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+    &lt;b style=&#34;
+    padding: 14px 11px;
+    display: block;
+    font-weight: 300;
+    font-size: 17pt;&#34;&gt;Operators&lt;/b&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Syntax&lt;/th&gt;
+        &lt;th&gt;Description&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;b&gt;Vec3&lt;/b&gt; + &lt;b&gt;Vec3&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Returns a new Vec3 with each component of the second added to the corresponding component of the first.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;b&gt;Vec3&lt;/b&gt; - &lt;b&gt;Vec3&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Returns a new Vec3 with each component of the second subtracted from the corresponding component of the first.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;b&gt;Vec3&lt;/b&gt; * &lt;b&gt;Vec3&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Returns a new Vec3 with each component of the second multiplied the corresponding component of the first.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;b&gt;Vec3&lt;/b&gt; / &lt;b&gt;Vec3&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Returns a new Vec3 with each component of the first divided by the corresponding component of the second.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;b&gt;Vec3&lt;/b&gt; * &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Returns a new Vec3 with each component multiplied by the number.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;b&gt;Vec3&lt;/b&gt; / &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Returns a new Vec3 with each component divided by the number.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt; * &lt;b&gt;Vec3&lt;/b&gt;&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Returns a new Vec3 with each component multiplied by the number.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt; / &lt;b&gt;Vec3&lt;/b&gt;&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Returns a new Vec3 with each component divided by the number.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;b&gt;-Vec3&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Returns an inverse of the vector.&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;Part&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/editor/Widgets/Properties&#34;&gt;Properties&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:DataType/Vec2</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/DataType/Vec2/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/DataType/Vec2/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Represents a point in 3D space with 32-bit floating-point precision&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:DataType/CFrame</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/DataType/CFrame/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/DataType/CFrame/</guid>
+      <description>
+        
+        
+        
+
+&lt;p&gt;A rigid body RT (rotation-translation) transformation.&lt;/p&gt;
+
+&lt;h2 id=&#34;quick-reference&#34;&gt;Quick Reference&lt;/h2&gt;
+
+&lt;table&gt;
+    &lt;b style=&#34;
+    padding: 14px 11px;
+    display: block;
+    font-weight: 300;
+    font-size: 17pt;&#34;&gt;Constructors&lt;/b&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Syntax&lt;/th&gt;
+        &lt;th&gt;Description&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame()&lt;/td&gt;
+        &lt;td&gt;Creates a new CFrame with zero for all values. This is not a valid value, see &lt;b&gt;CFrame.Identity&lt;/b&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame(pos: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;)&lt;/td&gt;
+        &lt;td&gt;Creates a CFrame with a Vec3 position.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame(pos: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;, lookAt: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;)&lt;/td&gt;
+        &lt;td&gt;Creates a CFrame positioned at &lt;code&gt;pos&lt;/code&gt; looking towards &lt;code&gt;lookAt&lt;/code&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame(pos: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;, rotation: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Quat&#34;&gt;Quat&lt;/a&gt;)&lt;/td&gt;
+        &lt;td&gt;Creates a CFrame from a vector position and quaternion rotation.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame(pos: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;, rotation: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat3&#34;&gt;Mat3&lt;/a&gt;)&lt;/td&gt;
+        &lt;td&gt;Creates a CFrame from a vector position and matrix rotation.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame(x: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, y: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, z: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;)&lt;/td&gt;
+        &lt;td&gt;Creates a CFrame from position &lt;code&gt;(x, y, z)&lt;/code&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame(x: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, y: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, z: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, qX: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, qY: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, qZ: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, qW: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;)&lt;/td&gt;
+        &lt;td&gt;Creates a CFrame from position &lt;code&gt;(x, y, z)&lt;/code&gt; and quaternion &lt;code&gt;(qX, qY, qZ, qW)&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame(x: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, y: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, z: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, r11: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, r12: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, r13: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, r21: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, r22: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, r23: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, r31: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, r32: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, r33: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;)&lt;/td&gt;
+        &lt;td&gt;
+            Creates a CFrame from position (x, y, z) and rotation matrix
+            &lt;div style=&#34;vertical-align:middle; display: inline-block; margin: 6px; position: relative&#34;&gt;
+&lt;div style=&#34;position: absolute; top: -4px; left: -5px; bottom: -4px; border: 1px solid black; border-right: none; width:10px&#34;&gt;&lt;/div&gt;
+&lt;div style=&#34;position: absolute; top: -4px; right: -5px; bottom: -4px; border: 1px solid black; border-left: none; width:10px&#34;&gt;&lt;/div&gt;
+&lt;table style=&#34;text-align: center; font-size: 10px; line-height:10px&#34; cellspacing=&#34;5&#34; cellpadding=&#34;0&#34;&gt;
+
+&lt;tbody&gt;&lt;tr style=&#34;height: 15px&#34;&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none; min-width: 15px&#34;&gt; R&lt;sub&gt;11&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none; min-width: 15px&#34;&gt; R&lt;sub&gt;12&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none; min-width: 15px&#34;&gt; R&lt;sub&gt;13&lt;/sub&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr style=&#34;height: 15px&#34;&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none&#34;&gt; R&lt;sub&gt;21&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none&#34;&gt; R&lt;sub&gt;22&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none&#34;&gt; R&lt;sub&gt;23&lt;/sub&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr style=&#34;height: 15px&#34;&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none&#34;&gt; R&lt;sub&gt;31&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none&#34;&gt; R&lt;sub&gt;32&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none&#34;&gt; R&lt;sub&gt;33&lt;/sub&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame.fromAxisAngle(axis: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;, angle: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;)&lt;/td&gt;
+        &lt;td&gt;Creates a rotated CFrame from a unit Vec3 and a rotation in radians.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame.Angles(pitch: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, yaw: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, roll: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;)&lt;/td&gt;
+        &lt;td&gt;Same as &lt;b&gt;AnglesYXZ&lt;/b&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame.AnglesXYZ(pitch: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, yaw: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, roll: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;)&lt;/td&gt;
+        &lt;td&gt;Creates a rotated CFrame using euler angles (pitch, yaw, roll) in radians. Rotations are applied in X, Y, Z order.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame.AnglesYXZ(pitch: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, yaw: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;, roll: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;)&lt;/td&gt;
+        &lt;td&gt;Creates a rotated CFrame using euler angles (pitch, yaw, roll) in radians. Rotations are applied in Y, X, Z order.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame.Identity&lt;/td&gt;
+        &lt;td&gt;Gets a CFrame that is equal to the identity matrix.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+    &lt;b style=&#34;
+    padding: 14px 11px;
+    display: block;
+    font-weight: 300;
+    font-size: 17pt;&#34;&gt;Properties&lt;/b&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Syntax&lt;/th&gt;
+        &lt;th&gt;Description&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;p: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The 3D position of the CFrame.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;rotation: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat3&#34;&gt;Mat3&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The orientation matrix of the CFrame.&lt;/td&gt; 
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;x: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The x-component of the Vec3 position.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;y: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The y-component of the Vec3 position.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;z: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The z-component of the Vec3 position.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;lookVector: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;Same as &lt;b&gt;forward&lt;/b&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;forward: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The forward-direction component of the CFrame&#39;s orientation.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;backward: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The backward-direction component of the CFrame&#39;s orientation.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;left: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The left-direction component of the CFrame&#39;s orientation.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;right: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The right-direction component of the CFrame&#39;s orientation.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;up: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The up-direction component of the CFrame&#39;s orientation.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;down: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;The down-direction component of the CFrame&#39;s orientation.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;isZero: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;Determines if the vector is zero.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;isIdentity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;Determines if the CFrame is equal to the identity matrix.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+    &lt;b style=&#34;
+    padding: 14px 11px;
+    display: block;
+    font-weight: 300;
+    font-size: 17pt;&#34;&gt;Functions&lt;/b&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Syntax&lt;/th&gt;
+        &lt;th&gt;Description&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame:inverse() -&gt; &lt;b&gt;CFrame&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Returns the inverse of the CFrame.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame:lerp(goal: &lt;span class=&#34;param&#34;&gt;CFrame&lt;/span&gt;, alpha: &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;) -&gt; &lt;b&gt;CFrame&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;Returns a CFrame interpolated between this CFrame, and the goal CFrame, by the fraction alpha.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame:toWorldSpace(cf: &lt;span class=&#34;param&#34;&gt;CFrame&lt;/span&gt;) -&gt; &lt;b&gt;CFrame&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;Returns &lt;code&gt;cf&lt;/code&gt; transformed from Object to World coordinates. Equivalent to &lt;code&gt;CFrame * cf&lt;/code&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame:toObjectSpace(cf: &lt;span class=&#34;param&#34;&gt;CFrame&lt;/span&gt;) -&gt; &lt;b&gt;CFrame&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;Returns &lt;code&gt;cf&lt;/code&gt; transformed from World to Object coordinates. Equivalent to &lt;code&gt;CFrame.inverse() * cf&lt;/code&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame:pointToWorldSpace(v3: &lt;a class=&#34;param&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;) -&gt; &lt;b&gt;CFrame&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+        Returns a Vec3 transformed from Object to World coordinates. Equivalent to &lt;code&gt;CFrame * v3&lt;/code&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame:pointToObjectSpace(v3: &lt;a class=&#34;param&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;) -&gt; &lt;b&gt;CFrame&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+        Returns a Vec3 transformed from World to Object coordinates. Equivalent to &lt;code&gt;CFrame.inverse() * v3&lt;/code&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame:vectorToWorldSpace(v3: &lt;a class=&#34;param&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;) -&gt; &lt;b&gt;CFrame&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+        Returns a Vector3 rotated from Object to World coordinates. Equivalent to &lt;code&gt;(CFrame-CFrame.p) * v3&lt;/code&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame:vectorToObjectSpace(v3: &lt;a class=&#34;param&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;) -&gt; &lt;b&gt;CFrame&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+        Returns a Vector3 rotated from World to Object coordinates. Equivalent to &lt;code&gt;(CFrame-CFrame.p).inverse() * v3&lt;/code&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame:components() -&gt; &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Tuple&#34;&gt;Tuple&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&amp;gt;&lt;/td&gt;
+        &lt;td&gt;
+        Returns the values: x, y, z, R11, R12, R13, R21, R22, R23, R31, R32, R33 where
+        &lt;div style=&#34;display: inline-block&#34;&gt;&lt;div style=&#34;vertical-align:middle; display: inline-block; height:30px; border: 1px solid black; border-right: none; width:2px; margin-right:-2px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;vertical-align:middle; display: inline-block; height:30px; min-width:10px; font-size: 8px; line-height:10px; text-align: center&#34;&gt;&lt;div style=&#34;height: 10px;&#34;&gt;x&lt;/div&gt;&lt;div style=&#34;height: 10px;&#34;&gt;y&lt;/div&gt;&lt;div style=&#34;height: 10px;&#34;&gt;z&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;vertical-align: middle; display: inline-block; height:30px; border: 1px solid black; border-left: none; width:2px; margin-left:-2px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; 
+        is the position and
+&lt;div style=&#34;vertical-align:middle; display: inline-block; margin: 6px; position: relative&#34;&gt;
+&lt;div style=&#34;position: absolute; top: -4px; left: -5px; bottom: -4px; border: 1px solid black; border-right: none; width:10px&#34;&gt;&lt;/div&gt;
+&lt;div style=&#34;position: absolute; top: -4px; right: -5px; bottom: -4px; border: 1px solid black; border-left: none; width:10px&#34;&gt;&lt;/div&gt;
+&lt;table style=&#34;text-align: center; font-size: 10px; line-height:10px&#34; cellspacing=&#34;5&#34; cellpadding=&#34;0&#34;&gt;
+
+&lt;tbody&gt;&lt;tr style=&#34;height: 15px&#34;&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none; min-width: 15px&#34;&gt; R&lt;sub&gt;11&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none; min-width: 15px&#34;&gt; R&lt;sub&gt;12&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none; min-width: 15px&#34;&gt; R&lt;sub&gt;13&lt;/sub&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr style=&#34;height: 15px&#34;&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none&#34;&gt; R&lt;sub&gt;21&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none&#34;&gt; R&lt;sub&gt;22&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none&#34;&gt; R&lt;sub&gt;23&lt;/sub&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr style=&#34;height: 15px&#34;&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none&#34;&gt; R&lt;sub&gt;31&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none&#34;&gt; R&lt;sub&gt;32&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td style=&#34;vertical-align:middle; padding: 0; border: none&#34;&gt; R&lt;sub&gt;33&lt;/sub&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+is the rotation.
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame:toQuaterion() -&gt; &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Quat&#34;&gt;Quat&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;
+        Returns the rotation of the CFrame as a quaternion.&lt;/code&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame:toEulerAnglesXYZ() -&gt; &lt;b&gt;CFrame&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+        Returns the best guess angles that could be used to generate a CFrame using &lt;b&gt;CFrame.AnglesXYZ&lt;/b&gt;.
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&#34;data-type-name&#34;&gt;CFrame:toEulerAnglesYXZ() -&gt; &lt;b&gt;CFrame&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+        Returns the best guess angles that could be used to generate a CFrame using &lt;b&gt;CFrame.AnglesYXZ&lt;/b&gt;.
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+    &lt;b style=&#34;
+    padding: 14px 11px;
+    display: block;
+    font-weight: 300;
+    font-size: 17pt;&#34;&gt;Operators&lt;/b&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Syntax&lt;/th&gt;
+        &lt;th&gt;Description&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;span&gt;&lt;b&gt;CFrame&lt;/b&gt; * &lt;b&gt;CFrame&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
+            &lt;td&gt;Returns the composition of two CFrames. Proceeding CFrames are offsetted in relative object space by preceding CFrames when multiplied together.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;b&gt;CFrame&lt;/b&gt; * &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;Returns Vector3 transformed from Object to World coordinates.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;b&gt;CFrame&lt;/b&gt; * &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;Returns CFrame with components scaled by float32.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;b&gt;CFrame&lt;/b&gt; + &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;Returns CFrame translated in world space by Vec3.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;b&gt;CFrame&lt;/b&gt; - &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;Returns CFrame translated in world space by -Vec3.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td class=&#34;data-type-name&#34;&gt;&lt;b&gt;-CFrame&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Returns an inverse of the CFrame.&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;Part&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/editor/Widgets/Properties&#34;&gt;Properties&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,259 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/ImageLabel</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/</link>
+    <description>Recent content in API:Class/ImageLabel on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/ImageLabel/AtlasRectOffset</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/AtlasRectOffset/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/AtlasRectOffset/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/picture.png&#34;/&gt;&amp;nbsp;ImageLabel&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AtlasRectOffset: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Sets the image offset in pixels.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ImageLabel/AtlasRectSize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/AtlasRectSize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/AtlasRectSize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/picture.png&#34;/&gt;&amp;nbsp;ImageLabel&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AtlasRectSize: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Sets the size of the image rectangle in pixels.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ImageLabel/ImageColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/ImageColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/ImageColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/picture.png&#34;/&gt;&amp;nbsp;ImageLabel&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ImageColour: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Influences the colour of the image.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ImageLabel/ImageId</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/ImageId/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/ImageId/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/picture.png&#34;/&gt;&amp;nbsp;ImageLabel&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ImageId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The image file.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;
+Setting this property will clear &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/VectorImageId&#34; &gt;VectorImageId&lt;/a&gt;.
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ImageLabel/ImageTransparency</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/ImageTransparency/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/ImageTransparency/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/picture.png&#34;/&gt;&amp;nbsp;ImageLabel&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ImageTransparency: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The transparency of the image.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ImageLabel/MaskId</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/MaskId/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/MaskId/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/picture.png&#34;/&gt;&amp;nbsp;ImageLabel&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaskId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ImageLabel/MaskValue</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/MaskValue/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/MaskValue/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/picture.png&#34;/&gt;&amp;nbsp;ImageLabel&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaskValue: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ImageLabel/MovieId</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/MovieId/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/MovieId/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/picture.png&#34;/&gt;&amp;nbsp;ImageLabel&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MovieId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/MovieImage&#34;&gt;MovieImage&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/MovieImage&#34;&gt;MovieImage&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The image extend mode to use when the size of the image is bigger than the source image.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ImageLabel/PlaybackSpeed</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/PlaybackSpeed/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/PlaybackSpeed/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/picture.png&#34;/&gt;&amp;nbsp;ImageLabel&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PlaybackSpeed: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Controls the playback speed of animated image assets.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ImageLabel/ScalingMode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/ScalingMode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/ScalingMode/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/picture.png&#34;/&gt;&amp;nbsp;ImageLabel&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ScalingMode: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/ScalingMode&#34;&gt;ScalingMode&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/ScalingMode&#34;&gt;ScalingMode&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The bitmap scaling mode to use.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ImageLabel/VectorImageId</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/VectorImageId/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/VectorImageId/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/picture.png&#34;/&gt;&amp;nbsp;ImageLabel&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+VectorImageId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/VectorImage&#34;&gt;VectorImage&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/VectorImage&#34;&gt;VectorImage&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The vector graphics image file.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;
+Setting this property will clear &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ImageLabel/ImageId&#34; &gt;ImageId&lt;/a&gt;.
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

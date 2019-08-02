@@ -1,0 +1,409 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/InputService</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/</link>
+    <description>Recent content in API:Class/InputService on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/InputService/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/InputService/AccelerometerEnabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/AccelerometerEnabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/AccelerometerEnabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AccelerometerEnabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if an accelerometer is available on the current device.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/ClearFocus</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/ClearFocus/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/ClearFocus/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ClearFocus(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/CursorId</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/CursorId/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/CursorId/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CursorId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The icon to use for the custom cursor.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/DoesGamepadSupport</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/DoesGamepadSupport/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/DoesGamepadSupport/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+DoesGamepadSupport (
+    gamepadNum: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/InputType&#34;&gt;InputType&lt;/a&gt;,
+    keyCode: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Key&#34;&gt;Key&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines whether the given gamepad supports the given key.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/GamepadEnabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/GamepadEnabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/GamepadEnabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GamepadEnabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if a gamepad is available on the current device.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/GetConnectedGamepads</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/GetConnectedGamepads/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/GetConnectedGamepads/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetConnectedGamepads (
+    gamepadNum: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/InputType&#34;&gt;InputType&lt;/a&gt;,
+    keyCode: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Key&#34;&gt;Key&lt;/a&gt;
+): &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/InputType&#34;&gt;InputType&lt;/a&gt;[]&lt;/span&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/InputType&#34;&gt;InputType&lt;/a&gt;[]&lt;/span&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns a list of connected gamepads.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/GetGamepadState</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/GetGamepadState/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/GetGamepadState/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetGamepadState (
+    gamepad: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/InputType&#34;&gt;InputType&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/InputState&#34;&gt;InputState&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/InputState&#34;&gt;InputState&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns the &lt;a href=&#34;T:Primrose.Enum.InputState&#34; &gt;T:Primrose.Enum.InputState&lt;/a&gt; of the given gamepad.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/GetPressedKeys</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/GetPressedKeys/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/GetPressedKeys/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetPressedKeys(): &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Key&#34;&gt;Key&lt;/a&gt;[]&lt;/span&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Key&#34;&gt;Key&lt;/a&gt;[]&lt;/span&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns an array of currently pressed keys.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/GyroscopeEnabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/GyroscopeEnabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/GyroscopeEnabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GyroscopeEnabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if a gyroscope is available on the current device.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/IsGamepadConnected</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/IsGamepadConnected/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/IsGamepadConnected/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsGamepadConnected (
+    gamepadNum: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/InputType&#34;&gt;InputType&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the given gamepad is currently connected.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/IsKeyDown</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/IsKeyDown/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/IsKeyDown/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsKeyDown (
+    key: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Key&#34;&gt;Key&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns true if the given key is held down.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/IsMouseButtonDown</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/IsMouseButtonDown/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/IsMouseButtonDown/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsMouseButtonDown (
+    i: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns true if the mouse button for the given number is held down.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/KeyboardEnabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/KeyboardEnabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/KeyboardEnabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+KeyboardEnabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if a keyboard is available on the current device.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/MouseBehaviour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/MouseBehaviour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/MouseBehaviour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MouseBehaviour: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/MouseBehaviour&#34;&gt;MouseBehaviour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/MouseBehaviour&#34;&gt;MouseBehaviour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The mouse behaviour.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/MouseEnabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/MouseEnabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/MouseEnabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MouseEnabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if a mouse is available on the current device.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/MouseIconEnabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/MouseIconEnabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/MouseIconEnabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MouseIconEnabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/TouchEnabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/TouchEnabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/TouchEnabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TouchEnabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the current device has touch support.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InputService/VREnabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InputService/VREnabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InputService/VREnabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InputService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/controller.png&#34;/&gt;&amp;nbsp;InputService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+VREnabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if a virtual reality headset is available on the current device.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

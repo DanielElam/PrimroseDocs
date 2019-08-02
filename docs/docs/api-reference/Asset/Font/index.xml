@@ -1,0 +1,178 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Asset/Font</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Asset/Font/</link>
+    <description>Recent content in API:Asset/Font on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Asset/Font/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Asset/Font/BitmapAtlas</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Font/BitmapAtlas/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Font/BitmapAtlas/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Font&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;Font&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+BitmapAtlas: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas&#34;&gt;FontAtlas&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/FontAtlas&#34;&gt;FontAtlas&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Font/Bold</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Font/Bold/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Font/Bold/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Font&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;Font&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Bold: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Font/FamilyName</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Font/FamilyName/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Font/FamilyName/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Font&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;Font&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FamilyName: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Font/FontAssetType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Font/FontAssetType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Font/FontAssetType/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Font&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;Font&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FontAssetType: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/FontAssetType&#34;&gt;FontAssetType&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/FontAssetType&#34;&gt;FontAssetType&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Font/Italic</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Font/Italic/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Font/Italic/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Font&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;Font&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Italic: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Font/Oblique</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Font/Oblique/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Font/Oblique/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Font&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;Font&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Oblique: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Font/Stream</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Font/Stream/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Font/Stream/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Font&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;Font&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Stream: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/MemoryStream&#34;&gt;MemoryStream&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/MemoryStream&#34;&gt;MemoryStream&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Font/Weight</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Font/Weight/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Font/Weight/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Font&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;Font&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Weight: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/FontWeight&#34;&gt;FontWeight&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/FontWeight&#34;&gt;FontWeight&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

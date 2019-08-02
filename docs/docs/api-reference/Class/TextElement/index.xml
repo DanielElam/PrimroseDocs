@@ -1,0 +1,373 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/TextElement</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/</link>
+    <description>Recent content in API:Class/TextElement on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/TextElement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/TextElement/Font</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/Font/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/Font/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Font: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Font&#34;&gt;Font&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Font&#34;&gt;Font&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The font to use.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/FontSize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/FontSize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/FontSize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FontSize: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The size of the text in pixels.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/FontStretch</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/FontStretch/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/FontStretch/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FontStretch: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/FontStretch&#34;&gt;FontStretch&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/FontStretch&#34;&gt;FontStretch&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The weight of the text.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/FontWeight</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/FontWeight/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/FontWeight/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FontWeight: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/FontWeight&#34;&gt;FontWeight&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/FontWeight&#34;&gt;FontWeight&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/Italicize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/Italicize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/Italicize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Italicize: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Italicize the text.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/Localize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/Localize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/Localize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Localize: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if this label will localize text.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/LocalizedString</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/LocalizedString/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/LocalizedString/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LocalizedString: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/Text</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/Text/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/Text/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Text: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The text to draw.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/TextAlignmentX</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextAlignmentX/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextAlignmentX/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TextAlignmentX: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AlignmentX&#34;&gt;AlignmentX&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AlignmentX&#34;&gt;AlignmentX&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The horizontal alignment of the text.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/TextAlignmentY</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextAlignmentY/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextAlignmentY/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TextAlignmentY: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AlignmentY&#34;&gt;AlignmentY&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AlignmentY&#34;&gt;AlignmentY&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The vertical alignment of the text.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/TextBounds</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextBounds/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextBounds/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TextBounds: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The size of the space the text takes up.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/TextColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TextColour: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The colour of the text.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/TextPadding</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextPadding/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextPadding/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TextPadding: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec4&#34;&gt;Vec4&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec4&#34;&gt;Vec4&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/TextScaled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextScaled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextScaled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TextScaled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the font size is based on the size of the element.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/TextStrokeColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextStrokeColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextStrokeColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TextStrokeColour: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The colour of the text stroke.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/TextTrimming</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextTrimming/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/TextTrimming/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TextTrimming: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/TextTrimming&#34;&gt;TextTrimming&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/TextTrimming&#34;&gt;TextTrimming&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextElement/WordWrapping</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/WordWrapping/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextElement/WordWrapping/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;TextElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+WordWrapping: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/WordWrapping&#34;&gt;WordWrapping&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/WordWrapping&#34;&gt;WordWrapping&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines the method of word wrapping to use.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

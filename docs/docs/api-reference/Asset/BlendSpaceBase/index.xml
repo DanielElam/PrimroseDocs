@@ -1,0 +1,268 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Asset/BlendSpaceBase</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/</link>
+    <description>Recent content in API:Asset/BlendSpaceBase on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Asset/BlendSpaceBase/AddSample</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/AddSample/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/AddSample/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BlendSpaceBase&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;BlendSpaceBase&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AddSample (
+    animation: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Animation&#34;&gt;Animation&lt;/a&gt;,
+    sampleValue: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec4&#34;&gt;Vec4&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/BlendSpaceBase/AnimLength</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/AnimLength/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/AnimLength/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BlendSpaceBase&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;BlendSpaceBase&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AnimLength: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/BlendSpaceBase/GetBlendParameter</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/GetBlendParameter/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/GetBlendParameter/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BlendSpaceBase&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;BlendSpaceBase&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetBlendParameter (
+    index: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/BlendParameter&#34;&gt;BlendParameter&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/BlendParameter&#34;&gt;BlendParameter&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/BlendSpaceBase/GetBlendSamplesCount</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/GetBlendSamplesCount/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/GetBlendSamplesCount/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BlendSpaceBase&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;BlendSpaceBase&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetBlendSamplesCount(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/BlendSpaceBase/InitializeSamples</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/InitializeSamples/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/InitializeSamples/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BlendSpaceBase&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;BlendSpaceBase&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+InitializeSamples(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/BlendSpaceBase/NotifyTriggerMode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/NotifyTriggerMode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/NotifyTriggerMode/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BlendSpaceBase&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;BlendSpaceBase&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+NotifyTriggerMode: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/NotifyTriggerMode&#34;&gt;NotifyTriggerMode&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/NotifyTriggerMode&#34;&gt;NotifyTriggerMode&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/BlendSpaceBase/PerBoneBlend</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/PerBoneBlend/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/PerBoneBlend/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BlendSpaceBase&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;BlendSpaceBase&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PerBoneBlend: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/List&#34;&gt;List&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/PerBoneInterpolation&#34;&gt;PerBoneInterpolation&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/List&#34;&gt;List&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/PerBoneInterpolation&#34;&gt;PerBoneInterpolation&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/BlendSpaceBase/PreviewBasePose</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/PreviewBasePose/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/PreviewBasePose/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BlendSpaceBase&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;BlendSpaceBase&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PreviewBasePose: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Animation&#34;&gt;Animation&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Animation&#34;&gt;Animation&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/BlendSpaceBase/RotationBlendInMeshSpace</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/RotationBlendInMeshSpace/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/RotationBlendInMeshSpace/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BlendSpaceBase&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;BlendSpaceBase&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RotationBlendInMeshSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/BlendSpaceBase/SampleData</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/SampleData/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/SampleData/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BlendSpaceBase&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;BlendSpaceBase&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SampleData: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/List&#34;&gt;List&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/BlendSample&#34;&gt;BlendSample&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/List&#34;&gt;List&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/BlendSample&#34;&gt;BlendSample&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/BlendSpaceBase/Step</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/Step/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/Step/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BlendSpaceBase&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;BlendSpaceBase&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Step (
+    context: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animator&#34;&gt;Animator&lt;/a&gt;,
+    instance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/AnimationTrack&#34;&gt;AnimationTrack&lt;/a&gt;,
+    notifyQueue: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/AnimNotifyQueue&#34;&gt;AnimNotifyQueue&lt;/a&gt;,
+    deltaTime: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/BlendSpaceBase/TargetWeightInterpolationSpeedPerSec</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/TargetWeightInterpolationSpeedPerSec/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpaceBase/TargetWeightInterpolationSpeedPerSec/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BlendSpaceBase&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;BlendSpaceBase&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TargetWeightInterpolationSpeedPerSec: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

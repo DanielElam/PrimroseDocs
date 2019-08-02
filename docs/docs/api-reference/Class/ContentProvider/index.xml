@@ -1,0 +1,108 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/ContentProvider</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/ContentProvider/</link>
+    <description>Recent content in API:Class/ContentProvider on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/ContentProvider/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/ContentProvider/GetReferenceCount</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ContentProvider/GetReferenceCount/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ContentProvider/GetReferenceCount/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ContentProvider&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/package.png&#34;/&gt;&amp;nbsp;ContentProvider&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetReferenceCount (
+    id: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ContentProvider/Preload</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ContentProvider/Preload/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ContentProvider/Preload/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ContentProvider&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/package.png&#34;/&gt;&amp;nbsp;ContentProvider&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Preload (
+    contentId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Preloads content from the given url.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ContentProvider/PreloadAsync</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ContentProvider/PreloadAsync/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ContentProvider/PreloadAsync/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ContentProvider&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/package.png&#34;/&gt;&amp;nbsp;ContentProvider&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PreloadAsync (
+    contentUrls: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/LuaTable&#34;&gt;LuaTable&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Yields untill all the given content urls have been downloaded.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ContentProvider/ReloadAsset</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ContentProvider/ReloadAsset/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ContentProvider/ReloadAsset/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ContentProvider&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/package.png&#34;/&gt;&amp;nbsp;ContentProvider&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ReloadAsset (
+    asset: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Asset&#34;&gt;Asset&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

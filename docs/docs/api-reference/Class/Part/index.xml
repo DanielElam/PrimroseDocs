@@ -1,0 +1,639 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/Part</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/</link>
+    <description>Recent content in API:Class/Part on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/Part/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/Part/Anchored</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/Anchored/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/Anchored/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Anchored: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+If true, the part will be physically immovable and static.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/BreakJoints</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/BreakJoints/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/BreakJoints/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+BreakJoints(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Breaks any joint or constraint this object is a part of.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/BrickColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/BrickColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/BrickColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+BrickColour: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The colour of the block.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/CFrame</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/CFrame/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/CFrame/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CFrame: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The 3D position/rotation.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/CanCollide</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/CanCollide/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/CanCollide/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CanCollide: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if this block can collide with other objects.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/GetConnectedParts</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/GetConnectedParts/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/GetConnectedParts/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetConnectedParts (
+    recursive: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+): &lt;span&gt;&lt;b class=&#34;page-type&#34;&gt;Part&lt;/b&gt;[]&lt;/span&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;span&gt;&lt;b class=&#34;page-type&#34;&gt;Part&lt;/b&gt;[]&lt;/span&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns a list of parts that this part is connected to.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/GetConstraints</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/GetConstraints/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/GetConstraints/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetConstraints(): &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Constraint&#34;&gt;Constraint&lt;/a&gt;[]&lt;/span&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Constraint&#34;&gt;Constraint&lt;/a&gt;[]&lt;/span&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns a list of constraints this object is an attachment of.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/GetMass</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/GetMass/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/GetMass/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetMass(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Calculates the mass of this part.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/GetMaterial</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/GetMaterial/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/GetMaterial/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetMaterial(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Material&#34;&gt;Material&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Material&#34;&gt;Material&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/GetNetworkOwner</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/GetNetworkOwner/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/GetNetworkOwner/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetNetworkOwner(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;Player&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;Player&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns the player that owns this part, or null if the server owns it.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/GetNetworkOwnerAuto</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/GetNetworkOwnerAuto/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/GetNetworkOwnerAuto/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetNetworkOwnerAuto(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns true if the owner of this part is decided by the engine.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/GetRootPart</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/GetRootPart/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/GetRootPart/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetRootPart(): &lt;b class=&#34;page-type&#34;&gt;Part&lt;/b&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;b class=&#34;page-type&#34;&gt;Part&lt;/b&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets the root part of the physics assembly.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/IsGrounded</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/IsGrounded/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/IsGrounded/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsGrounded(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns true if the part is connected to an anchored object.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/IsSimulatingPhysics</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/IsSimulatingPhysics/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/IsSimulatingPhysics/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsSimulatingPhysics(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/LocalTransparencyModifier</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/LocalTransparencyModifier/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/LocalTransparencyModifier/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LocalTransparencyModifier: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/Locked</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/Locked/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/Locked/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Locked: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+If false, this part should not be selectable by 3D pickers.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/Material</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/Material/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/Material/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Material: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Material&#34;&gt;Material&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Material&#34;&gt;Material&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The material to render this part with.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/PhysicalProperties</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/PhysicalProperties/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/PhysicalProperties/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PhysicalProperties: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/PhysicalProperties&#34;&gt;PhysicalProperties&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/PhysicalProperties&#34;&gt;PhysicalProperties&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The properties of the physics engine.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/PhysicsUpdateMode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/PhysicsUpdateMode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/PhysicsUpdateMode/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PhysicsUpdateMode: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/PhysicsUpdateMode&#34;&gt;PhysicsUpdateMode&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/PhysicsUpdateMode&#34;&gt;PhysicsUpdateMode&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines the physics update mode.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/RotVelocity</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/RotVelocity/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/RotVelocity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RotVelocity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The angular velocity of this object.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/SetMaterial</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/SetMaterial/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/SetMaterial/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetMaterial (
+    material: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Material&#34;&gt;Material&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/SetNetworkOwner</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/SetNetworkOwner/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/SetNetworkOwner/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetNetworkOwner (
+    player: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;Player&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Sets the player who should own this part.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;
+If &lt;code&gt;player&lt;/code&gt; is set to null, the server will take ownership.
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/SetNetworkOwnerAuto</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/SetNetworkOwnerAuto/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/SetNetworkOwnerAuto/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetNetworkOwnerAuto(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Lets the engine decide the owner of this part.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/Shape</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/Shape/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/Shape/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Shape: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Shape&#34;&gt;Shape&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Shape&#34;&gt;Shape&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The shape of the part.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/Simulate</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/Simulate/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/Simulate/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Simulate: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if physics are simulated for this part.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/Size</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/Size/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/Size/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Size: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The size of the instance.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;
+When accessed by a model this may calculate the bounding box.
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/Static</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/Static/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/Static/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Static: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines whether this part is static. Static objects should not be moved at runtime.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/Transparency</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/Transparency/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/Transparency/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Transparency: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The transparency of the part.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Part/Velocity</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Part/Velocity/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Part/Velocity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/brick.png&#34;/&gt;&amp;nbsp;Part&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Velocity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The linear velocity of this object.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

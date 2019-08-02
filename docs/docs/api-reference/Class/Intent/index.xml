@@ -1,0 +1,219 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/Intent</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/Intent/</link>
+    <description>Recent content in API:Class/Intent on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/Intent/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/Intent/Fire</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Intent/Fire/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Intent/Fire/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Intent&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_event.png&#34;/&gt;&amp;nbsp;Intent&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Fire (
+    args: &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Invokes both local and remote callbacks.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Intent/OnHold</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Intent/OnHold/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Intent/OnHold/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Intent&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_event.png&#34;/&gt;&amp;nbsp;Intent&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+OnHold: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Func&#34;&gt;Func&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;, &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Func&#34;&gt;Func&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;, &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Intercepts incoming requests and will block them if the callback returns false.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Intent/OnIntercept</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Intent/OnIntercept/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Intent/OnIntercept/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Intent&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_event.png&#34;/&gt;&amp;nbsp;Intent&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+OnIntercept: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Func&#34;&gt;Func&lt;/a&gt;&amp;lt;&lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Func&#34;&gt;Func&lt;/a&gt;&amp;lt;&lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Intercepts outgoing requests and will block them if the callback returns false.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Intent/Subscribe</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Intent/Subscribe/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Intent/Subscribe/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Intent&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_event.png&#34;/&gt;&amp;nbsp;Intent&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Subscribe (
+    callback: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Action&#34;&gt;Action&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;, &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;&amp;gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Connection&#34;&gt;Connection&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Connection&#34;&gt;Connection&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Intent/SubscribeLocal</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Intent/SubscribeLocal/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Intent/SubscribeLocal/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Intent&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_event.png&#34;/&gt;&amp;nbsp;Intent&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SubscribeLocal (
+    callback: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Action&#34;&gt;Action&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;, &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;&amp;gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Connection&#34;&gt;Connection&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Connection&#34;&gt;Connection&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Intent/SubscribeRemote</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Intent/SubscribeRemote/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Intent/SubscribeRemote/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Intent&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_event.png&#34;/&gt;&amp;nbsp;Intent&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SubscribeRemote (
+    callback: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Action&#34;&gt;Action&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;, &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;&amp;gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Connection&#34;&gt;Connection&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Connection&#34;&gt;Connection&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Intent/TellClient</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Intent/TellClient/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Intent/TellClient/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Intent&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_event.png&#34;/&gt;&amp;nbsp;Intent&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TellClient (
+    client: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;Player&lt;/a&gt;,
+    args: &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Invokes remote callbacks only.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Intent/TellServer</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Intent/TellServer/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Intent/TellServer/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Intent&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_event.png&#34;/&gt;&amp;nbsp;Intent&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TellServer (
+    args: &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Invokes remote callbacks only.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Intent/Whisper</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Intent/Whisper/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Intent/Whisper/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Intent&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_event.png&#34;/&gt;&amp;nbsp;Intent&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Whisper (
+    args: &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Invokes local callbacks only.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,844 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/Camera</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/</link>
+    <description>Recent content in API:Class/Camera on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/Camera/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/Camera/Animator</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Animator/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Animator/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Animator: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animator&#34;&gt;Animator&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animator&#34;&gt;Animator&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/AspectRatio</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/AspectRatio/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/AspectRatio/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AspectRatio: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The aspect ratio of the &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera/ViewportSize&#34; &gt;ViewportSize&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/CFrame</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/CFrame/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/CFrame/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CFrame: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The position/rotation of the camera.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/CameraSubject</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/CameraSubject/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/CameraSubject/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CameraSubject: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The camera subject.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/CameraType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/CameraType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/CameraType/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CameraType: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/CameraType&#34;&gt;CameraType&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/CameraType&#34;&gt;CameraType&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The type of camera movement.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/ClipFar</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/ClipFar/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/ClipFar/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ClipFar: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The maximum draw distance.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/ClipNear</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/ClipNear/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/ClipNear/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ClipNear: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The minimum draw distance.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/CullingMask</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/CullingMask/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/CullingMask/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CullingMask: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/Exposure</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Exposure/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Exposure/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Exposure: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The exposure of the camera in EV100.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/FieldOfView</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/FieldOfView/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/FieldOfView/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FieldOfView: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The vertical field of view in degrees.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/FieldOfView1P</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/FieldOfView1P/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/FieldOfView1P/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FieldOfView1P: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/FilmGauge</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/FilmGauge/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/FilmGauge/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FilmGauge: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/FilmHeight</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/FilmHeight/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/FilmHeight/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FilmHeight: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/FilmWidth</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/FilmWidth/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/FilmWidth/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FilmWidth: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/FocalLength</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/FocalLength/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/FocalLength/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FocalLength: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/Focus</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Focus/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Focus/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Focus: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The focus position of the camera.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/FrustumCulling</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/FrustumCulling/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/FrustumCulling/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FrustumCulling: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines whether the camera uses frustum culling.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/GetEffect</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/GetEffect/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/GetEffect/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetEffect (
+    className: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PostEffect&#34;&gt;PostEffect&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PostEffect&#34;&gt;PostEffect&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/GetMouseRay</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/GetMouseRay/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/GetMouseRay/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetMouseRay(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Ray&#34;&gt;Ray&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Ray&#34;&gt;Ray&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets a picking ray for the cursor.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/IsLoaded</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/IsLoaded/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/IsLoaded/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsLoaded: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/LockFirstPerson</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/LockFirstPerson/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/LockFirstPerson/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LockFirstPerson: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the camera is locked in first person.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/MaxPitchShake</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/MaxPitchShake/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/MaxPitchShake/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaxPitchShake: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/MaxRollShake</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/MaxRollShake/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/MaxRollShake/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaxRollShake: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/MaxYaw</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/MaxYaw/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/MaxYaw/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaxYaw: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/MaxYawShake</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/MaxYawShake/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/MaxYawShake/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaxYawShake: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/MinYaw</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/MinYaw/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/MinYaw/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MinYaw: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/Occlusion</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Occlusion/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Occlusion/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Occlusion: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/Offset</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Offset/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Offset/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Offset: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/Projection</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Projection/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Projection/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Projection: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Projection&#34;&gt;Projection&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Projection&#34;&gt;Projection&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The type of projection this camera uses.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/RenderView</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/RenderView/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/RenderView/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RenderView: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/RenderView&#34;&gt;RenderView&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/RenderView&#34;&gt;RenderView&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/ResetProjectionMatrix</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/ResetProjectionMatrix/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/ResetProjectionMatrix/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ResetProjectionMatrix(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/ScreenPointToRay</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/ScreenPointToRay/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/ScreenPointToRay/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ScreenPointToRay (
+    point: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Ray&#34;&gt;Ray&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Ray&#34;&gt;Ray&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets a 3D ray from a 2D point on the screen.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/ShakeSpeed</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/ShakeSpeed/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/ShakeSpeed/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ShakeSpeed: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/TonemapEffect</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/TonemapEffect/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/TonemapEffect/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TonemapEffect: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TonemapEffect&#34;&gt;TonemapEffect&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TonemapEffect&#34;&gt;TonemapEffect&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/Trauma</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Trauma/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Trauma/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Trauma: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/Velocity</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Velocity/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Velocity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Velocity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/Viewport</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Viewport/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/Viewport/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Viewport: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Rect&#34;&gt;Rect&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Rect&#34;&gt;Rect&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/ViewportPointToRay</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/ViewportPointToRay/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/ViewportPointToRay/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ViewportPointToRay (
+    point: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Ray&#34;&gt;Ray&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Ray&#34;&gt;Ray&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets a 3D ray from a 2D point on the screen.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/ViewportSize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/ViewportSize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/ViewportSize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ViewportSize: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The size of the client&amp;rsquo;s viewport.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Camera/WorldToScreenPoint</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Camera/WorldToScreenPoint/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Camera/WorldToScreenPoint/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/camera.png&#34;/&gt;&amp;nbsp;Camera&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+WorldToScreenPoint (
+    worldPoint: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,222 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/ReplayReplicator</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/</link>
+    <description>Recent content in API:Class/ReplayReplicator on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/ReplayReplicator/AccumulatedRecordTime</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/AccumulatedRecordTime/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/AccumulatedRecordTime/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;ReplayReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AccumulatedRecordTime: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#double&#34;&gt;f64&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#double&#34;&gt;f64&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReplayReplicator/IsLocalReplay</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/IsLocalReplay/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/IsLocalReplay/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;ReplayReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsLocalReplay: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReplayReplicator/IsPaused</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/IsPaused/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/IsPaused/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;ReplayReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsPaused: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the replay playback is currently paused.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReplayReplicator/IsPlaybackDone</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/IsPlaybackDone/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/IsPlaybackDone/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;ReplayReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsPlaybackDone: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReplayReplicator/IsPlaying</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/IsPlaying/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/IsPlaying/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;ReplayReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsPlaying: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the replay is currently being played back.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReplayReplicator/IsRecording</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/IsRecording/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/IsRecording/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;ReplayReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsRecording: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the replay is recording.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReplayReplicator/IsRecordingPaused</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/IsRecordingPaused/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/IsRecordingPaused/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;ReplayReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsRecordingPaused: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the replay recording is paused.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReplayReplicator/RecordPlaceChanges</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/RecordPlaceChanges/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/RecordPlaceChanges/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;ReplayReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RecordPlaceChanges: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReplayReplicator/Stream</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/Stream/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/Stream/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;ReplayReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Stream: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/ReplayReplicatorStream&#34;&gt;ReplayReplicatorStream&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/ReplayReplicatorStream&#34;&gt;ReplayReplicatorStream&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ReplayReplicator/Workspace</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/Workspace/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator/Workspace/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReplayReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;ReplayReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Workspace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Workspace&#34;&gt;Workspace&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Workspace&#34;&gt;Workspace&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

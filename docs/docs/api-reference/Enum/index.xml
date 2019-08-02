@@ -1,0 +1,4014 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Enum</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Enum/</link>
+    <description>Recent content in API:Enum on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Enum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Enum/ActuatorType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/ActuatorType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/ActuatorType/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;None&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Motor&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Servo&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/AdapterConnection</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/AdapterConnection/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/AdapterConnection/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Types of adapters.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Offline&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;WWan&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;WiFi&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Lan&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Mobile&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/AdditiveAnimationType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/AdditiveAnimationType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/AdditiveAnimationType/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;None&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;LocalSpaceBase&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;RotationOffsetMeshSpace&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/AdditiveBasePoseType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/AdditiveBasePoseType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/AdditiveBasePoseType/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;None&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;RefPose&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;AnimScaled&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;AnimFrame&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/AlignmentX</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/AlignmentX/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/AlignmentX/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Enum for horizontal text alignment.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Left&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Right&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Center&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Justified&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/AlignmentY</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/AlignmentY/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/AlignmentY/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Enum for vertical text alignment.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Top&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Bottom&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Middle&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/AntiAliasingMethod</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/AntiAliasingMethod/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/AntiAliasingMethod/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;None&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;FXAA&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;TAA&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;MSAAx2&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;MSAAx4&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;MSAAx8&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;MSAAx16&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;6&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/AntiAliasingPost</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/AntiAliasingPost/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/AntiAliasingPost/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Off&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Low&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Medium&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;High&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/AspectType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/AspectType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/AspectType/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;FitWithinMaxSize&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ScaleWithParentSize&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/AssetType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/AssetType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/AssetType/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Unknown&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Animation&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Audio&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Cubemap&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Image&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Material&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Mesh&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;6&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ShaderGraph&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;7&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;MovieImage&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;8&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Text&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;9&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Place&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;10&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;FontAtlas&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;227&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Font&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;228&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;FontStyle&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;229&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ShaderDatabase&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;230&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Physics&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;231&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;VectorImage&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;232&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Prefab&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;233&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;NavMesh&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;234&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;AIPlan&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;235&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Pose&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;236&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Rig&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;237&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Reverb&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;238&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ImpulseResponse&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;239&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;BlendSpace&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;240&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;BlendSpace1D&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;241&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;AimOffsetBlendSpace&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;242&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;AimOffsetBlendSpace1D&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;243&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;TerrainData&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;246&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;TerrainTree&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;247&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ParticleType&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;248&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ParticleModuleGraph&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;249&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ParticleSystem&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;250&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;AudioMixer&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;251&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;SubsurfaceProfile&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;252&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Skeleton&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;253&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Catalog&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;254&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Folder&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;255&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/AttenuationType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/AttenuationType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/AttenuationType/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Linear&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Logarithmic&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;LogReverse&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Inverse&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Natural&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/AudioEncoding</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/AudioEncoding/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/AudioEncoding/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;None&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Vorbis&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Opus&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Xma&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Mp3&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/AuthResult</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/AuthResult/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/AuthResult/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;OK&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;InvalidTicket&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;DuplicateRequest&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;InvalidVersion&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;GameMismatch&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ExpiredTicket&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/Axis</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/Axis/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/Axis/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Enum for the X, Y and Z axes.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;X&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;The X axis.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Y&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;The Y axis.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Z&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;The Z axis.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/BlurMode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/BlurMode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/BlurMode/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Blurring methods to use in &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/AmbientOcclusionEffect/&#34; &gt;AmbientOcclusionEffect&lt;/a&gt;.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;None&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Gaussian&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;HighQualityBilateral&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/BoneTranslationRetargetingMode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/BoneTranslationRetargetingMode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/BoneTranslationRetargetingMode/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Animation&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Skeleton&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;AnimationScaled&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;AnimationRelative&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/CameraFacingOption</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/CameraFacingOption/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/CameraFacingOption/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;XAxisFacing_NoUp&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;AxisFacing_ZUp&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;XAxisFacing_NegativeZUp&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;XAxisFacing_YUp&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;XAxisFacing_NegativeYUp&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;LockedAxis_ZAxisFacing&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;LockedAxis_YAxisFacing&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;6&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;LockedAxis_NegativeYAxisFacing&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;7&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;VelocityAligned_ZAxisFacing&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;8&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;VelocityAligned_NegativeZAxisFacing&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;9&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;VelocityAligned_YAxisFacing&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;10&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;VelocityAligned_NegativeYAxisFacing&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;11&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/CameraMode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/CameraMode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/CameraMode/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Default&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;LockFirstPerson&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/CameraType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/CameraType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/CameraType/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Enum for types of camera movement.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Fixed&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Attach&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Watch&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Track&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Follow&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Custom&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Scriptable&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;6&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Uses the raw CFrame of the camera.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/CascadePartitionMode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/CascadePartitionMode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/CascadePartitionMode/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+The cascade partitioning method.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Manual&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Use manually defined splits.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Logarithmic&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Use a logarithmic algorithm to determine splits.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ParallelSplit&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Use the PSSM algorithm to determine splits.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/CellMaterial</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/CellMaterial/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/CellMaterial/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+The material for a &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Terrain/&#34; &gt;Terrain&lt;/a&gt; cell.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Air&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Water&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;WoodPlanks&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Slate&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Concrete&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Brick&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Grass&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;6&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Sand&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;7&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Rock&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;8&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Glacier&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;9&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Snow&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;10&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Sandstone&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;11&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Mud&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;12&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Basalt&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;13&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Ground&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;14&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;CrackedLava&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;15&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/CharacterPoseType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/CharacterPoseType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/CharacterPoseType/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Stand&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Crouch&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Prone&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/CharacterStateType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/CharacterStateType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/CharacterStateType/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Unknown&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;OnGround&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Jumping&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;InAir&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Climbing&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Freefall&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Parachute&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;6&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Swimming&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;7&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;AnimationControlled&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;8&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Sliding&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;9&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;PlatformStand&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;10&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;NavWalk&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;11&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Noclip&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;12&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;User1&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;13&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;User2&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;14&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;User3&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;15&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;User4&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;16&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;User5&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;17&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/ClassicMaterial</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/ClassicMaterial/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/ClassicMaterial/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Plastic&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;256&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;SmoothPlastic&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;272&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Neon&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;288&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Wood&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;512&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;WoodPlanks&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;528&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Marble&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;784&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Basalt&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;788&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Slate&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;800&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;CrackedLava&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;804&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Concrete&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;816&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Limestone&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;820&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Granite&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;832&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Pavement&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;836&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Brick&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;848&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Pebble&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;864&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Cobblestone&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;880&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Rock&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;896&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Sandstone&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;912&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;CorrodedMetal&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1040&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;DiamondPlate&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1056&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Foil&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1072&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Metal&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1088&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Grass&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1280&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;LeafyGrass&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1284&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Sand&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1296&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Fabric&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1312&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Snow&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1328&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Mud&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1344&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Ground&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1360&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Asphalt&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1376&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Salt&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1392&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Ice&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1536&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Glacier&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1552&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Air&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1792&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Water&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2048&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/CollisionFidelity</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/CollisionFidelity/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/CollisionFidelity/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Determines how the collision models of a &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PartOperation/&#34; &gt;PartOperation&lt;/a&gt; behave.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Default&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ConvexHull&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Uses a convex hull for collision.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;BoundingBox&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Uses a bounding box for collision.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Triangle&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Uses a provided mesh for collision.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/ColourBlindness</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/ColourBlindness/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/ColourBlindness/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;None&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Deuteranopia&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Tritanopia&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Protanopia&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/ColourSpace</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/ColourSpace/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/ColourSpace/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Linear&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Use a linear colorspace.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Gamma&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Use a gamma colorspace.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/DataCompression</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/DataCompression/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/DataCompression/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;None&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Lz4Hc&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Lz4&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Zstd&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ZstdMax&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/DataFormat</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/DataFormat/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/DataFormat/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Unknown&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Binary&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Xml&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Yaml&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/DecalType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/DecalType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/DecalType/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+The decal type.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Face&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Draws the decal on the side of the part.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Projection&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Projects the decal onto the part.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/DeliveryMethod</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/DeliveryMethod/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/DeliveryMethod/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Networking delivery methods.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Unknown&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Unreliable&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;UnreliableSequenced&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ReliableUnsequenced&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;34&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Reliable&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;67&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/DevMemoryTag</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/DevMemoryTag/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/DevMemoryTag/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Internal&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;HttpCache&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Instances&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Signals&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;LuaHeap&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Script&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;PhysicsCollision&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;6&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;PhysicsParts&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;7&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;GraphicsSolidModels&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;8&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;GraphicsMeshlets&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;9&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;GraphicsParticles&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;10&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;GraphicsParts&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;11&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;GraphicsSpatialHash&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;12&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;GraphicsTerrain&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;13&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;GraphicsTexture&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;14&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;GraphicsBuffer&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;15&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;GraphicsSkinning&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;16&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;GraphicsDrawItem&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;17&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;GraphicsStateGroups&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;18&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Sounds&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;19&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;StreamingSounds&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;20&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Terrain&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;21&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Gui&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;22&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Animation&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;23&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Pathfinding&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;24&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/Direction</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/Direction/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/Direction/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;NegativeX&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;PositiveX&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;NegativeY&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;PositiveY&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;NegativeZ&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;PositiveZ&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/DofMethod</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/DofMethod/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/DofMethod/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Depth of Field methods.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Gaussian&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Performant, decent quality. Ideal for gameplay.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Bokeh&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Very expensive but high quality. Ideal for cinematics.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/DominantAxis</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/DominantAxis/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/DominantAxis/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Width&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Height&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/DownsampleSize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/DownsampleSize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/DownsampleSize/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;FullSize&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;HalfSize&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;QuarterSize&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/DynamicRange</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/DynamicRange/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/DynamicRange/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Speaker types.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;WarTapes&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;TV&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;HiFi&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;HomeCinema&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Headphones&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/EasingDirection</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/EasingDirection/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/EasingDirection/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;In&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Out&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;InOut&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/EasingStyle</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/EasingStyle/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/EasingStyle/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Linear&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Sine&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Back&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Quad&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Quart&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Quint&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Bounce&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;6&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Elastic&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;7&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Expo&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;8&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/EditorBillboardMask</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/EditorBillboardMask/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/EditorBillboardMask/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;None&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Light&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Decal&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Camera&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Character&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;8&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Probe&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;16&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Emitter&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;32&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Sound&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;64&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;_&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;128&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;All&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2147483647&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/EngineMode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/EngineMode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/EngineMode/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Enum for application types.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Game&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+A regular game.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;LevelEditor&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+A level editor.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;DedicatedServer&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+When the engine is in Server Mode, certain assets (textures, video, audio, etc.) will not be loaded.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/ExtendMode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/ExtendMode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/ExtendMode/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Enum for bitmap extend modes.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Clamp&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Clamps to the border of the image.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Wrap&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Wraps the image.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Mirror&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Mirrors the image.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Stretch&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Stretches the image.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/FillDirection</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/FillDirection/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/FillDirection/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+The direction to flow content.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Horizontal&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Vertical&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/FontStretch</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/FontStretch/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/FontStretch/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Undefined&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;UltraCondensed&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ExtraCondensed&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Condensed&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;SemiCondensed&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Medium&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Normal&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;SemiExpanded&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;6&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Expanded&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;7&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ExtraExpanded&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;8&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;UltraExpanded&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;9&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/FontWeight</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/FontWeight/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/FontWeight/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Enum for font weights.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Thin&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;100&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ExtraLight&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;200&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Light&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;300&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;SemiLight&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;350&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Regular&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;400&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Medium&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;500&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;SemiBold&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;600&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Bold&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;700&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ExtraBold&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;800&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Heavy&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;900&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;ExtraBlack&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;950&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/FriendStatus</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/FriendStatus/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/FriendStatus/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Enumeration for friend status.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Offline&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Online&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Busy&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Away&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Snooze&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;LookingToTrade&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;LookingToPlay&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;6&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/Gender</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/Gender/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/Gender/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Unspecified&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Male&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Female&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/GpuFenceFlags</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/GpuFenceFlags/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/GpuFenceFlags/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;None&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Wait&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/GpuVendor</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/GpuVendor/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/GpuVendor/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Enum for GPU vendors.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Unknown&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+The GPU vendor is unknown.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;AMD&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4098&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+The GPU was made by AMD.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Nvidia&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4318&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+The GPU was made by NVIDIA.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Intel&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;32902&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+The GPU was made by Intel.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Enum/GraphicsMode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Enum/GraphicsMode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Enum/GraphicsMode/</guid>
+      <description>
+        
+        
+        
+
+&lt;p class=&#34;summary&#34;&gt;
+
+Enumeration for graphics modes.
+
+&lt;/p&gt;
+ 
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;table class=&#34;studiohide&#34;&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Automatic&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;0&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Will automatically choose a supported library for the current platform.
+Windows 10 defaults to Direct3D12.
+Windows 7 defaults to Direct3D11.
+macOS and iOS default to Metal.
+Linux defaults to Vulkan.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;NoGraphics&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Disables the rendering engine. This will also prevent content like audio and textures from being downloaded.
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Direct3D11&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Direct3D Version 11 (Microsoft)
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Direct3D12&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Direct3D Version 12 (Microsoft)
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Vulkan&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Vulkan (Khronos Group)
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Metal&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Metal (Apple)
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Playstation4&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;6&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Playstation 4 (Sony)
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;XboxOne&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;7&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Xbox One (Microsoft)
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;enum-row&#34;&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;span class=&#34;name&#34;&#34;&gt;Switch&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;b class=&#34;value&#34;&#34;&gt;8&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;white-space:normal;&#34;&gt;
+&lt;p&gt;
+Switch (Nintendo)
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,181 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/Keyframe</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/</link>
+    <description>Recent content in API:Class/Keyframe on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/Keyframe/Completed</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/Completed/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/Completed/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Keyframe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Keyframe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Completed: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Keyframe/EasingDirection</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/EasingDirection/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/EasingDirection/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Keyframe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Keyframe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+EasingDirection: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/EasingDirection&#34;&gt;EasingDirection&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/EasingDirection&#34;&gt;EasingDirection&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Keyframe/EasingStyle</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/EasingStyle/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/EasingStyle/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Keyframe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Keyframe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+EasingStyle: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/EasingStyle&#34;&gt;EasingStyle&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/EasingStyle&#34;&gt;EasingStyle&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Keyframe/RecursiveSearch</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/RecursiveSearch/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/RecursiveSearch/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Keyframe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Keyframe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RecursiveSearch: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Keyframe/SetValue</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/SetValue/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/SetValue/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Keyframe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Keyframe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetValue (
+    value: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Keyframe/Target</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/Target/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/Target/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Keyframe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Keyframe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Target: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Keyframe/TargetInstance</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/TargetInstance/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/TargetInstance/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Keyframe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Keyframe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TargetInstance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Keyframe/Time</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/Time/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Keyframe/Time/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Keyframe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Keyframe&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Time: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The position of the keyframe in the sequence.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

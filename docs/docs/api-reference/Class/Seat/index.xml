@@ -1,0 +1,66 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/Seat</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/Seat/</link>
+    <description>Recent content in API:Class/Seat on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/Seat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/Seat/Occupant</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Seat/Occupant/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Seat/Occupant/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Seat&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/seat.png&#34;/&gt;&amp;nbsp;Seat&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Occupant: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Character&#34;&gt;Character&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Character&#34;&gt;Character&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The character that currently occupies this seat.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;
+This property can be manually set, which will eject the current occupant if there is one,
+and force the new character to sit on it.
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Seat/OccupyOnTouch</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Seat/OccupyOnTouch/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Seat/OccupyOnTouch/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Seat&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/seat.png&#34;/&gt;&amp;nbsp;Seat&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+OccupyOnTouch: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if this object can be occupied by touching it.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

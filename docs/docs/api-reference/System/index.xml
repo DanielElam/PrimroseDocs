@@ -1,0 +1,126 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:System</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/System/</link>
+    <description>Recent content in API:System on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/System/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:System/Primitives</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/System/Primitives/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/System/Primitives/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;boolean&#34;&gt;Boolean&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;bool&lt;/strong&gt; &lt;br/&gt;
+Represents a Boolean (true or false) value. &lt;br/&gt;
+&lt;a href=&#34;https://docs.microsoft.com/en-us/dotnet/api/system.boolean?view=netcore-3.0&#34; target=&#34;_blank&#34;&gt;Read More&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;byte&#34;&gt;Byte&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;byte&lt;/strong&gt; &lt;br/&gt;
+An 8-bit unsigned integer &lt;br/&gt;
+&lt;a href=&#34;https://docs.microsoft.com/en-us/dotnet/api/system.byte?view=netcore-3.0&#34; target=&#34;_blank&#34;&gt;Read More&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sbyte&#34;&gt;SByte&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;sbyte&lt;/strong&gt; &lt;br/&gt;
+A 8-bit signed integer &lt;br/&gt;
+&lt;a href=&#34;https://docs.microsoft.com/en-us/dotnet/api/system.sbyte?view=netcore-3.0&#34; target=&#34;_blank&#34;&gt;Read More&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;int16&#34;&gt;Int16&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;int16&lt;/strong&gt; &lt;br/&gt;
+A 16-bit signed integer &lt;br/&gt;
+&lt;a href=&#34;https://docs.microsoft.com/en-us/dotnet/api/system.int16?view=netcore-3.0&#34; target=&#34;_blank&#34;&gt;Read More&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;uint16&#34;&gt;UInt16&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;uint16&lt;/strong&gt; &lt;br/&gt;
+A 16-bit unsigned integer &lt;br/&gt;
+&lt;a href=&#34;https://docs.microsoft.com/en-us/dotnet/api/system.uint16?view=netcore-3.0&#34; target=&#34;_blank&#34;&gt;Read More&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;int32&#34;&gt;Int32&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;int32&lt;/strong&gt; &lt;br/&gt;
+A 32-bit signed integer &lt;br/&gt;
+&lt;a href=&#34;https://docs.microsoft.com/en-us/dotnet/api/system.int32?view=netcore-3.0&#34; target=&#34;_blank&#34;&gt;Read More&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;uint32&#34;&gt;UInt32&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;uint32&lt;/strong&gt; &lt;br/&gt;
+A 32-bit unsigned integer &lt;br/&gt;
+&lt;a href=&#34;https://docs.microsoft.com/en-us/dotnet/api/system.uint32?view=netcore-3.0&#34; target=&#34;_blank&#34;&gt;Read More&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;int64&#34;&gt;Int64&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;int64&lt;/strong&gt; &lt;br/&gt;
+A 64-bit signed integer &lt;br/&gt;
+&lt;a href=&#34;https://docs.microsoft.com/en-us/dotnet/api/system.int64?view=netcore-3.0&#34; target=&#34;_blank&#34;&gt;Read More&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;uint64&#34;&gt;UInt64&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;uint64&lt;/strong&gt; &lt;br/&gt;
+A 64-bit unsigned integer &lt;br/&gt;
+&lt;a href=&#34;https://docs.microsoft.com/en-us/dotnet/api/system.uint64?view=netcore-3.0&#34; target=&#34;_blank&#34;&gt;Read More&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;single&#34;&gt;Single&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;float32&lt;/strong&gt; &lt;br/&gt;
+A 32-bit floating-point number &lt;br/&gt;
+&lt;a href=&#34;https://docs.microsoft.com/en-us/dotnet/api/system.single?view=netcore-3.0&#34; target=&#34;_blank&#34;&gt;Read More&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;double&#34;&gt;Double&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;double&lt;/strong&gt; &lt;br/&gt;
+A 64-bit floating-point number &lt;br/&gt;
+&lt;a href=&#34;https://docs.microsoft.com/en-us/dotnet/api/system.double?view=netcore-3.0&#34; target=&#34;_blank&#34;&gt;Read More&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:System/String</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/System/String/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/System/String/</guid>
+      <description>
+        
+        
+        
+
+&lt;p&gt;Represents text as a sequence of UTF-16 code units.&lt;/p&gt;
+
+&lt;h2 id=&#34;remarks&#34;&gt;Remarks&lt;/h2&gt;
+
+&lt;p&gt;A String object is a sequential collection of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Char&#34;&gt;System.Char&lt;/a&gt; objects that represent a string; a &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Char&#34;&gt;System.Char&lt;/a&gt; object corresponds to a UTF-16 code unit.&lt;/p&gt;
+
+&lt;p&gt;The maximum size of a String object in memory is 2GB, or about 1 billion characters.&lt;/p&gt;
+
+&lt;h2 id=&#34;see-also&#34;&gt;See also&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netcore-3.0&#34; target=&#34;_blank&#34;&gt;String - Microsoft Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

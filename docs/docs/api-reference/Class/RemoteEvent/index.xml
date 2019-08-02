@@ -1,0 +1,109 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/RemoteEvent</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent/</link>
+    <description>Recent content in API:Class/RemoteEvent on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/RemoteEvent/DeliveryMethod</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent/DeliveryMethod/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent/DeliveryMethod/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_event.png&#34;/&gt;&amp;nbsp;RemoteEvent&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+DeliveryMethod: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/DeliveryMethod&#34;&gt;DeliveryMethod&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/DeliveryMethod&#34;&gt;DeliveryMethod&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines how reliable the message delivery is.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RemoteEvent/FireAllClients</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent/FireAllClients/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent/FireAllClients/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_event.png&#34;/&gt;&amp;nbsp;RemoteEvent&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FireAllClients (
+    args: &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Fires &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent/ClientFired&#34; &gt;ClientFired&lt;/a&gt; for all players.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RemoteEvent/FireClient</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent/FireClient/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent/FireClient/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_event.png&#34;/&gt;&amp;nbsp;RemoteEvent&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FireClient (
+    player: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;Player&lt;/a&gt;,
+    args: &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Fires &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent/ClientFired&#34; &gt;ClientFired&lt;/a&gt; for the provided player.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RemoteEvent/FireServer</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent/FireServer/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent/FireServer/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_event.png&#34;/&gt;&amp;nbsp;RemoteEvent&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FireServer (
+    args: &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Fires &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent/ServerFired&#34; &gt;ServerFired&lt;/a&gt; for the server.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

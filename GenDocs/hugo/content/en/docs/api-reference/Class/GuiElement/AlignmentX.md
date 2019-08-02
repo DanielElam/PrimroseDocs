@@ -1,0 +1,18 @@
+---
+title: API:Class/GuiElement/AlignmentX
+linkTitle: "AlignmentX"
+weight: 65
+date: 2019-08-02
+namespace: Primrose.DataModel.GUI.GuiElement.AlignmentX
+deprecated: false
+no_list: true
+---
+Property of <a href="/docs/api-reference/Class/GuiElement"><img src="/icons/silk/default.png"/>&nbsp;GuiElement</a>
+<pre class="method-declaration">
+AlignmentX: <a class="type" href="/docs/api-reference/Enum/AlignmentX">AlignmentX</a></pre>
+<b>Value Type: </b>
+<a class="type" href="/docs/api-reference/Enum/AlignmentX">AlignmentX</a>
+<br/>
+<b>Description: </b>
+The horizontal alignment of the element.
+

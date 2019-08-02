@@ -1,0 +1,204 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Asset/Skeleton</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/</link>
+    <description>Recent content in API:Asset/Skeleton on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Asset/Skeleton/BoneCount</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/BoneCount/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/BoneCount/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Skeleton&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/skeleton.png&#34;/&gt;&amp;nbsp;Skeleton&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+BoneCount: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Skeleton/CreateInstance</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/CreateInstance/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/CreateInstance/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Skeleton&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/skeleton.png&#34;/&gt;&amp;nbsp;Skeleton&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CreateInstance(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;SkeletonInstance&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;SkeletonInstance&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Skeleton/ImportPose</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/ImportPose/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/ImportPose/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Skeleton&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/skeleton.png&#34;/&gt;&amp;nbsp;Skeleton&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ImportPose: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Pose&#34;&gt;Pose&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Pose&#34;&gt;Pose&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The pose that the skeleton was originally imported with.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Skeleton/IsSkeletonLoaded</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/IsSkeletonLoaded/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/IsSkeletonLoaded/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Skeleton&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/skeleton.png&#34;/&gt;&amp;nbsp;Skeleton&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsSkeletonLoaded: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Skeleton/Pose</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/Pose/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/Pose/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Skeleton&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/skeleton.png&#34;/&gt;&amp;nbsp;Skeleton&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Pose: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Pose&#34;&gt;Pose&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Pose&#34;&gt;Pose&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The pose that the skeleton was last saved with.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Skeleton/ReferenceInstance</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/ReferenceInstance/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/ReferenceInstance/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Skeleton&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/skeleton.png&#34;/&gt;&amp;nbsp;Skeleton&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ReferenceInstance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;SkeletonInstance&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;SkeletonInstance&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The root bone of this skeleton.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Skeleton/Rig</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/Rig/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/Rig/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Skeleton&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/skeleton.png&#34;/&gt;&amp;nbsp;Skeleton&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Rig: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Rig&#34;&gt;Rig&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Rig&#34;&gt;Rig&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The rig that his skeleton is targeted to.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Skeleton/RigMapping</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/RigMapping/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/RigMapping/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Skeleton&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/skeleton.png&#34;/&gt;&amp;nbsp;Skeleton&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RigMapping: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Dictionary&#34;&gt;Dictionary&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;Bone&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Dictionary&#34;&gt;Dictionary&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;Bone&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Skeleton/SavePose</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/SavePose/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton/SavePose/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Skeleton&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/skeleton.png&#34;/&gt;&amp;nbsp;Skeleton&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SavePose (
+    instance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;SkeletonInstance&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

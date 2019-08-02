@@ -1,0 +1,199 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/VolumeSoundEffect</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/</link>
+    <description>Recent content in API:Class/VolumeSoundEffect on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/VolumeSoundEffect/ChannelMixer</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/ChannelMixer/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/ChannelMixer/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;VolumeSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ChannelMixer: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/ChannelMixer&#34;&gt;ChannelMixer&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/ChannelMixer&#34;&gt;ChannelMixer&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VolumeSoundEffect/ConvertToStereo</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/ConvertToStereo/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/ConvertToStereo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;VolumeSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ConvertToStereo: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VolumeSoundEffect/Track2</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/Track2/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/Track2/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;VolumeSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Track2: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VolumeSoundEffect/Track3</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/Track3/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/Track3/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;VolumeSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Track3: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VolumeSoundEffect/Track4</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/Track4/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/Track4/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;VolumeSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Track4: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VolumeSoundEffect/Track5</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/Track5/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/Track5/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;VolumeSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Track5: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VolumeSoundEffect/Volume</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/Volume/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/Volume/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;VolumeSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Volume: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VolumeSoundEffect/VolumeLeft</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/VolumeLeft/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/VolumeLeft/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;VolumeSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+VolumeLeft: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VolumeSoundEffect/VolumeRight</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/VolumeRight/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect/VolumeRight/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VolumeSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;VolumeSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+VolumeRight: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

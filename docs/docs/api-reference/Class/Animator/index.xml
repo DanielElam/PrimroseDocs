@@ -1,0 +1,224 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/Animator</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/Animator/</link>
+    <description>Recent content in API:Class/Animator on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/Animator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/Animator/CanUseMarkerSync</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Animator/CanUseMarkerSync/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Animator/CanUseMarkerSync/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CanUseMarkerSync: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Animator/GetLeaderDelta</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Animator/GetLeaderDelta/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Animator/GetLeaderDelta/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetLeaderDelta(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Animator/GetPlayingAnimationTracks</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Animator/GetPlayingAnimationTracks/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Animator/GetPlayingAnimationTracks/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetPlayingAnimationTracks(): &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/AnimationTrack&#34;&gt;AnimationTrack&lt;/a&gt;[]&lt;/span&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/AnimationTrack&#34;&gt;AnimationTrack&lt;/a&gt;[]&lt;/span&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Animator/IsLeader</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Animator/IsLeader/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Animator/IsLeader/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsLeader: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Animator/IsSingleAnimationContext</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Animator/IsSingleAnimationContext/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Animator/IsSingleAnimationContext/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsSingleAnimationContext(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Animator/LoadAnimation</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Animator/LoadAnimation/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Animator/LoadAnimation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LoadAnimation (
+    animationId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/AnimationTrack&#34;&gt;AnimationTrack&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/AnimationTrack&#34;&gt;AnimationTrack&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Loads an animation into a track.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Animator/LoadBlendSpace</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Animator/LoadBlendSpace/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Animator/LoadBlendSpace/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LoadBlendSpace (
+    blendSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/BlendSpace&#34;&gt;BlendSpace&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BlendSpaceAnimationTrack&#34;&gt;BlendSpaceAnimationTrack&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BlendSpaceAnimationTrack&#34;&gt;BlendSpaceAnimationTrack&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Animator/RootMotionMode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Animator/RootMotionMode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Animator/RootMotionMode/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RootMotionMode: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/RootMotionMode&#34;&gt;RootMotionMode&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/RootMotionMode&#34;&gt;RootMotionMode&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Animator/ShouldGenerateNotifies</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Animator/ShouldGenerateNotifies/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Animator/ShouldGenerateNotifies/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ShouldGenerateNotifies(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Animator/UseTimeScale</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Animator/UseTimeScale/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Animator/UseTimeScale/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+UseTimeScale: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the animator is affected by &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RunService/TimeScale&#34; &gt;TimeScale&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,167 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/DebuggerManager</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/</link>
+    <description>Recent content in API:Class/DebuggerManager on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/DebuggerManager/AddDebugger</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/AddDebugger/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/AddDebugger/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bug.png&#34;/&gt;&amp;nbsp;DebuggerManager&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AddDebugger (
+    script: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SourceCodeContainer&#34;&gt;SourceCodeContainer&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScriptDebugger&#34;&gt;ScriptDebugger&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScriptDebugger&#34;&gt;ScriptDebugger&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Registers a script with a debugger.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/DebuggerManager/DebuggingEnabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/DebuggingEnabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/DebuggingEnabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bug.png&#34;/&gt;&amp;nbsp;DebuggerManager&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+DebuggingEnabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets whether or not debugging is enabled.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/DebuggerManager/GetDebuggers</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/GetDebuggers/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/GetDebuggers/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bug.png&#34;/&gt;&amp;nbsp;DebuggerManager&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetDebuggers(): &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScriptDebugger&#34;&gt;ScriptDebugger&lt;/a&gt;[]&lt;/span&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScriptDebugger&#34;&gt;ScriptDebugger&lt;/a&gt;[]&lt;/span&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns an array of all &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScriptDebugger/&#34; &gt;ScriptDebugger&lt;/a&gt;s.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/DebuggerManager/Resume</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/Resume/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/Resume/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bug.png&#34;/&gt;&amp;nbsp;DebuggerManager&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Resume(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Resumes the debug manager.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/DebuggerManager/StepIn</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/StepIn/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/StepIn/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bug.png&#34;/&gt;&amp;nbsp;DebuggerManager&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+StepIn(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Steps into the current line.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/DebuggerManager/StepOut</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/StepOut/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/StepOut/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bug.png&#34;/&gt;&amp;nbsp;DebuggerManager&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+StepOut(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Steps out of the current line.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/DebuggerManager/StepOver</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/StepOver/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager/StepOver/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DebuggerManager&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bug.png&#34;/&gt;&amp;nbsp;DebuggerManager&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+StepOver(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Step over the current line.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

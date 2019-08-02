@@ -1,0 +1,221 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/Model</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/Model/</link>
+    <description>Recent content in API:Class/Model on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/Model/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/Model/CFrame</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Model/CFrame/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Model/CFrame/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Model&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bricks.png&#34;/&gt;&amp;nbsp;Model&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CFrame: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The transform of the model.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Model/GetModelCFrame</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Model/GetModelCFrame/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Model/GetModelCFrame/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Model&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bricks.png&#34;/&gt;&amp;nbsp;Model&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetModelCFrame(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets the CFrame of the Bounding Box.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Model/GetModelSize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Model/GetModelSize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Model/GetModelSize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Model&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bricks.png&#34;/&gt;&amp;nbsp;Model&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetModelSize(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets the size of the Bounding Box.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Model/ModelInPrimary</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Model/ModelInPrimary/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Model/ModelInPrimary/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Model&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bricks.png&#34;/&gt;&amp;nbsp;Model&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ModelInPrimary: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+A rotation matrix for the model&amp;rsquo;s OBB.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Model/MoveTo</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Model/MoveTo/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Model/MoveTo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Model&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bricks.png&#34;/&gt;&amp;nbsp;Model&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MoveTo (
+    position: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Moves the centroid of the &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Model/&#34; &gt;Model&lt;/a&gt; to the specified location, respecting all relative distances between
+parts in the model.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;
+If &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Model/PrimaryPart&#34; &gt;PrimaryPart&lt;/a&gt; is will use the part&amp;rsquo;s CFrame, otherwise the center of the model will be used.
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Model/PrimaryPart</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Model/PrimaryPart/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Model/PrimaryPart/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Model&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bricks.png&#34;/&gt;&amp;nbsp;Model&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PrimaryPart: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;Part&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Part&#34;&gt;Part&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The child part which represents the &amp;lsquo;primary&amp;rsquo; part of this model.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Model/SetPrimaryPartCFrame</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Model/SetPrimaryPartCFrame/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Model/SetPrimaryPartCFrame/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Model&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bricks.png&#34;/&gt;&amp;nbsp;Model&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetPrimaryPartCFrame (
+    cframe: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Sets the CFrame of the &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Model/PrimaryPart&#34; &gt;PrimaryPart&lt;/a&gt;, respecting all relative distances between parts.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;
+If &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Model/PrimaryPart&#34; &gt;PrimaryPart&lt;/a&gt; is not set, this method will error.
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Model/Size</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Model/Size/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Model/Size/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Model&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bricks.png&#34;/&gt;&amp;nbsp;Model&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Size: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The size of the model.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Model/Velocity</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Model/Velocity/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Model/Velocity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Model&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bricks.png&#34;/&gt;&amp;nbsp;Model&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Velocity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

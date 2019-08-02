@@ -1,0 +1,333 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/VideoElement</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/</link>
+    <description>Recent content in API:Class/VideoElement on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/IsLoaded</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/IsLoaded/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/IsLoaded/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsLoaded: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets whether or not the sound has loaded.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/IsLooped</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/IsLooped/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/IsLooped/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsLooped: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+If true the video will loop.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/IsPaused</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/IsPaused/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/IsPaused/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsPaused: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets whether or not the sound is paused.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/IsPlaying</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/IsPlaying/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/IsPlaying/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsPlaying: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets whether or not the sound is playing.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/MaxDistance</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/MaxDistance/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/MaxDistance/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaxDistance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The maximum distance that the sound can be heard from.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/MinDistance</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/MinDistance/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/MinDistance/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MinDistance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The distance at which the sound will begin to attenuate.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/Pause</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/Pause/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/Pause/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Pause(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Pauses the video.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/Play</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/Play/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/Play/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Play(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Plays the video.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/PlaybackPosition</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/PlaybackPosition/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/PlaybackPosition/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PlaybackPosition: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Time&#34;&gt;Time&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Time&#34;&gt;Time&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The playback position of the audio in seconds.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/PlaybackSpeed</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/PlaybackSpeed/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/PlaybackSpeed/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PlaybackSpeed: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The speed at which the video is played.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/Resume</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/Resume/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/Resume/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Resume(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Resumes the video.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/Stop</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/Stop/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/Stop/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Stop(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Stops the sound.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/VideoId</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/VideoId/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/VideoId/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+VideoId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/MovieImage&#34;&gt;MovieImage&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/MovieImage&#34;&gt;MovieImage&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The source of the media file.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/VideoLength</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/VideoLength/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/VideoLength/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+VideoLength: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Time&#34;&gt;Time&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Time&#34;&gt;Time&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The length of the current sound in seconds.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/VideoElement/Volume</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/Volume/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/VideoElement/Volume/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/VideoElement&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;VideoElement&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Volume: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The volume multiplier of the sound.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

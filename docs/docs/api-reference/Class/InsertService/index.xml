@@ -1,0 +1,63 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/InsertService</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/InsertService/</link>
+    <description>Recent content in API:Class/InsertService on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/InsertService/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/InsertService/Import</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InsertService/Import/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InsertService/Import/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InsertService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/package.png&#34;/&gt;&amp;nbsp;InsertService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Import (
+    contentId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/IEnumerable&#34;&gt;IEnumerable&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/IEnumerable&#34;&gt;IEnumerable&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/InsertService/LoadModel</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/InsertService/LoadModel/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/InsertService/LoadModel/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InsertService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/package.png&#34;/&gt;&amp;nbsp;InsertService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LoadModel (
+    workshopId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Loads an instance from the Steam Workshop.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

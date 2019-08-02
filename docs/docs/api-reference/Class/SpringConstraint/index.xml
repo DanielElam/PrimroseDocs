@@ -1,0 +1,192 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/SpringConstraint</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/</link>
+    <description>Recent content in API:Class/SpringConstraint on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/SpringConstraint/CurrentDistance</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/CurrentDistance/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/CurrentDistance/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;SpringConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CurrentDistance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The current distance between the two attachments.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SpringConstraint/Damping</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/Damping/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/Damping/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;SpringConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Damping: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Summary&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SpringConstraint/FreeLength</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/FreeLength/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/FreeLength/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;SpringConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FreeLength: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Summary&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SpringConstraint/LimitsEnabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/LimitsEnabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/LimitsEnabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;SpringConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LimitsEnabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Summary&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SpringConstraint/MaxForce</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/MaxForce/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/MaxForce/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;SpringConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaxForce: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Summary&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SpringConstraint/MaxLength</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/MaxLength/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/MaxLength/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;SpringConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaxLength: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Summary&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SpringConstraint/MinLength</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/MinLength/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/MinLength/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;SpringConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MinLength: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Summary&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SpringConstraint/Stiffness</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/Stiffness/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint/Stiffness/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SpringConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;SpringConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Stiffness: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The strength of the string.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;
+The higher this value the more force will be applied when the attachments are separated a different length than the
+FreeLength.
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,232 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/NetworkServer</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/</link>
+    <description>Recent content in API:Class/NetworkServer on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/NetworkServer/Address</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/Address/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/Address/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/server_network.png&#34;/&gt;&amp;nbsp;NetworkServer&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Address: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The local address the server is hosted on.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkServer/AuthenticReplicators</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/AuthenticReplicators/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/AuthenticReplicators/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/server_network.png&#34;/&gt;&amp;nbsp;NetworkServer&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AuthenticReplicators: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/FastList&#34;&gt;FastList&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ServerReplicator&#34;&gt;ServerReplicator&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/FastList&#34;&gt;FastList&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ServerReplicator&#34;&gt;ServerReplicator&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkServer/ClientCount</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/ClientCount/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/ClientCount/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/server_network.png&#34;/&gt;&amp;nbsp;NetworkServer&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ClientCount: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The number of clients connected to the server.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkServer/ExternalAddress</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/ExternalAddress/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/ExternalAddress/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/server_network.png&#34;/&gt;&amp;nbsp;NetworkServer&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ExternalAddress: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The external address the server is hosted on.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkServer/GetConnectionByIP</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/GetConnectionByIP/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/GetConnectionByIP/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/server_network.png&#34;/&gt;&amp;nbsp;NetworkServer&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetConnectionByIP (
+    peerIP: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ServerReplicator&#34;&gt;ServerReplicator&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ServerReplicator&#34;&gt;ServerReplicator&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns a &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ServerReplicator/&#34; &gt;ServerReplicator&lt;/a&gt; with the matching IP address if one exists.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkServer/GetPlayerAuthenticationRequired</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/GetPlayerAuthenticationRequired/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/GetPlayerAuthenticationRequired/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/server_network.png&#34;/&gt;&amp;nbsp;NetworkServer&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetPlayerAuthenticationRequired(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkServer/ReplicatorDictionary</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/ReplicatorDictionary/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/ReplicatorDictionary/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/server_network.png&#34;/&gt;&amp;nbsp;NetworkServer&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ReplicatorDictionary: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Dictionary&#34;&gt;Dictionary&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;Player&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ServerReplicator&#34;&gt;ServerReplicator&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Dictionary&#34;&gt;Dictionary&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;Player&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ServerReplicator&#34;&gt;ServerReplicator&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+A dictionary of replicators indexed by player.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkServer/SetPlayerAuthenticationRequired</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/SetPlayerAuthenticationRequired/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/SetPlayerAuthenticationRequired/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/server_network.png&#34;/&gt;&amp;nbsp;NetworkServer&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetPlayerAuthenticationRequired (
+    value: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Sets whether or not clients are required to be authenticated.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkServer/Start</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/Start/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/Start/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/server_network.png&#34;/&gt;&amp;nbsp;NetworkServer&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Start (
+    serverPort: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Starts the server.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkServer/Stop</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/Stop/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/Stop/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/server_network.png&#34;/&gt;&amp;nbsp;NetworkServer&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Stop(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Stops the server.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

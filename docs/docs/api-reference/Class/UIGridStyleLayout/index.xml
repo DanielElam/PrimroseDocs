@@ -1,0 +1,102 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/UIGridStyleLayout</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/UIGridStyleLayout/</link>
+    <description>Recent content in API:Class/UIGridStyleLayout on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/UIGridStyleLayout/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/UIGridStyleLayout/ApplyLayout</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/UIGridStyleLayout/ApplyLayout/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/UIGridStyleLayout/ApplyLayout/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/UIGridStyleLayout&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/form.png&#34;/&gt;&amp;nbsp;UIGridStyleLayout&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ApplyLayout(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/UIGridStyleLayout/FillDirection</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/UIGridStyleLayout/FillDirection/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/UIGridStyleLayout/FillDirection/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/UIGridStyleLayout&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/form.png&#34;/&gt;&amp;nbsp;UIGridStyleLayout&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FillDirection: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/FillDirection&#34;&gt;FillDirection&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/FillDirection&#34;&gt;FillDirection&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/UIGridStyleLayout/SetCustomSortFunction</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/UIGridStyleLayout/SetCustomSortFunction/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/UIGridStyleLayout/SetCustomSortFunction/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/UIGridStyleLayout&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/form.png&#34;/&gt;&amp;nbsp;UIGridStyleLayout&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetCustomSortFunction (
+    function: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Func&#34;&gt;Func&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;GuiElement&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GuiElement&#34;&gt;GuiElement&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&amp;gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/UIGridStyleLayout/SortOrder</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/UIGridStyleLayout/SortOrder/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/UIGridStyleLayout/SortOrder/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/UIGridStyleLayout&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/form.png&#34;/&gt;&amp;nbsp;UIGridStyleLayout&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SortOrder: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SortOrder&#34;&gt;SortOrder&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SortOrder&#34;&gt;SortOrder&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

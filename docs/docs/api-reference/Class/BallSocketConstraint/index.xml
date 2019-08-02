@@ -1,0 +1,121 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/BallSocketConstraint</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint/</link>
+    <description>Recent content in API:Class/BallSocketConstraint on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/BallSocketConstraint/LimitsEnabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint/LimitsEnabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint/LimitsEnabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;BallSocketConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LimitsEnabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines whether a limit is set on the rotation based on &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint/UpperAngle&#34; &gt;UpperAngle&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BallSocketConstraint/Restitution</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint/Restitution/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint/Restitution/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;BallSocketConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Restitution: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+How elastic the &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Attachment/&#34; &gt;Attachment&lt;/a&gt;s will be when they reach the end of the range specified by
+&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint/UpperAngle&#34; &gt;UpperAngle&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BallSocketConstraint/TwistLowerAngle</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint/TwistLowerAngle/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint/TwistLowerAngle/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;BallSocketConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TwistLowerAngle: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BallSocketConstraint/TwistUpperAngle</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint/TwistUpperAngle/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint/TwistUpperAngle/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;BallSocketConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TwistUpperAngle: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BallSocketConstraint/UpperAngle</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint/UpperAngle/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint/UpperAngle/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BallSocketConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/axle.png&#34;/&gt;&amp;nbsp;BallSocketConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+UpperAngle: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,417 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/ViewportFrame</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/</link>
+    <description>Recent content in API:Class/ViewportFrame on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/Active</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/Active/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/Active/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Active: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/AddView</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/AddView/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/AddView/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AddView (
+    view: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/RenderView&#34;&gt;RenderView&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/Camera</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/Camera/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/Camera/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Camera: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;Camera&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;Camera&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/CurrentCamera</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/CurrentCamera/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/CurrentCamera/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CurrentCamera: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;Camera&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;Camera&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/CurrentCameraChanged</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/CurrentCameraChanged/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/CurrentCameraChanged/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CurrentCameraChanged: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Signal&#34;&gt;Signal&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;Camera&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Signal&#34;&gt;Signal&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;Camera&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/FindPartOnRay</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/FindPartOnRay/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/FindPartOnRay/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FindPartOnRay (
+    ray: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Ray&#34;&gt;Ray&lt;/a&gt;,
+    maxLength: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+): &lt;div class=&#34;tuple&#34;&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/ValueTuple&#34;&gt;&lt;/a&gt;(&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PVInstance&#34;&gt;PVInstance&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;)&lt;/div&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;div class=&#34;tuple&#34;&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/ValueTuple&#34;&gt;&lt;/a&gt;(&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PVInstance&#34;&gt;PVInstance&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;)&lt;/div&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/FindPartOnRayWithIgnoreList</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/FindPartOnRayWithIgnoreList/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/FindPartOnRayWithIgnoreList/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FindPartOnRayWithIgnoreList (
+    ray: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Ray&#34;&gt;Ray&lt;/a&gt;,
+    ignoreList: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/IList&#34;&gt;IList&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;&amp;gt;,
+    maxLength: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+): &lt;div class=&#34;tuple&#34;&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/ValueTuple&#34;&gt;&lt;/a&gt;(&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PVInstance&#34;&gt;PVInstance&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;)&lt;/div&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;div class=&#34;tuple&#34;&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/ValueTuple&#34;&gt;&lt;/a&gt;(&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PVInstance&#34;&gt;PVInstance&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;)&lt;/div&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/FindPartOnRayWithPredicate</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/FindPartOnRayWithPredicate/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/FindPartOnRayWithPredicate/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FindPartOnRayWithPredicate (
+    ray: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Ray&#34;&gt;Ray&lt;/a&gt;,
+    filterFunc: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Func&#34;&gt;Func&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&amp;gt;,
+    maxLength: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+): &lt;div class=&#34;tuple&#34;&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/ValueTuple&#34;&gt;&lt;/a&gt;(&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PVInstance&#34;&gt;PVInstance&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;)&lt;/div&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;div class=&#34;tuple&#34;&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/ValueTuple&#34;&gt;&lt;/a&gt;(&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PVInstance&#34;&gt;PVInstance&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;)&lt;/div&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/FindPartOnRayWithWhitelist</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/FindPartOnRayWithWhitelist/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/FindPartOnRayWithWhitelist/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+FindPartOnRayWithWhitelist (
+    ray: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Ray&#34;&gt;Ray&lt;/a&gt;,
+    ignoreList: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/IList&#34;&gt;IList&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;&amp;gt;,
+    maxLength: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+): &lt;div class=&#34;tuple&#34;&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/ValueTuple&#34;&gt;&lt;/a&gt;(&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PVInstance&#34;&gt;PVInstance&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;)&lt;/div&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;div class=&#34;tuple&#34;&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/ValueTuple&#34;&gt;&lt;/a&gt;(&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PVInstance&#34;&gt;PVInstance&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;)&lt;/div&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/GetTexture</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/GetTexture/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/GetTexture/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetTexture(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Texture&#34;&gt;Texture&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Texture&#34;&gt;Texture&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/IsLoaded</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/IsLoaded/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/IsLoaded/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsLoaded: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/IsRenderable</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/IsRenderable/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/IsRenderable/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsRenderable: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/Physics</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/Physics/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/Physics/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Physics: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/PhysicsSimulation&#34;&gt;PhysicsSimulation&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/PhysicsSimulation&#34;&gt;PhysicsSimulation&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/PhysicsArea</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/PhysicsArea/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/PhysicsArea/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PhysicsArea: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicsArea&#34;&gt;PhysicsArea&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicsArea&#34;&gt;PhysicsArea&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/RemoveView</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/RemoveView/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/RemoveView/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RemoveView (
+    view: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/RenderView&#34;&gt;RenderView&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/RenderCollector</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/RenderCollector/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/RenderCollector/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RenderCollector: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/RenderCollectionManager&#34;&gt;RenderCollectionManager&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/RenderCollectionManager&#34;&gt;RenderCollectionManager&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/Sky</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/Sky/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/Sky/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Sky: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sky&#34;&gt;Sky&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Sky&#34;&gt;Sky&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/Tree</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/Tree/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/Tree/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Tree: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/CullCollection&#34;&gt;CullCollection&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/CullCollection&#34;&gt;CullCollection&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ViewportFrame/WorldRenderer</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/WorldRenderer/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame/WorldRenderer/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ViewportFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ViewportFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+WorldRenderer: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/WorldRenderFeature&#34;&gt;WorldRenderFeature&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/WorldRenderFeature&#34;&gt;WorldRenderFeature&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

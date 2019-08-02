@@ -1,0 +1,167 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/NetworkReplicator</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/</link>
+    <description>Recent content in API:Class/NetworkReplicator on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/NetworkReplicator/Address</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/Address/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/Address/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;NetworkReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Address: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The address of this connection.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkReplicator/CloseConnection</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/CloseConnection/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/CloseConnection/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;NetworkReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CloseConnection (
+    goodbye: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Disconnects the replicator, ending the connection.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkReplicator/GetPlayer</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/GetPlayer/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/GetPlayer/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;NetworkReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetPlayer(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;Player&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;Player&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns the player which is associated with this replicator.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkReplicator/IsConnected</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/IsConnected/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/IsConnected/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;NetworkReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsConnected: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Gets whether or not the connection is connected.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkReplicator/Player</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/Player/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/Player/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;NetworkReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Player: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;Player&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;Player&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The player that this replicator is connected to.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkReplicator/Port</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/Port/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/Port/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;NetworkReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Port: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The port this connection is running on.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/NetworkReplicator/ReplicationEnabled</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/ReplicationEnabled/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator/ReplicationEnabled/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkReplicator&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/connect.png&#34;/&gt;&amp;nbsp;NetworkReplicator&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ReplicationEnabled: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if replication messages should be sent/received.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

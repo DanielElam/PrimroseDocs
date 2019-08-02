@@ -1,0 +1,365 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/SplineMesh</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/</link>
+    <description>Recent content in API:Class/SplineMesh on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/CFrame</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/CFrame/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/CFrame/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CFrame: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/EndOffset</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/EndOffset/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/EndOffset/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+EndOffset: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/EndPosition</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/EndPosition/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/EndPosition/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+EndPosition: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/EndRoll</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/EndRoll/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/EndRoll/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+EndRoll: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/EndScale</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/EndScale/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/EndScale/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+EndScale: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/EndTangent</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/EndTangent/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/EndTangent/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+EndTangent: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/ForwardAxis</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/ForwardAxis/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/ForwardAxis/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ForwardAxis: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Axis&#34;&gt;Axis&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Axis&#34;&gt;Axis&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/MeshId</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/MeshId/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/MeshId/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MeshId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Mesh&#34;&gt;Mesh&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Mesh&#34;&gt;Mesh&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The content ID of the mesh data.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/SetStartAndEnd</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/SetStartAndEnd/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/SetStartAndEnd/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetStartAndEnd (
+    startPos: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;,
+    startTangent: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;,
+    endPos: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;,
+    endTangent: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;,
+    updateMesh: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/SmoothInterpRollScale</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/SmoothInterpRollScale/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/SmoothInterpRollScale/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SmoothInterpRollScale: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/SplineUpDir</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/SplineUpDir/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/SplineUpDir/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SplineUpDir: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/StartOffset</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/StartOffset/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/StartOffset/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+StartOffset: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/StartPosition</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/StartPosition/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/StartPosition/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+StartPosition: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/StartRoll</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/StartRoll/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/StartRoll/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+StartRoll: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/StartScale</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/StartScale/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/StartScale/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+StartScale: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/StartTangent</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/StartTangent/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/StartTangent/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+StartTangent: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SplineMesh/UpdateMesh</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/UpdateMesh/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh/UpdateMesh/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SplineMesh&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/splinemesh.png&#34;/&gt;&amp;nbsp;SplineMesh&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+UpdateMesh(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

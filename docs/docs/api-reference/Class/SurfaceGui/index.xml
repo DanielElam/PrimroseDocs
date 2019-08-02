@@ -1,0 +1,222 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/SurfaceGui</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/</link>
+    <description>Recent content in API:Class/SurfaceGui on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/SurfaceGui/AbsolutePosition</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/AbsolutePosition/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/AbsolutePosition/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;SurfaceGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AbsolutePosition: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SurfaceGui/AbsoluteSize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/AbsoluteSize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/AbsoluteSize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;SurfaceGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AbsoluteSize: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SurfaceGui/BlendMode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/BlendMode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/BlendMode/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;SurfaceGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+BlendMode: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/MaterialBlendMode&#34;&gt;MaterialBlendMode&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/MaterialBlendMode&#34;&gt;MaterialBlendMode&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SurfaceGui/CFrame</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/CFrame/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/CFrame/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;SurfaceGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CFrame: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/CFrame&#34;&gt;CFrame&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SurfaceGui/GetBoundingSphere</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/GetBoundingSphere/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/GetBoundingSphere/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;SurfaceGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetBoundingSphere(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/RegionSphere&#34;&gt;RegionSphere&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/RegionSphere&#34;&gt;RegionSphere&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SurfaceGui/GuiSize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/GuiSize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/GuiSize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;SurfaceGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GuiSize: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SurfaceGui/Moved</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/Moved/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/Moved/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;SurfaceGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Moved: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Signal&#34;&gt;Signal&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Signal&#34;&gt;Signal&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SurfaceGui/Size</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/Size/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/Size/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;SurfaceGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Size: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SurfaceGui/Velocity</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/Velocity/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/Velocity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;SurfaceGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Velocity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SurfaceGui/WorldOnCurrentCameraChanged</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/WorldOnCurrentCameraChanged/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui/WorldOnCurrentCameraChanged/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SurfaceGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;SurfaceGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+WorldOnCurrentCameraChanged (
+    camera: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Camera&#34;&gt;Camera&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

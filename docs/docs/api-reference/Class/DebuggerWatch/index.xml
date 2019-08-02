@@ -1,0 +1,81 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/DebuggerWatch</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerWatch/</link>
+    <description>Recent content in API:Class/DebuggerWatch on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/DebuggerWatch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/DebuggerWatch/Debugger</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerWatch/Debugger/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerWatch/Debugger/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DebuggerWatch&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/magnify.png&#34;/&gt;&amp;nbsp;DebuggerWatch&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Debugger: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScriptDebugger&#34;&gt;ScriptDebugger&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScriptDebugger&#34;&gt;ScriptDebugger&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The debugger.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/DebuggerWatch/Expression</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerWatch/Expression/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerWatch/Expression/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DebuggerWatch&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/magnify.png&#34;/&gt;&amp;nbsp;DebuggerWatch&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Expression: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The watch expression.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/DebuggerWatch/Value</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerWatch/Value/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/DebuggerWatch/Value/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DebuggerWatch&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/magnify.png&#34;/&gt;&amp;nbsp;DebuggerWatch&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Value: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The value of the watch.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Program.fsx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="hugo\config.toml" />
+    <None Include="hugo\content\en\docs\api-reference\_index.md" />
+    <None Include="hugo\content\en\docs\terminology.md" />
+    <None Include="hugo\content\en\docs\networking\client-server-model.md" />
+    <None Include="hugo\content\en\docs\editor\Widgets\Properties.md" />
+    <None Include="hugo\content\en\docs\editor\Widgets\_index.md" />
+    <None Include="hugo\content\en\docs\editor\_index.md" />
+    <None Include="hugo\content\en\docs\getting-started\_index.md" />
+    <None Include="hugo\content\en\docs\_index.md" />
+    <None Include="hugo\content\en\search.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ENet-CSharp" Version="2.3.0" />
+    <PackageReference Include="NeoLua" Version="1.3.10" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="SharpDX.Direct3D12" Version="4.2.0" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Reference Include="Engine">
+      <HintPath>..\..\Engine\bin\Win64\Debug\Engine.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+  </ItemGroup>
+    
+    <ItemGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+      <Reference Include="Engine">
+        <HintPath>..\..\Engine\bin\Win64\Release\Engine.dll</HintPath>
+      </Reference>
+  </ItemGroup>
+    
+    <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+      <Exec Command="xcopy $(ProjectDir)..\..\Engine\bin\Win64\$(ConfigurationName) $(TargetDir) /Y&#xD;&#xA;xcopy $(ProjectDir)..\..\ThirdParty\Dependencies $(TargetDir) /Y" />
+    </Target>
+
+</Project>

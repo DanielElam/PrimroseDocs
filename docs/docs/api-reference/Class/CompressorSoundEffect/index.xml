@@ -1,0 +1,144 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/CompressorSoundEffect</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect/</link>
+    <description>Recent content in API:Class/CompressorSoundEffect on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/CompressorSoundEffect/Attack</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect/Attack/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect/Attack/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;CompressorSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Attack: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/CompressorSoundEffect/GainMakeup</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect/GainMakeup/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect/GainMakeup/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;CompressorSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GainMakeup: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/CompressorSoundEffect/Ratio</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect/Ratio/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect/Ratio/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;CompressorSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Ratio: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/CompressorSoundEffect/Release</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect/Release/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect/Release/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;CompressorSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Release: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/CompressorSoundEffect/SideChain</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect/SideChain/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect/SideChain/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;CompressorSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SideChain: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/CompressorSoundEffect/Threshold</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect/Threshold/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect/Threshold/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;CompressorSoundEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Threshold: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

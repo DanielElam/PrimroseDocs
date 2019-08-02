@@ -1,0 +1,64 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/HttpService</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/HttpService/</link>
+    <description>Recent content in API:Class/HttpService on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/HttpService/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/HttpService/GenerateGuid</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HttpService/GenerateGuid/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HttpService/GenerateGuid/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HttpService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/page_code.png&#34;/&gt;&amp;nbsp;HttpService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GenerateGuid (
+    wrapInCurlyBraces: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Generates a new GUID.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/HttpService/UrlEncode</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/HttpService/UrlEncode/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/HttpService/UrlEncode/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/HttpService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/page_code.png&#34;/&gt;&amp;nbsp;HttpService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+UrlEncode (
+    input: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Encodes an URL string.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

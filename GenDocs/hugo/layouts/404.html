@@ -1,0 +1,17 @@
+{{ define "main"}}
+    <main id="main">
+      <div style="display: flex;">
+
+            <div style="display: inline-block;
+            margin: 0 auto; 
+            background-color: rgba(0, 0, 0, 0)" class="bbox center-block errorbox px-5 py-2">
+                <h3 class="bbox-title text-center">404 Not Found</h3>
+                <p class="text-center pb-2">The page does not exist.</p>
+                <img class="img border no-select" width="230" src="{{ "/images/error/404_2.jpg" | relURL }}" alt="404">
+                <p class="text-center" style="margin-top: 20px;">
+                    <a href="{{ "/docs" | relURL }}">Home</a>
+                </p>
+            </div>
+      </div>
+    </main>
+{{ end }}

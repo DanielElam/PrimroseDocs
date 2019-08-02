@@ -1,0 +1,80 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/DepthOfFieldEffect</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/DepthOfFieldEffect/</link>
+    <description>Recent content in API:Class/DepthOfFieldEffect on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/DepthOfFieldEffect/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/DepthOfFieldEffect/Method</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/DepthOfFieldEffect/Method/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/DepthOfFieldEffect/Method/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DepthOfFieldEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/posteffect.png&#34;/&gt;&amp;nbsp;DepthOfFieldEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Method: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/DofMethod&#34;&gt;DofMethod&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/DofMethod&#34;&gt;DofMethod&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The DoF method to use.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/DepthOfFieldEffect/Scale</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/DepthOfFieldEffect/Scale/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/DepthOfFieldEffect/Scale/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DepthOfFieldEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/posteffect.png&#34;/&gt;&amp;nbsp;DepthOfFieldEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Scale: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The scale of the bokeh effect.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/DepthOfFieldEffect/SpriteId</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/DepthOfFieldEffect/SpriteId/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/DepthOfFieldEffect/SpriteId/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DepthOfFieldEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/posteffect.png&#34;/&gt;&amp;nbsp;DepthOfFieldEffect&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SpriteId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

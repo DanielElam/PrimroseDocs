@@ -1,0 +1,307 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Asset/Animation</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/</link>
+    <description>Recent content in API:Asset/Animation on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Asset/Animation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Asset/Animation/AdditiveBasePose</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/AdditiveBasePose/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/AdditiveBasePose/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AdditiveBasePose: &lt;b class=&#34;page-type&#34;&gt;Animation&lt;/b&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;b class=&#34;page-type&#34;&gt;Animation&lt;/b&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Animation/AdditiveBasePoseFrameIndex</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/AdditiveBasePoseFrameIndex/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/AdditiveBasePoseFrameIndex/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AdditiveBasePoseFrameIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Animation/AdditiveBasePoseType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/AdditiveBasePoseType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/AdditiveBasePoseType/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AdditiveBasePoseType: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AdditiveBasePoseType&#34;&gt;AdditiveBasePoseType&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AdditiveBasePoseType&#34;&gt;AdditiveBasePoseType&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Animation/AdditiveType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/AdditiveType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/AdditiveType/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AdditiveType: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AdditiveAnimationType&#34;&gt;AdditiveAnimationType&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AdditiveAnimationType&#34;&gt;AdditiveAnimationType&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Animation/EnableRootMotion</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/EnableRootMotion/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/EnableRootMotion/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+EnableRootMotion: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Animation/ExtractRootMotion</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/ExtractRootMotion/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/ExtractRootMotion/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ExtractRootMotion (
+    startTime: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
+    deltaTime: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
+    allowLooping: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat4&#34;&gt;Mat4&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat4&#34;&gt;Mat4&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Animation/Framerate</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/Framerate/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/Framerate/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Framerate: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Animation/GetAnimNotifies</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/GetAnimNotifies/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/GetAnimNotifies/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetAnimNotifies (
+    prevSampleDataTime: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
+    deltaTimePosition: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
+    instanceIsLooped: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;,
+    notifies: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/List&#34;&gt;List&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/AnimNotifyEvent&#34;&gt;AnimNotifyEvent&lt;/a&gt;&amp;gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Animation/GetUniqueMarkerNames</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/GetUniqueMarkerNames/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/GetUniqueMarkerNames/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetUniqueMarkerNames(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/List&#34;&gt;List&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/List&#34;&gt;List&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Animation/IsLooped</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/IsLooped/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/IsLooped/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsLooped: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Animation/IsValidAdditive</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/IsValidAdditive/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/IsValidAdditive/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsValidAdditive(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Animation/Keyframes</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/Keyframes/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/Keyframes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Keyframes: &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Keyframe&#34;&gt;Keyframe&lt;/a&gt;[]&lt;/span&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Keyframe&#34;&gt;Keyframe&lt;/a&gt;[]&lt;/span&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Animation/Length</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/Length/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/Length/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Length: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Time&#34;&gt;Time&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Time&#34;&gt;Time&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Asset/Animation/RateScale</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/RateScale/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Asset/Animation/RateScale/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RateScale: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/UserGameSettings</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings/</link>
+    <description>Recent content in API:Class/UserGameSettings on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/UserGameSettings/GetCustomSetting</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings/GetCustomSetting/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings/GetCustomSetting/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/cog.png&#34;/&gt;&amp;nbsp;UserGameSettings&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetCustomSetting (
+    key: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns the value of a custom setting.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/UserGameSettings/GetCustomSettings</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings/GetCustomSettings/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings/GetCustomSettings/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/cog.png&#34;/&gt;&amp;nbsp;UserGameSettings&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetCustomSettings(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/IReadOnlyDictionary&#34;&gt;IReadOnlyDictionary&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/IReadOnlyDictionary&#34;&gt;IReadOnlyDictionary&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;, &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns a table of custom settings.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/UserGameSettings/InBorderless</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings/InBorderless/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings/InBorderless/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/cog.png&#34;/&gt;&amp;nbsp;UserGameSettings&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+InBorderless(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the game is in borderless window mode.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/UserGameSettings/InFullScreen</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings/InFullScreen/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings/InFullScreen/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/cog.png&#34;/&gt;&amp;nbsp;UserGameSettings&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+InFullScreen(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the game is in fullscreen.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/UserGameSettings/SetCustomSetting</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings/SetCustomSetting/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings/SetCustomSetting/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/UserGameSettings&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/cog.png&#34;/&gt;&amp;nbsp;UserGameSettings&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SetCustomSetting (
+    key: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;,
+    value: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Sets the value of a custom setting.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

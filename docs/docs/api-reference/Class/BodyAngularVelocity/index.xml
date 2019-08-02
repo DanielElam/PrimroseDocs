@@ -1,0 +1,81 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/BodyAngularVelocity</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/BodyAngularVelocity/</link>
+    <description>Recent content in API:Class/BodyAngularVelocity on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/BodyAngularVelocity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/BodyAngularVelocity/AngularVelocity</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BodyAngularVelocity/AngularVelocity/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BodyAngularVelocity/AngularVelocity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BodyAngularVelocity&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/rocket.png&#34;/&gt;&amp;nbsp;BodyAngularVelocity&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AngularVelocity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Summary&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BodyAngularVelocity/MaxTorque</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BodyAngularVelocity/MaxTorque/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BodyAngularVelocity/MaxTorque/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BodyAngularVelocity&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/rocket.png&#34;/&gt;&amp;nbsp;BodyAngularVelocity&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaxTorque: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Summary&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BodyAngularVelocity/Power</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BodyAngularVelocity/Power/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BodyAngularVelocity/Power/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BodyAngularVelocity&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/rocket.png&#34;/&gt;&amp;nbsp;BodyAngularVelocity&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Power: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+How aggressively the object tries to reach its goal.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

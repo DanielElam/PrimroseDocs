@@ -1,0 +1,120 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – Miscellaneous</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Misc/</link>
+    <description>Recent content in Miscellaneous on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Scripting</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Misc/script-globals/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Misc/script-globals/</guid>
+      <description>
+        
+        
+        
+
+&lt;h2 id=&#34;variables&#34;&gt;Variables&lt;/h2&gt;
+
+&lt;table class=&#34;table table-striped&#34;&gt;
+   &lt;tbody&gt;
+&lt;tr&gt;
+    &lt;td&gt;
+    &lt;a class=&#34;type-link&#34; style=&#34;color:green;&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Game&#34;&gt;Game&lt;/a&gt;
+    &lt;b&gt;game&lt;/b&gt;
+    &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;
+    &lt;span&gt;A reference to the &lt;code&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Game&#34;&gt;Game&lt;/a&gt;&lt;/code&gt; instance, the root of the hierarchy.&lt;/span&gt;
+    &lt;/td&gt;
+&lt;/tr&gt;
+&lt;!--------------------&gt;
+&lt;tr&gt;
+    &lt;td&gt;
+    &lt;a class=&#34;type-link&#34; style=&#34;color:green;&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Workspace&#34;&gt;Workspace&lt;/a&gt;
+    &lt;b&gt;workspace&lt;/b&gt;
+    &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;
+    &lt;span&gt;A reference to the &lt;code&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Workspace&#34;&gt;Workspace&lt;/a&gt;&lt;/code&gt; instance.&lt;/span&gt;
+    &lt;/td&gt;
+&lt;/tr&gt;
+&lt;!--------------------&gt;
+&lt;tr&gt;
+    &lt;td&gt;
+    &lt;a class=&#34;type-link&#34; style=&#34;color:green;&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SourceCodeContainer&#34;&gt;SourceCodeContainer&lt;/a&gt;
+    &lt;b&gt;script&lt;/b&gt;
+    &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;
+    &lt;span&gt;A reference to the script object which contains the currently executing code. Can be either a &lt;code&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Script&#34;&gt;Script&lt;/a&gt;&lt;/code&gt;, &lt;code&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/LocalScript&#34;&gt;LocalScript&lt;/a&gt;&lt;/code&gt; or &lt;code&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ModuleScript&#34;&gt;ModuleScript&lt;/a&gt;&lt;/code&gt;&lt;/span&gt;
+    &lt;/td&gt;
+&lt;/tr&gt;
+&lt;!--------------------&gt;
+
+   &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;functions&#34;&gt;Functions&lt;/h2&gt;
+
+&lt;table class=&#34;table table-striped&#34;&gt;
+   &lt;tbody&gt;
+&lt;tr&gt;
+    &lt;td&gt;
+    &lt;a class=&#34;type-link&#34; style=&#34;color:green;&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/class/Game&#34;&gt;DataModel&lt;/a&gt;
+    &lt;b&gt;game&lt;/b&gt;
+    &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;
+    &lt;span&gt;A reference to the &lt;code&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/class/Game&#34;&gt;Game&lt;/a&gt;&lt;/code&gt; instance, the root of the hierarchy.&lt;/span&gt;
+    &lt;/td&gt;
+&lt;/tr&gt;
+&lt;!--------------------&gt;
+&lt;tr&gt;
+    &lt;td&gt;
+    &lt;a class=&#34;type-link&#34; style=&#34;color:green;&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/class/Workspace&#34;&gt;Workspace&lt;/a&gt;
+    &lt;b&gt;workspace&lt;/b&gt;
+    &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;
+    &lt;span&gt;A reference to the &lt;code&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/class/Workspace&#34;&gt;Workspace&lt;/a&gt;&lt;/code&gt; instance.&lt;/span&gt;
+    &lt;/td&gt;
+&lt;/tr&gt;
+&lt;!--------------------&gt;
+&lt;tr&gt;
+    &lt;td&gt;
+    &lt;a class=&#34;type-link&#34; style=&#34;color:green;&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/class/SourceCodeContainer&#34;&gt;SourceCodeContainer&lt;/a&gt;
+    &lt;b&gt;script&lt;/b&gt;
+    &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;
+    &lt;span&gt;A reference to the script object which contains the currently executing code. Can be either a &lt;code&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/class/Script&#34;&gt;Script&lt;/a&gt;&lt;/code&gt;, &lt;code&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/class/LocalScript&#34;&gt;LocalScript&lt;/a&gt;&lt;/code&gt; or &lt;code&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/class/ModuleScript&#34;&gt;ModuleScript&lt;/a&gt;&lt;/code&gt;&lt;/span&gt;
+    &lt;/td&gt;
+&lt;/tr&gt;
+&lt;!--------------------&gt;
+
+   &lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

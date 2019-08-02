@@ -1,0 +1,107 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/TextBox</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/TextBox/</link>
+    <description>Recent content in API:Class/TextBox on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/TextBox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/TextBox/AllowMultiLine</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextBox/AllowMultiLine/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextBox/AllowMultiLine/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextBox&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/textbox.png&#34;/&gt;&amp;nbsp;TextBox&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AllowMultiLine: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if new lines can be inputed.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;
+This does not affect text manually set by the &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextElement/Text&#34; &gt;Text&lt;/a&gt; property.
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextBox/AllowSelection</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextBox/AllowSelection/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextBox/AllowSelection/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextBox&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/textbox.png&#34;/&gt;&amp;nbsp;TextBox&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AllowSelection: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if text can be selected by dragging.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextBox/CaretIndex</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextBox/CaretIndex/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextBox/CaretIndex/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextBox&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/textbox.png&#34;/&gt;&amp;nbsp;TextBox&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CaretIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The index of the caret.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/TextBox/ClearTextOnFocus</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/TextBox/ClearTextOnFocus/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/TextBox/ClearTextOnFocus/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/TextBox&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/textbox.png&#34;/&gt;&amp;nbsp;TextBox&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ClearTextOnFocus: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the current text should be cleared when the TextBox is focused.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

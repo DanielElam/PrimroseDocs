@@ -1,0 +1,478 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/PhysicalSky</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/</link>
+    <description>Recent content in API:Class/PhysicalSky on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/AtmosphereThickness</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/AtmosphereThickness/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/AtmosphereThickness/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AtmosphereThickness: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/DayTime</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/DayTime/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/DayTime/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+DayTime: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/Dirty</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/Dirty/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/Dirty/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Dirty(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/Exposure</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/Exposure/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/Exposure/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Exposure: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/GetNightHorizonColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/GetNightHorizonColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/GetNightHorizonColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetNightHorizonColour(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/GetNightZenithColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/GetNightZenithColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/GetNightZenithColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetNightZenithColour(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/GroundColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/GroundColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/GroundColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GroundColour: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/MiePhaseG</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/MiePhaseG/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/MiePhaseG/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MiePhaseG: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/MieScattering</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/MieScattering/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/MieScattering/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MieScattering: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/MoonFade</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/MoonFade/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/MoonFade/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MoonFade(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/MoonInnerCorona</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/MoonInnerCorona/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/MoonInnerCorona/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MoonInnerCorona: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/MoonOuterCorona</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/MoonOuterCorona/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/MoonOuterCorona/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MoonOuterCorona: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/MoonPositionOffset</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/MoonPositionOffset/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/MoonPositionOffset/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MoonPositionOffset: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/MoonSize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/MoonSize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/MoonSize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MoonSize: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/NightHorizonColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/NightHorizonColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/NightHorizonColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+NightHorizonColour: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Colour&#34;&gt;Colour&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/NightTime</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/NightTime/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/NightTime/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+NightTime: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/NightZenithColour</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/NightZenithColour/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/NightZenithColour/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+NightZenithColour: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/ColourSequence&#34;&gt;ColourSequence&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/ColourSequence&#34;&gt;ColourSequence&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/OuterSpaceIntensity</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/OuterSpaceIntensity/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/OuterSpaceIntensity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+OuterSpaceIntensity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/RayleighScattering</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/RayleighScattering/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/RayleighScattering/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RayleighScattering: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/StarIntensity</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/StarIntensity/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/StarIntensity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+StarIntensity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/SunAnisotropyFactor</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/SunAnisotropyFactor/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/SunAnisotropyFactor/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SunAnisotropyFactor: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/SunSize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/SunSize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/SunSize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SunSize: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/PhysicalSky/SunsetTime</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/SunsetTime/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky/SunsetTime/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PhysicalSky&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/sky.png&#34;/&gt;&amp;nbsp;PhysicalSky&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+SunsetTime: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,346 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/Player</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/</link>
+    <description>Recent content in API:Class/Player on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/Player/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/Player/Backpack</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/Backpack/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/Backpack/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Backpack: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Backpack&#34;&gt;Backpack&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Backpack&#34;&gt;Backpack&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+This player&amp;rsquo;s &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Backpack/&#34; &gt;Backpack&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Player/Character</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/Character/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/Character/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Character: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Character&#34;&gt;Character&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Character&#34;&gt;Character&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The player&amp;rsquo;s &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Character/&#34; &gt;Character&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Player/GetOnlineFriends</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/GetOnlineFriends/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/GetOnlineFriends/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetOnlineFriends (
+    maxFriends: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+): &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;[]&lt;/span&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;[]&lt;/span&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns an array of friends who are online.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Player/GetPlayerFromCharacter</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/GetPlayerFromCharacter/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/GetPlayerFromCharacter/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetPlayerFromCharacter (
+    character: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Character&#34;&gt;Character&lt;/a&gt;
+): &lt;b class=&#34;page-type&#34;&gt;Player&lt;/b&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;b class=&#34;page-type&#34;&gt;Player&lt;/b&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns the player that owns the given character.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Player/GiveTool</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/GiveTool/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/GiveTool/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GiveTool (
+    tool: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Tool&#34;&gt;Tool&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Player/IsFriend</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/IsFriend/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/IsFriend/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsFriend(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Returns true if this player is a friend of the &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Players/LocalPlayer&#34; &gt;LocalPlayer&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Player/IsLobbyLeader</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/IsLobbyLeader/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/IsLobbyLeader/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsLobbyLeader: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Player/IsTeamMate</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/IsTeamMate/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/IsTeamMate/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+IsTeamMate(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if this player is on the same team as the &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Players/LocalPlayer&#34; &gt;LocalPlayer&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Player/Kick</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/Kick/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/Kick/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Kick (
+    reason: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Disconnects player from the server.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Player/LoadCharacter</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/LoadCharacter/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/LoadCharacter/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+LoadCharacter(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Spawns a new &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player/Character&#34; &gt;Character&lt;/a&gt; for the given player. If the player already has a character it will be destroyed.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;
+When a player is in the frontend/main menu, they will probably load a character
+but when they join a server they the server will have to override it with a new
+server-authorative character
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Player/PlayerGui</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/PlayerGui/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/PlayerGui/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PlayerGui: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PlayerGui&#34;&gt;PlayerGui&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PlayerGui&#34;&gt;PlayerGui&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+This player&amp;rsquo;s &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PlayerGui/&#34; &gt;PlayerGui&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Player/PlayerScripts</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/PlayerScripts/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/PlayerScripts/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+PlayerScripts: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PlayerScripts&#34;&gt;PlayerScripts&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PlayerScripts&#34;&gt;PlayerScripts&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+A folder for player scripts.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Player/Replicator</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/Replicator/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/Replicator/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Replicator: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ServerReplicator&#34;&gt;ServerReplicator&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ServerReplicator&#34;&gt;ServerReplicator&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The replicator that represents this player&amp;rsquo;s connection.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Player/Team</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/Team/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/Team/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Team: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Team&#34;&gt;Team&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Team&#34;&gt;Team&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The team that this player is on.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/Player/UserId</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/Player/UserId/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/Player/UserId/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+UserId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The player&amp;rsquo;s user ID.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

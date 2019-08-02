@@ -1,0 +1,81 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/UIAspectRatioConstraint</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/UIAspectRatioConstraint/</link>
+    <description>Recent content in API:Class/UIAspectRatioConstraint on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/UIAspectRatioConstraint/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/UIAspectRatioConstraint/AspectRatio</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/UIAspectRatioConstraint/AspectRatio/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/UIAspectRatioConstraint/AspectRatio/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/UIAspectRatioConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/form.png&#34;/&gt;&amp;nbsp;UIAspectRatioConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AspectRatio: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/UIAspectRatioConstraint/AspectType</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/UIAspectRatioConstraint/AspectType/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/UIAspectRatioConstraint/AspectType/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/UIAspectRatioConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/form.png&#34;/&gt;&amp;nbsp;UIAspectRatioConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AspectType: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AspectType&#34;&gt;AspectType&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/AspectType&#34;&gt;AspectType&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/UIAspectRatioConstraint/DominantAxis</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/UIAspectRatioConstraint/DominantAxis/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/UIAspectRatioConstraint/DominantAxis/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/UIAspectRatioConstraint&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/form.png&#34;/&gt;&amp;nbsp;UIAspectRatioConstraint&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+DominantAxis: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/DominantAxis&#34;&gt;DominantAxis&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/DominantAxis&#34;&gt;DominantAxis&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Comment&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

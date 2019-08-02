@@ -1,0 +1,143 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/RemoteFunction</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction/</link>
+    <description>Recent content in API:Class/RemoteFunction on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/RemoteFunction/ClientInvokeCallback</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction/ClientInvokeCallback/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction/ClientInvokeCallback/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_method.png&#34;/&gt;&amp;nbsp;RemoteFunction&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ClientInvokeCallback: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Delegate&#34;&gt;Delegate&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Delegate&#34;&gt;Delegate&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The callback for when the server invokes this function.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;
+This function will execute on the client when the server invokes it with InvokeClient()
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RemoteFunction/DeliveryMethod</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction/DeliveryMethod/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction/DeliveryMethod/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_method.png&#34;/&gt;&amp;nbsp;RemoteFunction&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+DeliveryMethod: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/DeliveryMethod&#34;&gt;DeliveryMethod&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/DeliveryMethod&#34;&gt;DeliveryMethod&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines how reliable the message delivery is.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RemoteFunction/InvokeClient</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction/InvokeClient/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction/InvokeClient/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_method.png&#34;/&gt;&amp;nbsp;RemoteFunction&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+InvokeClient (
+    player: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;Player&lt;/a&gt;,
+    args: &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Invokes the function that the provided player has bound to this instance.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RemoteFunction/InvokeServer</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction/InvokeServer/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction/InvokeServer/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_method.png&#34;/&gt;&amp;nbsp;RemoteFunction&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+InvokeServer (
+    args: &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;[]&lt;/span&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/object&#34;&gt;object&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Invokes the function that the server has bound to this instance.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;
+The client will yield until any changes that require replication during the call are replicated.
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/RemoteFunction/ServerInvokeCallback</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction/ServerInvokeCallback/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction/ServerInvokeCallback/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/remote_method.png&#34;/&gt;&amp;nbsp;RemoteFunction&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ServerInvokeCallback: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Delegate&#34;&gt;Delegate&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Delegate&#34;&gt;Delegate&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The callback for when the client invokes this function.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;
+This function will execute on the server when the client invokes it with InvokeServer()
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

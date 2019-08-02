@@ -1,0 +1,22 @@
+
+{{ $isDeprecated := eq .Params.deprecated true  }}
+<div class="td-content{{ if $isDeprecated }} deprecated{{ end }}">
+	{{ if $isDeprecated }}
+	<div class="alert alert-danger" role="alert">
+		<h4 class="alert-heading">Deprecated</h4>
+		This item is deprecated and should not be used for new work.
+	</div>
+	{{ end }}
+	<h1>{{ .LinkTitle }}</h1>
+	{{ with .Params.description }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
+	{{ .Content }}
+	{{ if (and (not .Params.hide_feedback) (.Site.Params.ui.feedback.enable) (.Site.GoogleAnalytics)) }}
+		{{ partial "feedback.html" .Site.Params.ui.feedback }}
+		<br />
+	{{ end }}
+	{{ if (.Site.DisqusShortname) }}
+		<br />
+		{{ partial "disqus-comment.html" . }}
+	{{ end }}
+	<div class="text-muted mt-5 pt-3 border-top">{{ partial "page-meta-lastmod.html" . }}</div>
+</div>

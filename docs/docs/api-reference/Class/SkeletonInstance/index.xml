@@ -1,0 +1,204 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/SkeletonInstance</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/</link>
+    <description>Recent content in API:Class/SkeletonInstance on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/SkeletonInstance/ApplyPose</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/ApplyPose/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/ApplyPose/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;SkeletonInstance&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ApplyPose (
+    pose: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Pose&#34;&gt;Pose&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SkeletonInstance/DrawDebugBones</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/DrawDebugBones/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/DrawDebugBones/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;SkeletonInstance&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+DrawDebugBones: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SkeletonInstance/GetBone</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/GetBone/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/GetBone/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;SkeletonInstance&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetBone (
+    boneName: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;Bone&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;Bone&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SkeletonInstance/GetBoneName</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/GetBoneName/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/GetBoneName/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;SkeletonInstance&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GetBoneName (
+    boneIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SkeletonInstance/Mesh</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/Mesh/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/Mesh/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;SkeletonInstance&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Mesh: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletalMesh&#34;&gt;SkeletalMesh&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletalMesh&#34;&gt;SkeletalMesh&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SkeletonInstance/RootBone</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/RootBone/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/RootBone/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;SkeletonInstance&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RootBone: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;Bone&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Bone&#34;&gt;Bone&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SkeletonInstance/Skeleton</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/Skeleton/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/Skeleton/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;SkeletonInstance&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Skeleton: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton&#34;&gt;Skeleton&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Skeleton&#34;&gt;Skeleton&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SkeletonInstance/Sockets</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/Sockets/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/Sockets/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;SkeletonInstance&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Sockets: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/FastList&#34;&gt;FastList&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Socket&#34;&gt;Socket&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/FastList&#34;&gt;FastList&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Socket&#34;&gt;Socket&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/SkeletonInstance/ToString</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/ToString/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance/ToString/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/SkeletonInstance&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/bone.png&#34;/&gt;&amp;nbsp;SkeletonInstance&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ToString(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

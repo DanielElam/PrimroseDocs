@@ -1,0 +1,18 @@
+---
+title: API:Class/Instance/GetDescendants
+linkTitle: "GetDescendants"
+weight: 71
+date: 2019-08-02
+namespace: Primrose.DataModel.Instance.GetDescendants
+deprecated: false
+no_list: true
+---
+Method of <a href="/docs/api-reference/Class/Instance"><img src="/icons/silk/default.png"/>&nbsp;Instance</a>
+<pre class="method-declaration">
+GetDescendants(): <span><b class="page-type">Instance</b>[]</span></pre>
+<b>Return Type: </b>
+<span><b class="page-type">Instance</b>[]</span>
+<br/>
+<b>Description: </b>
+Returns an array of all descendant instances.
+

@@ -1,0 +1,229 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/BillboardGui</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/</link>
+    <description>Recent content in API:Class/BillboardGui on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/BillboardGui/AbsolutePosition</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/AbsolutePosition/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/AbsolutePosition/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;BillboardGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AbsolutePosition: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BillboardGui/AbsoluteSize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/AbsoluteSize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/AbsoluteSize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;BillboardGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AbsoluteSize: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BillboardGui/Adornee</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/Adornee/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/Adornee/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;BillboardGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Adornee: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PVInstance&#34;&gt;PVInstance&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PVInstance&#34;&gt;PVInstance&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The object this billboard is adorned to.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BillboardGui/AlwaysOnTop</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/AlwaysOnTop/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/AlwaysOnTop/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;BillboardGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AlwaysOnTop: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines if the billboard is rendered ontop of other objects.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BillboardGui/DistanceCheck</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/DistanceCheck/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/DistanceCheck/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;BillboardGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+DistanceCheck (
+    cameraPos: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BillboardGui/MaxDistance</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/MaxDistance/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/MaxDistance/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;BillboardGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaxDistance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BillboardGui/Offset</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/Offset/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/Offset/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;BillboardGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Offset: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The offset from the adornee Position.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BillboardGui/RenderCollection</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/RenderCollection/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/RenderCollection/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;BillboardGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RenderCollection: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/IRenderCollection&#34;&gt;IRenderCollection&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/IRenderCollection&#34;&gt;IRenderCollection&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BillboardGui/RenderCollectionIndex</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/RenderCollectionIndex/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/RenderCollectionIndex/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;BillboardGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+RenderCollectionIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BillboardGui/Size</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/Size/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui/Size/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BillboardGui&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/billboard.png&#34;/&gt;&amp;nbsp;BillboardGui&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Size: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/UDim2&#34;&gt;UDim2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/UDim2&#34;&gt;UDim2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The size of the billboard.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
+&lt;p class=&#34;remarks&#34;&gt;&lt;a href=&#34;P:Primrose.UDim2.Scale&#34; &gt;P:Primrose.UDim2.Scale&lt;/a&gt; is relative to the size of the adornee.
+&lt;a href=&#34;P:Primrose.UDim2.Offset&#34; &gt;P:Primrose.UDim2.Offset&lt;/a&gt; is in screen pixels.
+&lt;/p&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/AIService</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/AIService/</link>
+    <description>Recent content in API:Class/AIService on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/AIService/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/AIService/BudgetMs</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/AIService/BudgetMs/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/AIService/BudgetMs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/AIService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/chart_curve.png&#34;/&gt;&amp;nbsp;AIService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+BudgetMs: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The budget time in miliseconds for AI.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/AIService/CreateAgent</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/AIService/CreateAgent/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/AIService/CreateAgent/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/AIService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/chart_curve.png&#34;/&gt;&amp;nbsp;AIService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CreateAgent (
+    character: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Character&#34;&gt;Character&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Agent&#34;&gt;Agent&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Agent&#34;&gt;Agent&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/AIService/GenerateNavMesh</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/AIService/GenerateNavMesh/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/AIService/GenerateNavMesh/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/AIService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/chart_curve.png&#34;/&gt;&amp;nbsp;AIService&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+GenerateNavMesh(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

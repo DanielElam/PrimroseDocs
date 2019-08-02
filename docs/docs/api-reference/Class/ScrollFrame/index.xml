@@ -1,0 +1,254 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/ScrollFrame</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/</link>
+    <description>Recent content in API:Class/ScrollFrame on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/ScrollFrame/AbsoluteWindowSize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/AbsoluteWindowSize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/AbsoluteWindowSize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ScrollFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+AbsoluteWindowSize: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ScrollFrame/BottomImage</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/BottomImage/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/BottomImage/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ScrollFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+BottomImage: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The texture for the bottom of the scrollbar.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ScrollFrame/CanvasPosition</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/CanvasPosition/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/CanvasPosition/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ScrollFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CanvasPosition: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec2&#34;&gt;Vec2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The scroll offset of the canvas.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ScrollFrame/CanvasSize</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/CanvasSize/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/CanvasSize/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ScrollFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+CanvasSize: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/UDim2&#34;&gt;UDim2&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/UDim2&#34;&gt;UDim2&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The size of the scrollable area.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ScrollFrame/MiddleImage</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/MiddleImage/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/MiddleImage/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ScrollFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MiddleImage: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The image for the middle of the scrollbar.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ScrollFrame/ScrollBarThickness</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/ScrollBarThickness/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/ScrollBarThickness/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ScrollFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ScrollBarThickness: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The thickness of the scrollbars.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ScrollFrame/ScrollBarVisibilityX</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/ScrollBarVisibilityX/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/ScrollBarVisibilityX/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ScrollFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ScrollBarVisibilityX: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/ScrollBarVisibility&#34;&gt;ScrollBarVisibility&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/ScrollBarVisibility&#34;&gt;ScrollBarVisibility&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The visiblity of the horizontal scrollbar.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ScrollFrame/ScrollBarVisibilityY</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/ScrollBarVisibilityY/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/ScrollBarVisibilityY/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ScrollFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ScrollBarVisibilityY: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/ScrollBarVisibility&#34;&gt;ScrollBarVisibility&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/ScrollBarVisibility&#34;&gt;ScrollBarVisibility&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The visiblity of the vertical scrollbar.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ScrollFrame/ScrollBy</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/ScrollBy/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/ScrollBy/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ScrollFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ScrollBy (
+    x: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;,
+    y: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Scrolls the canvas by the given coordinates.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ScrollFrame/ScrollTo</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/ScrollTo/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/ScrollTo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ScrollFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+ScrollTo (
+    x: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;,
+    y: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Return Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Scrolls the canvas to the given coordinates.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/ScrollFrame/TopImage</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/TopImage/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame/TopImage/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ScrollFrame&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+TopImage: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/Content&#34;&gt;Content&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/Image&#34;&gt;Image&lt;/a&gt;&amp;gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The image for the top of the scrollbar.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

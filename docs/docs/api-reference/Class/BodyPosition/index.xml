@@ -1,0 +1,102 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – API:Class/BodyPosition</title>
+    <link>https://primrose.dandev.uk/docs/api-reference/Class/BodyPosition/</link>
+    <description>Recent content in API:Class/BodyPosition on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/api-reference/Class/BodyPosition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: API:Class/BodyPosition/Damping</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BodyPosition/Damping/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BodyPosition/Damping/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BodyPosition&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/rocket.png&#34;/&gt;&amp;nbsp;BodyPosition&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Damping: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The amount of dampening to apply.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BodyPosition/MaxForce</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BodyPosition/MaxForce/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BodyPosition/MaxForce/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BodyPosition&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/rocket.png&#34;/&gt;&amp;nbsp;BodyPosition&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+MaxForce: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Summary&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BodyPosition/Position</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BodyPosition/Position/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BodyPosition/Position/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BodyPosition&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/rocket.png&#34;/&gt;&amp;nbsp;BodyPosition&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Position: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+The target position of the object.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API:Class/BodyPosition/Power</title>
+      <link>https://primrose.dandev.uk/docs/api-reference/Class/BodyPosition/Power/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/api-reference/Class/BodyPosition/Power/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/BodyPosition&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/rocket.png&#34;/&gt;&amp;nbsp;BodyPosition&lt;/a&gt;
+&lt;pre class=&#34;method-declaration&#34;&gt;
+Power: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+&lt;b&gt;Value Type: &lt;/b&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;br/&gt;
+&lt;b&gt;Description: &lt;/b&gt;
+Determines how aggressively the object tries to reach its goal.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
