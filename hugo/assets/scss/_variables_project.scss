@@ -1,0 +1,257 @@
+/*
+Add styles or override variables from the theme here.
+*/
+
+$primary: #111;
+$header-color: linear-gradient(80deg, #230f4a, black);;
+
+/*
+$primary: black;
+$primary-light: lighten($primary, 75%) !default;
+$secondary: #ab8ed2;
+$paramType: #74b374;
+$enable-gradients: false;
+$enable-rounded: false;
+$enable-shadows: false;
+$input-color: white;
+
+$link-color: #ab8ed2;
+
+$white: #111A24 !default;
+$light: white !default;
+
+$gray-100: #222 !default;
+$gray-200: #eee !default;
+$gray-300: #333 !default; // border
+$gray-400: #ccc !default;
+$gray-500: #adb5bd !default;
+$gray-600: #888 !default;
+$gray-700: #ddd !default;
+$gray-800: #333 !default;
+$gray-900: #eee !default; // text
+$navbar-dark-active-color: white;
+*/
+
+$table-accent-bg: rgba(0, 0, 0, 0.015);
+
+.navbar-logo svg {
+    margin-bottom: 4px !important;
+}
+
+#logoText {
+    font-family: "Microsoft Sans Serif" !important;
+    text-transform: none !important;
+    font-size: 16.9pt;
+}
+
+.function-row > td > div > *:first-child {
+    float: left;
+    margin-right: 6px;
+}
+
+.inheritors .deprecated {
+    text-decoration: line-through;
+}
+
+.alphabetical-index li.deprecated a {
+    text-decoration: line-through;
+}
+
+.td-content.deprecated > h1 {
+    text-decoration: line-through;
+}
+
+.td-content.deprecated .inheritance span:first-child {
+    text-decoration: line-through;
+}
+
+.function-row.deprecated .method-name {
+    text-decoration: line-through;
+}
+
+.navbar-logo svg {
+    width: 30px !important;
+    height: 30px !important;
+    display: inline !important;
+}
+
+.method-body a {
+    font-weight: bold;
+    padding-right: 0.5em;
+}
+
+.method-body .method-name.generic {
+    font-weight: bold;
+    padding-right: 0em;
+}
+
+.inheritors {
+    font-size: 14px;
+}
+
+.inheritors img {
+    margin-bottom: 2px;
+}
+
+.studiohide tbody {
+    display: block;
+    width: 100%;
+}
+ 
+.function-row {
+    border-top: 1px solid #dee2e6;
+}
+
+.function-row td {
+    width: 50%;
+    border-top: 0px solid #dee2e6 !important;
+}
+
+.function-row .return-type {
+    text-align: right;
+}
+
+.function-row .type, .function-row .param-type {
+    color: green;
+    font-weight: normal;
+}
+
+.type {
+    color: green !important;
+    font-weight: normal !important;
+}
+
+.param .type {
+    font-weight: 600 !important;
+}
+
+.param .type {
+    color: #3176d9 !important;
+}
+
+.method-declaration {
+    font-size: 1.1em;
+}
+
+.breadcrumb-item .explorer-icon {
+    margin-right: 4px;
+    margin-bottom: 3px;
+}
+
+
+.alphabetical-index {
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+    column-count: 4;
+    -webkit-column-gap: 80px;
+    -moz-column-gap: 80px;
+    column-gap: 80px;
+}
+
+.alphabetical-index .idx-col {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 28px;
+}
+
+.alphabetical-index ul {
+    padding: 0;
+}
+
+.alphabetical-index .idx-col li {
+    color: #444C56;
+    font-size: 14px;
+    line-height: 24px;
+    word-wrap: break-word;
+    list-style: none;
+}
+
+.alphabetical-index h5 {
+    color: #9caab2;
+    font-size: 20px;
+    line-height: 32px;
+    text-transform: uppercase;
+}
+
+.namespace {
+    font-size: 11pt;
+    opacity: 0.5;
+}
+
+.td-content > h1 {
+    font-weight: 700;
+    margin-bottom: 0.2rem !important;
+}
+
+.td-content > .namespace {
+    margin-bottom: 0.8rem !important;
+    display: block;
+}
+
+.inheritance {
+    font-size: 14px;
+}
+
+.inheritance img {
+    margin-bottom: 3px;
+    margin-right: 1px;
+}
+
+.navbar {
+    background: $header-color !important;
+}
+
+td.data-type-name {
+    font-family: 'Roboto Mono';
+    font-weight: 500 !important;
+    font-size: 11pt !important;
+}
+
+.summary {
+    white-space: pre-line;
+}
+
+.remarks {
+    white-space: pre-line;
+}
+
+code .k {
+    color: rgb(0, 0, 127);
+    font-weight: bold;
+}
+
+code .s {
+    color: rgb(127, 0, 127);
+}
+
+code .c, code .c1 {
+    color: rgb(0, 127, 0) !important;
+}
+
+code .o {
+    color: rgb(127, 127, 0);
+}
+
+code .bp {
+    color: rgb(127, 127, 0);
+}
+
+.td-content > h2:not(:first-child) {
+    margin-top: 1.5rem !important;
+}
+
+.method-declaration .default-param.string-param {
+    color: rgb(127, 0, 127) !important;
+}
+
+.method-declaration .default-param.int-param {
+    color: rgb(127, 127, 0) !important;
+}
+
+@media (min-width: 768px)
+{
+    h2[id]:before, h3[id]:before, h4[id]:before, h5[id]:before {
+        margin-top: 0rem !important;
+        height: 0rem !important;
+    }
+}

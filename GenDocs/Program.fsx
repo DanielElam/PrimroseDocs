@@ -9,7 +9,7 @@ open Newtonsoft.Json
 open System.Text.RegularExpressions
 
 let slnDir = "../../../../"
-let docsDir = Path.GetFullPath("../../hugo/content/en/docs/api-reference")
+let docsDir = Path.GetFullPath("../../../hugo/content/en/docs/api-reference")
 #if DEBUG
 let dllFile = Path.Combine(slnDir, "Engine", "bin", "Win64", "Debug", "Engine.dll")
 let xmlFile = Path.Combine(slnDir, "Engine", "bin", "Win64", "Debug", "Engine.xml")
@@ -39,14 +39,14 @@ type ApiType = {
             | "Char" -> "char"
             | "Byte" -> "byte"
             | "SByte" -> "sbyte"
-            | "Int16" -> "i16"
-            | "UInt16" -> "u16"
-            | "Int32" -> "i32"
-            | "UInt32" -> "u32"
-            | "Int64" -> "i64"
-            | "UInt64" -> "u64"
-            | "Single" -> "f32"
-            | "Double" -> "f64"
+            | "Int16" -> "int16"
+            | "UInt16" -> "uint16"
+            | "Int32" -> "int"
+            | "UInt32" -> "uint"
+            | "Int64" -> "long"
+            | "UInt64" -> "ulong"
+            | "Single" -> "float32"
+            | "Double" -> "double"
             | "BigInt" -> "bigint"
             | "Decimal" -> "decimal"
             | _ -> result
@@ -321,6 +321,8 @@ let DumpAPI(): ApiRoot = begin
                                                         if param.HasDefaultValue then
                                                             if param.DefaultValue = null then 
                                                                 "null" 
+                                                            elif param.ParameterType = typeof<String> then
+                                                                "\"" + param.DefaultValue.ToString() + "\""
                                                             else param.DefaultValue.ToString()
                                                         else 
                                                             null
@@ -751,6 +753,7 @@ let buildIndexPage(category: string, desc: string, explorerImage: string, classe
     sb.AppendLine desc
     sb.AppendLine date
     sb.AppendLine "no_list: true"
+    sb.AppendLine "toc_hide: true"
     sb.AppendLine "---"
 
     let groups = classes.GroupBy(fun i -> i.Name.[0]).OrderBy(fun i -> i.Key)
@@ -792,6 +795,7 @@ let buildEnumIndexPage(category: string, desc: string, explorerImage: string, en
     sb.AppendLine desc
     sb.AppendLine date
     sb.AppendLine "no_list: true"
+    sb.AppendLine "toc_hide: true"
     sb.AppendLine "---"
 
     let groups = enums.GroupBy(fun i -> i.Name.[0]).OrderBy(fun i -> i.Key)
@@ -834,6 +838,7 @@ let buildEnumPage(e: ApiEnum, root: ApiRoot): string = begin
     sb.AppendLine date
     sb.AppendLine namesp
     sb.AppendLine "no_list: true"
+    sb.AppendLine "toc_hide: true"
     sb.AppendLine "---"
 
     if e.Comment.Summary <> null then begin
@@ -907,6 +912,7 @@ let buildClassPage(c: ApiClass, root: ApiRoot): string = begin
     sb.AppendLine namesp
     sb.AppendLine deprecated
     sb.AppendLine "no_list: true"
+    sb.AppendLine "toc_hide: true"
     sb.AppendLine "---"
 
     sb.AppendLine(buildInheritance(c, root))
@@ -1012,6 +1018,7 @@ let buildFunctionPage(m: ApiFunction, pageClass: ApiClass, root: ApiRoot): strin
     sb.AppendLine namesp
     sb.AppendLine deprecated
     sb.AppendLine "no_list: true"
+    sb.AppendLine "toc_hide: true"
     sb.AppendLine "---"
 
     sb.Append "Method of "
@@ -1036,6 +1043,15 @@ let buildFunctionPage(m: ApiFunction, pageClass: ApiClass, root: ApiRoot): strin
             sb.Append param.Name
             sb.Append ": "
             sb.Append(buildType(param.Type, pageClass))
+
+            if param.Default <> null then
+                if param.Type.Name = "String" then
+                    sb.Append " = <a class=\"default-param string-param\">"
+                else
+                    sb.Append " = <a class=\"default-param int-param\">"
+                sb.Append(param.Default)
+                sb.Append "</a>" |> ignore
+
             first <- false
         done
         sb.AppendLine()
@@ -1063,6 +1079,13 @@ let buildFunctionPage(m: ApiFunction, pageClass: ApiClass, root: ApiRoot): strin
     sb.ToString()
 end
 
+let callback = fun((x: int, y: int, z: int)) -> begin
+    ()
+end
+
+let event = Primrose.DataModel.Networking.RemoteEvent()
+event.ServerFired.connect(callback)
+
 let buildPropertyPage(p: ApiProperty, c: ApiClass, root: ApiRoot): string = begin
 
     let sb = new StringBuilder()
@@ -1082,6 +1105,7 @@ let buildPropertyPage(p: ApiProperty, c: ApiClass, root: ApiRoot): string = begi
     sb.AppendLine namesp
     sb.AppendLine deprecated
     sb.AppendLine "no_list: true"
+    sb.AppendLine "toc_hide: true"
     sb.AppendLine "---"
 
     sb.Append "Property of "
@@ -1132,7 +1156,7 @@ let generateWebsite(root: ApiRoot) = begin
         for f in Directory.GetDirectories(enumDir) do Directory.Delete(f, true)
     end
 
-    for c in root.Classes do
+    for c in root.Classes.Where(fun c -> not(c.Tags.Contains("NotBrowsable"))) do
         let page = buildClassPage(c, root)
         Directory.CreateDirectory(Path.Combine(classDir, c.Name))
         File.WriteAllText(Path.Combine(classDir, c.Name, "_index.md"), page)

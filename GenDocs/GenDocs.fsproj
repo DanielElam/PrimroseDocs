@@ -14,20 +14,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Program.fsx" />
+    <EmbeddedResource Remove="hugo\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="hugo\config.toml" />
-    <None Include="hugo\content\en\docs\api-reference\_index.md" />
-    <None Include="hugo\content\en\docs\terminology.md" />
-    <None Include="hugo\content\en\docs\networking\client-server-model.md" />
-    <None Include="hugo\content\en\docs\editor\Widgets\Properties.md" />
-    <None Include="hugo\content\en\docs\editor\Widgets\_index.md" />
-    <None Include="hugo\content\en\docs\editor\_index.md" />
-    <None Include="hugo\content\en\docs\getting-started\_index.md" />
-    <None Include="hugo\content\en\docs\_index.md" />
-    <None Include="hugo\content\en\search.md" />
+    <Compile Include="Program.fsx" />
   </ItemGroup>
 
   <ItemGroup>

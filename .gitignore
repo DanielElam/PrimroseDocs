@@ -1,6 +1,7 @@
 .ionide/
 .vs/
 bin/
+obj/
 public/
 resources/
 node_modules/

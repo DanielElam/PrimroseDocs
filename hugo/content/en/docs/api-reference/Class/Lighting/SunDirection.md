@@ -1,0 +1,19 @@
+---
+title: API:Class/Lighting/SunDirection
+linkTitle: "SunDirection"
+weight: 83
+date: 2019-08-02
+namespace: Primrose.DataModel.Lighting.SunDirection
+deprecated: false
+no_list: true
+toc_hide: true
+---
+Property of <a href="/docs/api-reference/Class/Lighting"><img src="/icons/silk/lightbulb.png"/>&nbsp;Lighting</a>
+<pre class="method-declaration">
+SunDirection: <a class="type" href="/docs/api-reference/DataType/Vec3">Vec3</a></pre>
+<b>Value Type: </b>
+<a class="type" href="/docs/api-reference/DataType/Vec3">Vec3</a>
+<br/>
+<b>Description: </b>
+A unit vector of the direction the sun is facing.
+
