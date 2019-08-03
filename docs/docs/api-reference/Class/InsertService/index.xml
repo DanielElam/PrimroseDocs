@@ -48,7 +48,7 @@ Import (
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/InsertService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/package.png&#34;/&gt;&amp;nbsp;InsertService&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 LoadModel (
-    workshopId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;
+    workshopId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;uint&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;Instance&lt;/a&gt;

@@ -25,9 +25,9 @@
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;CompressorSoundEffect&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Attack: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+Attack: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 Comment&lt;/p&gt;
@@ -46,9 +46,9 @@ Comment&lt;/p&gt;
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;CompressorSoundEffect&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-GainMakeup: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+GainMakeup: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 Comment&lt;/p&gt;
@@ -67,9 +67,9 @@ Comment&lt;/p&gt;
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;CompressorSoundEffect&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Ratio: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+Ratio: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 Comment&lt;/p&gt;
@@ -88,9 +88,9 @@ Comment&lt;/p&gt;
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;CompressorSoundEffect&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Release: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+Release: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 Comment&lt;/p&gt;
@@ -130,9 +130,9 @@ Comment&lt;/p&gt;
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/CompressorSoundEffect&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/soundwave.png&#34;/&gt;&amp;nbsp;CompressorSoundEffect&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Threshold: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+Threshold: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 Comment&lt;/p&gt;

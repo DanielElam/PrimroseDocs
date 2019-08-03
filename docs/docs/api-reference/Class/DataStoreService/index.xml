@@ -27,7 +27,7 @@
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetDataStore (
     name: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;,
-    scope: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
+    scope: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt; = &lt;a class=&#34;default-param string-param&#34;&gt;&amp;ldquo;global&amp;rdquo;&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GlobalDataStore&#34;&gt;GlobalDataStore&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/GlobalDataStore&#34;&gt;GlobalDataStore&lt;/a&gt;

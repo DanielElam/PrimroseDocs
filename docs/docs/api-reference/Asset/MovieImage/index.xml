@@ -25,9 +25,9 @@
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/MovieImage&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;MovieImage&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Height: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+Height: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 
@@ -85,9 +85,9 @@ VideoFile: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/MovieImage&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;MovieImage&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Width: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+Width: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 

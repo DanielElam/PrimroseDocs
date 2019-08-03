@@ -66,9 +66,9 @@ Cubemap: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/ap
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/probe.png&#34;/&gt;&amp;nbsp;ReflectionProbe&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-CullingMask: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+CullingMask: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 Allows certain objects to be culled during capture.&lt;/p&gt;
@@ -108,9 +108,9 @@ Determines if the probe captures an HDR reflection map.&lt;/p&gt;
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/probe.png&#34;/&gt;&amp;nbsp;ReflectionProbe&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Importance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+Importance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 Used to break ties when an object is within the range of multiple probes.&lt;/p&gt;
@@ -134,9 +134,9 @@ If two probes overlap an object and they both have the same importance level, bl
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/probe.png&#34;/&gt;&amp;nbsp;ReflectionProbe&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Intensity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+Intensity: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 The intensity multiplier of the reflection.&lt;/p&gt;
@@ -175,9 +175,9 @@ IsPreviewVisible: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.u
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ReflectionProbe&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/probe.png&#34;/&gt;&amp;nbsp;ReflectionProbe&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Resolution: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+Resolution: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 The resolution of the captured cubemap.&lt;/p&gt;

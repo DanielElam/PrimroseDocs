@@ -107,9 +107,9 @@ Equals (
         
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Material&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;Material&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-GetHashCode(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+GetHashCode(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 
@@ -127,9 +127,9 @@ GetHashCode(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/d
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Material&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;Material&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-GlobalIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int64&#34;&gt;i64&lt;/a&gt;&lt;/pre&gt;
+GlobalIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int64&#34;&gt;long&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int64&#34;&gt;i64&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int64&#34;&gt;long&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 
@@ -189,9 +189,9 @@ IsWireframe: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/doc
 &lt;pre class=&#34;method-declaration&#34;&gt;
 NameToId (
     name: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
-): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 

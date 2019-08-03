@@ -129,9 +129,9 @@ The image for the middle of the scrollbar.&lt;/p&gt;
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ScrollFrame&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-ScrollBarThickness: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+ScrollBarThickness: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 The thickness of the scrollbars.&lt;/p&gt;
@@ -193,8 +193,8 @@ The visiblity of the vertical scrollbar.&lt;/p&gt;
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ScrollFrame&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 ScrollBy (
-    x: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;,
-    y: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+    x: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;,
+    y: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
@@ -217,8 +217,8 @@ Scrolls the canvas by the given coordinates.&lt;/p&gt;
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScrollFrame&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/frame.png&#34;/&gt;&amp;nbsp;ScrollFrame&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 ScrollTo (
-    x: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;,
-    y: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+    x: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;,
+    y: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;

@@ -45,9 +45,9 @@ AdditiveBasePose: &lt;b class=&#34;page-type&#34;&gt;Animation&lt;/b&gt;&lt;/pre
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-AdditiveBasePoseFrameIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+AdditiveBasePoseFrameIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 
@@ -126,8 +126,8 @@ EnableRootMotion: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.u
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 ExtractRootMotion (
-    startTime: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
-    deltaTime: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
+    startTime: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;,
+    deltaTime: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;,
     allowLooping: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Mat4&#34;&gt;Mat4&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
@@ -149,9 +149,9 @@ ExtractRootMotion (
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Framerate: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+Framerate: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 
@@ -170,8 +170,8 @@ Framerate: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetAnimNotifies (
-    prevSampleDataTime: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
-    deltaTimePosition: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
+    prevSampleDataTime: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;,
+    deltaTimePosition: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;,
     instanceIsLooped: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;,
     notifies: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/List&#34;&gt;List&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/AnimNotifyEvent&#34;&gt;AnimNotifyEvent&lt;/a&gt;&amp;gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
@@ -294,9 +294,9 @@ Length: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Animation&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/film.png&#34;/&gt;&amp;nbsp;Animation&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-RateScale: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+RateScale: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 

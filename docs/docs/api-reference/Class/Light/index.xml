@@ -45,9 +45,9 @@ BoundingBox: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/doc
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Light&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Light&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Brightness: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+Brightness: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 Comment&lt;/p&gt;
@@ -169,9 +169,9 @@ Flags: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Light&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Light&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Radius: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+Radius: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 Comment&lt;/p&gt;
@@ -210,9 +210,9 @@ RenderCollection: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.u
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Light&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/lightbulb.png&#34;/&gt;&amp;nbsp;Light&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-RenderCollectionIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+RenderCollectionIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 

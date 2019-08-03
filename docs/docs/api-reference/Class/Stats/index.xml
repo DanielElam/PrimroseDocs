@@ -25,9 +25,9 @@
         
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Stats&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;Stats&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-GetAvailablePhysicalMemory(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint64&#34;&gt;u64&lt;/a&gt;&lt;/pre&gt;
+GetAvailablePhysicalMemory(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint64&#34;&gt;ulong&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint64&#34;&gt;u64&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint64&#34;&gt;ulong&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 
@@ -47,9 +47,9 @@ GetAvailablePhysicalMemory(): &lt;a class=&#34;type&#34; href=&#34;https://primr
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetMemoryUsageForTag (
     tag: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/DevMemoryTag&#34;&gt;DevMemoryTag&lt;/a&gt;
-): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int64&#34;&gt;i64&lt;/a&gt;&lt;/pre&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int64&#34;&gt;long&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int64&#34;&gt;i64&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int64&#34;&gt;long&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 Returns the memory usage for the given tag in bytes.&lt;/p&gt;

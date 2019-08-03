@@ -27,11 +27,11 @@
 &lt;pre class=&#34;method-declaration&#34;&gt;
 AddPoint (
     position: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;,
-    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt;,
-    updateSpline: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
-): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;Local&lt;/a&gt;,
+    updateSpline: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;True&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 
@@ -70,9 +70,9 @@ Comment&lt;/p&gt;
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Duration: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+Duration: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 
@@ -91,8 +91,8 @@ Duration: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/a
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetDirectionAtDistance (
-    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
-    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt;
+    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;,
+    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;Local&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
@@ -113,9 +113,9 @@ GetDirectionAtDistance (
         
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-GetPointCount(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+GetPointCount(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 
@@ -134,8 +134,8 @@ GetPointCount(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetPositionAndTangentAtPoint (
-    pointIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;,
-    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt;
+    pointIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;,
+    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;Local&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/LuaResult&#34;&gt;LuaResult&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/LuaResult&#34;&gt;LuaResult&lt;/a&gt;
@@ -157,8 +157,8 @@ GetPositionAndTangentAtPoint (
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetPositionAtDistance (
-    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
-    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt;
+    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;,
+    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;Local&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
@@ -180,8 +180,8 @@ GetPositionAtDistance (
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetRightVectorAtDistance (
-    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
-    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt;
+    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;,
+    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;Local&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
@@ -203,11 +203,11 @@ GetRightVectorAtDistance (
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetRollAtDistance (
-    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
-    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt;
-): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;,
+    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;Local&lt;/a&gt;
+): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 
@@ -226,8 +226,8 @@ GetRollAtDistance (
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetRotationAtDistance (
-    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
-    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt;
+    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;,
+    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;Local&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Quat&#34;&gt;Quat&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Quat&#34;&gt;Quat&lt;/a&gt;
@@ -249,7 +249,7 @@ GetRotationAtDistance (
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetScaleAtDistance (
-    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
@@ -271,8 +271,8 @@ GetScaleAtDistance (
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetTangentAtDistance (
-    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
-    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt;
+    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;,
+    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;Local&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
@@ -294,8 +294,8 @@ GetTangentAtDistance (
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetUpVectorAtDistance (
-    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;,
-    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt;
+    distance: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;,
+    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;Local&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;
@@ -316,9 +316,9 @@ GetUpVectorAtDistance (
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Length: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;&lt;/pre&gt;
+Length: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;f32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#single&#34;&gt;float32&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;&lt;/p&gt;
 
@@ -336,9 +336,9 @@ Length: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-LoopPosition: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+LoopPosition: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 Comment&lt;/p&gt;
@@ -378,9 +378,9 @@ Comment&lt;/p&gt;
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-ReparamStepsPerSegment: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+ReparamStepsPerSegment: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 Comment&lt;/p&gt;
@@ -400,7 +400,7 @@ Comment&lt;/p&gt;
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 SetCurveInterpModeAtPoint (
-    pointIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;,
+    pointIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;,
     mode: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Misc/CurveInterpolationMode&#34;&gt;CurveInterpolationMode&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
@@ -423,11 +423,11 @@ SetCurveInterpModeAtPoint (
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 SetTangentAtPoint (
-    pointIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;,
+    pointIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;,
     inTangent: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;,
     outTangent: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;,
-    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt;,
-    updateSpline: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;Local&lt;/a&gt;,
+    updateSpline: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;True&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
@@ -449,11 +449,11 @@ SetTangentAtPoint (
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Spline&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/curve.png&#34;/&gt;&amp;nbsp;Spline&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 SetTangentsAtPoint (
-    pointIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;,
+    pointIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;,
     inTangent: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;,
     outTangent: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/DataType/Vec3&#34;&gt;Vec3&lt;/a&gt;,
-    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt;,
-    updateSpline: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;
+    coordinateSpace: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/SplineCoordinateSpace&#34;&gt;SplineCoordinateSpace&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;Local&lt;/a&gt;,
+    updateSpline: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;True&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;

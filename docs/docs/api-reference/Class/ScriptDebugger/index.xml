@@ -48,9 +48,9 @@ Adds a watch to the debugger.&lt;/p&gt;
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScriptDebugger&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/script_module.png&#34;/&gt;&amp;nbsp;ScriptDebugger&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-CurrentLine: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+CurrentLine: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 The current line that the script is on.&lt;/p&gt;
@@ -133,7 +133,7 @@ Returns all local variables in the script.&lt;/p&gt;
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScriptDebugger&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/script_module.png&#34;/&gt;&amp;nbsp;ScriptDebugger&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetStackTrace (
-    e: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Exception&#34;&gt;Exception&lt;/a&gt;
+    e: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Exception&#34;&gt;Exception&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;null&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
@@ -218,7 +218,7 @@ The script this debugger is attached to.&lt;/p&gt;
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ScriptDebugger&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/script_module.png&#34;/&gt;&amp;nbsp;ScriptDebugger&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 SetBreakpoint (
-    line: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+    line: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DebuggerBreakpoint&#34;&gt;DebuggerBreakpoint&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/DebuggerBreakpoint&#34;&gt;DebuggerBreakpoint&lt;/a&gt;

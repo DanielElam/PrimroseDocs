@@ -4,7 +4,6 @@
     <link>https://primrose.dandev.uk/docs/</link>
     <description>Recent content in Documentation on Primrose</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://primrose.dandev.uk/docs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,15 +24,15 @@
         
         
 
-&lt;h1 id=&#34;client-server-model&#34;&gt;Client-Server Model&lt;/h1&gt;
+&lt;p&gt;&lt;p style=&#34;margin-top: 1.0rem;&#34;/&gt;&lt;/p&gt;
 
-&lt;p&gt;Multiplayer in Primrose uses the client-server networking model. A single server will have authority over the true game state, while the clients connected to it will simulate an aproximation. A client can host dedicated server concurrently, this is called a &lt;strong&gt;Listen server&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Multiplayer in Primrose uses the client-server networking model. A single server will have authority over the true game state, while the clients connected to it will simulate an aproximation. A client can host a dedicated server concurrently, this is called a &lt;strong&gt;Listen server&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;game-client&#34;&gt;Game Client&lt;/h2&gt;
 
-&lt;p&gt;When a user starts their game client, they will not be connected to any servers. They have full authority over their local simulation and can load levels and characters freely.  By default the &lt;strong&gt;Frontend&lt;/strong&gt; level is loaded. This level should serve as a main menu. The client could chose to load a singleplayer level, or request to join a multiplayer server.&lt;/p&gt;
+&lt;p&gt;When a user starts their game client, they will not be connected to a server. They will have full authority over their local simulation and can load places and characters freely.  By default the &lt;code&gt;frontend&lt;/code&gt; place is loaded on startup, which serves as a main menu. The client could choose to load a singleplayer place, or request to join a multiplayer server.&lt;/p&gt;
 
-&lt;p&gt;When the client connects to a server, the server will be put in charge of what level the client has to loads and when to load their character.&lt;/p&gt;
+&lt;p&gt;When the client connects to a server, the server will be put in charge of what place the client has to load and when to load their character.&lt;/p&gt;
 
 &lt;h2 id=&#34;starting-a-server&#34;&gt;Starting a server&lt;/h2&gt;
 
@@ -48,11 +47,14 @@
 &lt;span class=&#34;n&#34;&gt;client&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Start&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ipAddress&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;port&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2 id=&#34;connection-process&#34;&gt;Connection process&lt;/h2&gt;
 
-&lt;p&gt;The connection process goes as follows:
-1. Clients sends a connection request
-2. A &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ServerReplicator&#34;&gt;ServerReplicator&lt;/a&gt; object is created on the server to represent the connection with the client. The &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/IncomingConnection&#34;&gt;NetworkServer.IncomingConnection&lt;/a&gt; event is fired.
-3. If the server accepts, it creates a &lt;a href=&#34;docs/api-reference/Class/Player&#34; target=&#34;_blank&#34;&gt;Player&lt;/a&gt; object and instructs the client to load the &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Workspace/PlaceId&#34;&gt;current place&lt;/a&gt;.
-4. The server will load a new replicated &lt;a href=&#34;docs/api-reference/Class/Player/Character&#34; target=&#34;_blank&#34;&gt;Character&lt;/a&gt; for the player to replace its current local character.&lt;/p&gt;
+&lt;p&gt;The connection process goes as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Clients sends a connection request&lt;/li&gt;
+&lt;li&gt;A &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ServerReplicator&#34;&gt;ServerReplicator&lt;/a&gt; object is created on the server to represent the connection with the client. The &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/NetworkServer/IncomingConnection&#34;&gt;NetworkServer.IncomingConnection&lt;/a&gt; event is fired.&lt;/li&gt;
+&lt;li&gt;If the server accepts, it creates a &lt;a href=&#34;docs/api-reference/Class/Player&#34; target=&#34;_blank&#34;&gt;Player&lt;/a&gt; object and instructs the client to load the &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Workspace/PlaceId&#34;&gt;current place&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The server will load a new replicated &lt;a href=&#34;docs/api-reference/Class/Player/Character&#34; target=&#34;_blank&#34;&gt;Character&lt;/a&gt; for the player to replace its current local character.&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h2 id=&#34;client-code&#34;&gt;Client Code&lt;/h2&gt;
 
@@ -63,113 +65,67 @@
 &lt;li&gt;A player’s  &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PlayerGui&#34;&gt;PlayerGui&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;A player’s  &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Backpack&#34;&gt;Backpack&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;A player’s  &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/PlayerScripts&#34;&gt;PlayerScripts&lt;/a&gt;  folder&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;li&gt;&lt;h2 id=&#34;server-code&#34;&gt;Server Code&lt;/h2&gt;
+&lt;h2 id=&#34;server-code&#34;&gt;Server Code&lt;/h2&gt;
 
-&lt;p&gt;Server code runs inside a  &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Script&#34;&gt;Script&lt;/a&gt;. This code will only start running if the  &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Script&#34;&gt;Script&lt;/a&gt;  is a descendant of these instances:&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;Server code runs inside a  &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Script&#34;&gt;Script&lt;/a&gt;. This code will only start running if the  &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Script&#34;&gt;Script&lt;/a&gt;  is a descendant of these instances:&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player/Workspace&#34;&gt;Workspace&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ServerScriptService&#34;&gt;ServerScriptService&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player/Workspace&#34;&gt;Workspace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/ServerScriptService&#34;&gt;ServerScriptService&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;remote-functions-events&#34;&gt;Remote functions/events&lt;/h2&gt;
 
-&lt;p&gt;Remote functions and events can be used to communicate custom game data over the network. A &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player/RemoteFunction&#34;&gt;RemoteFunction&lt;/a&gt; will make the script that calls it yield until it gets a response, while &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player/RemoteEvent&#34;&gt;RemoteEvent&lt;/a&gt; does not take a response.&lt;/p&gt;
-
-&lt;h3 id=&#34;remote-procedure-call-rpc&#34;&gt;Remote Procedure Call (RPC)&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fsharp&#34; data-lang=&#34;fsharp&#34;&gt;&lt;span class=&#34;k&#34;&gt;type&lt;/span&gt; &lt;span class=&#34;nc&#34;&gt;MyScript&lt;/span&gt;&lt;span class=&#34;bp&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;begin&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;inherit&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ScriptBehaviour&lt;/span&gt;&lt;span class=&#34;bp&#34;&gt;()&lt;/span&gt;
-    
-    &lt;span class=&#34;k&#34;&gt;member&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;Start&lt;/span&gt;&lt;span class=&#34;bp&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;begin&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;end&lt;/span&gt;
-
-    &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;RpcFunction&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Client&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;]&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;member&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;ClientRpcFunction&lt;/span&gt;&lt;span class=&#34;bp&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;begin&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;end&lt;/span&gt;
-    
-    &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ServerFunction&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;member&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;ServerRpcFunction&lt;/span&gt;&lt;span class=&#34;bp&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;begin&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;end&lt;/span&gt;
-    
-    &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;MulticastFunction&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;member&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;MulticastRpcFunction&lt;/span&gt;&lt;span class=&#34;bp&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;begin&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;end&lt;/span&gt;
-&lt;span class=&#34;k&#34;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Remote functions and events can be used to communicate custom game data over the network. A &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RemoteFunction&#34;&gt;RemoteFunction&lt;/a&gt; will make the script that calls it yield until it gets a response, while &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/RemoteEvent&#34;&gt;RemoteEvent&lt;/a&gt; does not take a response.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fsharp&#34; data-lang=&#34;fsharp&#34;&gt;&lt;span class=&#34;c1&#34;&gt;// on server
+&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;remoteEvent&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;Instance&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;New&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;RemoteEvent&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;bp&#34;&gt;()&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;callback&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;fun&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;((&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;y&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;z&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;))&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&amp;gt;&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;begin&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;y&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;z&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;end&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;remoteEvent&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nn&#34;&gt;ServerEvent&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;connect&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;callback&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;remoteEvent&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Parent&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;game&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Workspace&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fsharp&#34; data-lang=&#34;fsharp&#34;&gt;&lt;span class=&#34;c1&#34;&gt;// on client
+&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;remoteEvent&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;game&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nn&#34;&gt;Workspace&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;WaitForChild&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;RemoteEvent&amp;#34;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;:?&amp;gt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;RemoteEvent&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;tuple&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;remoteEvent&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FireServer&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tuple&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
       </description>
     </item>
     
     <item>
-      <title>Docs: Terminology</title>
-      <link>https://primrose.dandev.uk/docs/terminology/</link>
-      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Docs: Assets</title>
+      <link>https://primrose.dandev.uk/docs/content/assets/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://primrose.dandev.uk/docs/terminology/</guid>
+      <guid>https://primrose.dandev.uk/docs/content/assets/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;strong&gt;Instance&lt;/strong&gt;
-A game object.&lt;/p&gt;
+        
 
-&lt;p&gt;&lt;strong&gt;Service&lt;/strong&gt;
-A singleton game object.&lt;/p&gt;
+&lt;p&gt;&lt;p style=&#34;margin-top: 1.0rem;&#34;/&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Part&lt;/strong&gt;
-A physical &lt;code&gt;Instance&lt;/code&gt; or &amp;ldquo;game entity&amp;rdquo;, usually something you can see/touch.&lt;/p&gt;
+&lt;p&gt;An asset is a piece of content which is stored in the game files. They can be textures, models, sounds, levels, et cetera.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Model&lt;/strong&gt;
-An &lt;code&gt;Instance&lt;/code&gt; for grouping and organizing &lt;code&gt;Part&lt;/code&gt; instances.&lt;/p&gt;
+&lt;p&gt;They are similar to assets on ROBLOX, but instead of uploading them through a website you import them through the Pipeline processing tool. This can be done through the &lt;strong&gt;Pipeline CLI&lt;/strong&gt; or the &lt;strong&gt;Content Browser&lt;/strong&gt; in PrimEd.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Asset&lt;/strong&gt;
-An asset is a piece of content which is stored in the game files. They can be textures, models, sounds, levels, et cetera.&lt;/p&gt;
+&lt;p&gt;Assets are usually referenced by &lt;code&gt;ContentId&lt;/code&gt; properties on instances.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;ContentId&lt;/strong&gt;
-A URI which points to an asset in the game files e.g. &lt;code&gt;content://Sounds/Music/BossBattle/A_MyBossBattleTheme.passet&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;pipeline-cli&#34;&gt;Pipeline CLI&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Material&lt;/strong&gt;
-An &lt;code&gt;Asset&lt;/code&gt; which holds data that determines how an object looks when it is rendered.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://primrose.dandev.uk/images/pipeline-example.jpg&#34; alt=&#34;pipeline cli&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Image&lt;/strong&gt;
-An &lt;code&gt;Asset&lt;/code&gt; which holds texture data.&lt;/p&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See Also&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;
-An &lt;code&gt;Asset&lt;/code&gt; which holds audio data.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sound&lt;/strong&gt;
-An &lt;code&gt;Instance&lt;/code&gt; which plays &lt;code&gt;Audio&lt;/code&gt; assets.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mesh&lt;/strong&gt;
-An &lt;code&gt;Asset&lt;/code&gt; which holds the data for a 3D model.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Meshlet&lt;/strong&gt;
-A single section that makes up a &lt;code&gt;Mesh&lt;/code&gt;. Each &lt;code&gt;Meshlet&lt;/code&gt; in a model can have its own &lt;code&gt;Material&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;StaticMesh&lt;/strong&gt;
-An instance that renders a &lt;code&gt;Mesh&lt;/code&gt; asset when parented to a &lt;code&gt;Part&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;SkeletalMesh&lt;/strong&gt;
-An &lt;code&gt;Instance&lt;/code&gt; that renders a skinned &lt;code&gt;Mesh&lt;/code&gt; asset when parented to a &lt;code&gt;Part&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Animator&lt;/strong&gt;
-An &lt;code&gt;Instance&lt;/code&gt; which serves as a state machine that loads and manages &lt;code&gt;AnimationTracks&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;AnimationTrack&lt;/strong&gt;
-An &lt;code&gt;Instance&lt;/code&gt; which plays an &lt;code&gt;Animation&lt;/code&gt; asset when loaded by an &lt;code&gt;Animator&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Game&lt;/strong&gt;
-Any object not descendant of &lt;code&gt;Workspace&lt;/code&gt; is considered part of &lt;code&gt;Game&lt;/code&gt;, these objects are persistent across level loads.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Workspace&lt;/strong&gt;
-Represents the main playable world. Instances are usually loaded from a &lt;code&gt;Place&lt;/code&gt; and are deleted when the level changes.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Place&lt;/strong&gt;
-A game level or map.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Explorer&lt;/strong&gt;
-A widget in PrimEd which displays the game object hierarchy tree.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Properties&lt;/strong&gt;
-A widget in PrimEd which displays and modifies properties of game objects.&lt;/p&gt;
+&lt;div class=&#34;section-index&#34;&gt;
+   &lt;hr class=&#34;panel-line&#34;&gt;
+   &lt;div class=&#34;entry&#34;&gt;
+      &lt;h5&gt;
+         &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/&#34;&gt;API:Asset&lt;/a&gt;
+      &lt;/h5&gt;
+      &lt;p&gt;A list of assets in the engine.&lt;/p&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
 
       </description>
     </item>

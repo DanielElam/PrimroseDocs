@@ -46,7 +46,7 @@ CurrentLobby: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/do
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/LobbyService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;LobbyService&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetLobbyFromId (
-    lobbyId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint64&#34;&gt;u64&lt;/a&gt;
+    lobbyId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint64&#34;&gt;ulong&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lobby&#34;&gt;Lobby&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Lobby&#34;&gt;Lobby&lt;/a&gt;
@@ -89,7 +89,7 @@ Attempts to host a lobby. Yields until it is created or times out.&lt;/p&gt;
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/LobbyService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;LobbyService&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 JoinLobby (
-    lobbyId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint64&#34;&gt;u64&lt;/a&gt;
+    lobbyId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint64&#34;&gt;ulong&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;

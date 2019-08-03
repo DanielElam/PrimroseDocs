@@ -26,7 +26,7 @@
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/AchievementService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/award_star_gold_1.png&#34;/&gt;&amp;nbsp;AchievementService&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 IsValidAchievement (
-    userId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;,
+    userId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;uint&lt;/a&gt;,
     achievement: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
@@ -50,7 +50,7 @@ Determines if the given achievement name is valid.&lt;/p&gt;
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/AchievementService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/award_star_gold_1.png&#34;/&gt;&amp;nbsp;AchievementService&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 RevokeAchievement (
-    userId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;,
+    userId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;uint&lt;/a&gt;,
     achievement: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
@@ -74,7 +74,7 @@ Re-locks the achievement for the user.&lt;/p&gt;
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/AchievementService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/award_star_gold_1.png&#34;/&gt;&amp;nbsp;AchievementService&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 UnlockAchievement (
-    userId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;,
+    userId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;uint&lt;/a&gt;,
     achievement: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
@@ -98,7 +98,7 @@ Unlocks the achievement for the given user.&lt;/p&gt;
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/AchievementService&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/award_star_gold_1.png&#34;/&gt;&amp;nbsp;AchievementService&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 UserHasAchievement (
-    userId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;,
+    userId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;uint&lt;/a&gt;,
     achievement: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;

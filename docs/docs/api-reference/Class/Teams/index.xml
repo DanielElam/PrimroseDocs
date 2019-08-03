@@ -47,7 +47,7 @@ Returns a list of existing teams.&lt;/p&gt;
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Teams&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/folder_football.png&#34;/&gt;&amp;nbsp;Teams&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 RebalanceTeams (
-    method: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/TeamBalanceMethod&#34;&gt;TeamBalanceMethod&lt;/a&gt;
+    method: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/TeamBalanceMethod&#34;&gt;TeamBalanceMethod&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;Random&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;

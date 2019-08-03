@@ -27,9 +27,9 @@
 &lt;pre class=&#34;method-declaration&#34;&gt;
 Bind (
     id: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;,
-    primary: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Key&#34;&gt;Key&lt;/a&gt;,
-    mouseButton: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/InputType&#34;&gt;InputType&lt;/a&gt;,
-    gamepad: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Key&#34;&gt;Key&lt;/a&gt;
+    primary: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Key&#34;&gt;Key&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;None&lt;/a&gt;,
+    mouseButton: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/InputType&#34;&gt;InputType&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;None&lt;/a&gt;,
+    gamepad: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Key&#34;&gt;Key&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;None&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;
@@ -140,9 +140,9 @@ Restore default keybindings.&lt;/p&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 TryBind (
     id: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;,
-    primary: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Key&#34;&gt;Key&lt;/a&gt;,
-    mouseButton: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/InputType&#34;&gt;InputType&lt;/a&gt;,
-    gamepad: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Key&#34;&gt;Key&lt;/a&gt;
+    primary: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Key&#34;&gt;Key&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;None&lt;/a&gt;,
+    mouseButton: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/InputType&#34;&gt;InputType&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;None&lt;/a&gt;,
+    gamepad: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Enum/Key&#34;&gt;Key&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;None&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#boolean&#34;&gt;bool&lt;/a&gt;

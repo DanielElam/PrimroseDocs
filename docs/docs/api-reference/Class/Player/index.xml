@@ -68,10 +68,10 @@ The player&amp;rsquo;s &lt;a href=&#34;https://primrose.dandev.uk/docs/api-refer
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetOnlineFriends (
-    maxFriends: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
-): &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;[]&lt;/span&gt;&lt;/pre&gt;
+    maxFriends: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt; = &lt;a class=&#34;default-param int-param&#34;&gt;250&lt;/a&gt;
+): &lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;uint&lt;/a&gt;[]&lt;/span&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
-&lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;[]&lt;/span&gt;
+&lt;span&gt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;uint&lt;/a&gt;[]&lt;/span&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 Returns an array of friends who are online.&lt;/p&gt;
@@ -229,9 +229,7 @@ Spawns a new &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class
 
 &lt;p&gt;&lt;b&gt;Notes: &lt;/b&gt;
 &lt;p class=&#34;remarks&#34;&gt;
-When a player is in the frontend/main menu, they will probably load a character
-but when they join a server they the server will have to override it with a new
-server-authorative character
+When a player joins a server, the local character they had before joining will be replaced with a server-created character.
 &lt;/p&gt;&lt;/p&gt;
 
       </description>
@@ -332,9 +330,9 @@ The team that this player is on.&lt;/p&gt;
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Player&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/user.png&#34;/&gt;&amp;nbsp;Player&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-UserId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;&lt;/pre&gt;
+UserId: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;uint&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;u32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#uint32&#34;&gt;uint&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 The player&amp;rsquo;s user ID.&lt;/p&gt;

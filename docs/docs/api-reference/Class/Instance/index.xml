@@ -356,7 +356,7 @@ GetNetworkRole(): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.u
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;Instance&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetPrefabDescendant (
-    index: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+    index: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 ): &lt;b class=&#34;page-type&#34;&gt;Instance&lt;/b&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;b class=&#34;page-type&#34;&gt;Instance&lt;/b&gt;
@@ -510,9 +510,9 @@ Item: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-r
         
         &lt;p&gt;Property of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Instance&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/default.png&#34;/&gt;&amp;nbsp;Instance&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
-Layer: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;&lt;/pre&gt;
+Layer: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Value Type: &lt;/b&gt;
-&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 &lt;br/&gt;
 &lt;b&gt;Description: &lt;/b&gt;
 The layer that this instance is set to.&lt;/p&gt;
@@ -638,7 +638,7 @@ Returns the name of the instance.&lt;/p&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 WaitForChild (
     name: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/string&#34;&gt;string&lt;/a&gt;,
-    timeout: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Nullable&#34;&gt;Nullable&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#double&#34;&gt;f64&lt;/a&gt;&amp;gt;
+    timeout: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Nullable&#34;&gt;Nullable&lt;/a&gt;&amp;lt;&lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#double&#34;&gt;double&lt;/a&gt;&amp;gt; = &lt;a class=&#34;default-param int-param&#34;&gt;null&lt;/a&gt;
 ): &lt;b class=&#34;page-type&#34;&gt;Instance&lt;/b&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;b class=&#34;page-type&#34;&gt;Instance&lt;/b&gt;

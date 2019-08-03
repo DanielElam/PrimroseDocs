@@ -1,6 +1,6 @@
 baseURL = "https://primrose.dandev.uk/"
 title = "Primrose Documentation"
-publishDir = "../../docs"
+publishDir = "../docs"
 enableRobotsTXT = true
 disablePathToLower = true
 

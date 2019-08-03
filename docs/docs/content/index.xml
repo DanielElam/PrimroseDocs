@@ -1,0 +1,56 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primrose – Content</title>
+    <link>https://primrose.dandev.uk/docs/content/</link>
+    <description>Recent content in Content on Primrose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://primrose.dandev.uk/docs/content/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Assets</title>
+      <link>https://primrose.dandev.uk/docs/content/assets/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://primrose.dandev.uk/docs/content/assets/</guid>
+      <description>
+        
+        
+        
+
+&lt;p&gt;&lt;p style=&#34;margin-top: 1.0rem;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;An asset is a piece of content which is stored in the game files. They can be textures, models, sounds, levels, et cetera.&lt;/p&gt;
+
+&lt;p&gt;They are similar to assets on ROBLOX, but instead of uploading them through a website you import them through the Pipeline processing tool. This can be done through the &lt;strong&gt;Pipeline CLI&lt;/strong&gt; or the &lt;strong&gt;Content Browser&lt;/strong&gt; in PrimEd.&lt;/p&gt;
+
+&lt;p&gt;Assets are usually referenced by &lt;code&gt;ContentId&lt;/code&gt; properties on instances.&lt;/p&gt;
+
+&lt;h2 id=&#34;pipeline-cli&#34;&gt;Pipeline CLI&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://primrose.dandev.uk/images/pipeline-example.jpg&#34; alt=&#34;pipeline cli&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;see-also&#34;&gt;See Also&lt;/h2&gt;
+
+&lt;div class=&#34;section-index&#34;&gt;
+   &lt;hr class=&#34;panel-line&#34;&gt;
+   &lt;div class=&#34;entry&#34;&gt;
+      &lt;h5&gt;
+         &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Asset/&#34;&gt;API:Asset&lt;/a&gt;
+      &lt;/h5&gt;
+      &lt;p&gt;A list of assets in the engine.&lt;/p&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

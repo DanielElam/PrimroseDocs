@@ -46,7 +46,7 @@ CameraOffset: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/do
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Vehicle&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/car.png&#34;/&gt;&amp;nbsp;Vehicle&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 GetWheel (
-    wheelIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;
+    wheelIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Wheel&#34;&gt;Wheel&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
 &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Wheel&#34;&gt;Wheel&lt;/a&gt;
@@ -68,7 +68,7 @@ GetWheel (
         &lt;p&gt;Method of &lt;a href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Vehicle&#34;&gt;&lt;img src=&#34;https://primrose.dandev.uk/icons/silk/car.png&#34;/&gt;&amp;nbsp;Vehicle&lt;/a&gt;
 &lt;pre class=&#34;method-declaration&#34;&gt;
 SetWheel (
-    wheelIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;i32&lt;/a&gt;,
+    wheelIndex: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/Primitives#int32&#34;&gt;int&lt;/a&gt;,
     wheel: &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/Class/Wheel&#34;&gt;Wheel&lt;/a&gt;
 ): &lt;a class=&#34;type&#34; href=&#34;https://primrose.dandev.uk/docs/api-reference/System/void&#34;&gt;void&lt;/a&gt;&lt;/pre&gt;
 &lt;b&gt;Return Type: &lt;/b&gt;
